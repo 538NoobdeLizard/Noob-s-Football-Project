@@ -1,13 +1,9 @@
 # Noob-s-Football-Project
----
-files:
-  - https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv
-  - https://projects.fivethirtyeight.com/soccer-api/club/spi_global_rankings.csv
----
-# SPI Ratings
 
-This file contains links to the data behind our [Club Soccer Predictions](https://projects.fivethirtyeight.com/soccer-predictions/) and [Global Club Soccer Rankings](https://projects.fivethirtyeight.com/global-club-soccer-rankings/).
+Welcome!
 
-`spi_matches.csv` contains match-by-match SPI ratings and forecasts back to 2016.
+Here you will find the code and the subsequent files you need to download, to create a table which will provide you with the effect of red cards, substitutions and goals on the TS(Team Strength), GD(Goal Difference), TR(Time Remaining) for the Premier League 2017-2018.
 
-`spi_global_rankings.csv` contains current SPI ratings and rankings for men's club teams.
+Don't forget to download all the files and change their locations on the code.
+
+PS: Forgive me for not commenting on my code, I will do it whenever I next get the time. Have fun!
