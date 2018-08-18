@@ -1,380 +1,380 @@
 date,league_id,league,team1,team2,spi1,spi2,prob1,prob2,probtie,proj_score1,proj_score2,score1,score2,xg1,xg2,nsxg1,nsxg2,adj_score1,adj_score2
-12-08-2017,2411,Barclays Premier League,Watford,Liverpool,54.25,77.15,0.2193,0.5384,0.2423,1.07,1.81,3,3,1.99,2.36,0.71,1.67,3.15,3.15
-12-08-2017,2411,Barclays Premier League,Crystal Palace,Huddersfield Town,59.47,44.57,0.6,0.1606,0.2393,1.79,0.8,0,3,0.99,0.53,1.24,0.79,0,2.95
-12-08-2017,2411,Barclays Premier League,West Bromwich Albion,AFC Bournemouth,56.21,58.25,0.4246,0.3019,0.2735,1.44,1.17,1,0,1.26,0.45,1.41,1.15,1.05,0
+12-08-2017,2411,Barclays Premier League,Watford F.C.,Liverpool,54.25,77.15,0.2193,0.5384,0.2423,1.07,1.81,3,3,1.99,2.36,0.71,1.67,3.15,3.15
+12-08-2017,2411,Barclays Premier League,Crystal Palace,Huddersfield,59.47,44.57,0.6,0.1606,0.2393,1.79,0.8,0,3,0.99,0.53,1.24,0.79,0,2.95
+12-08-2017,2411,Barclays Premier League,West Brom,Bournemouth,56.21,58.25,0.4246,0.3019,0.2735,1.44,1.17,1,0,1.26,0.45,1.41,1.15,1.05,0
 12-08-2017,2411,Barclays Premier League,Chelsea,Burnley,82.76,59.76,0.7184,0.1011,0.1805,2.4,0.63,2,3,1.63,0.46,1.75,1.17,2.1,2.52
-12-08-2017,2411,Barclays Premier League,Everton,Stoke City,67.06,60.8,0.5129,0.2283,0.2588,1.64,1,1,0,0.64,0.38,1.34,1.13,1.05,0
+12-08-2017,2411,Barclays Premier League,Everton,Stoke,67.06,60.8,0.5129,0.2283,0.2588,1.64,1,1,0,0.64,0.38,1.34,1.13,1.05,0
 12-08-2017,2411,Barclays Premier League,Southampton,Swansea,63.35,57.72,0.5044,0.2296,0.266,1.57,0.97,0,0,2.5,0.29,2.95,0.41,0,0
-12-08-2017,2411,Barclays Premier League,Brighton and Hove Albion,Manchester City,47.43,84.21,0.1143,0.6987,0.1871,0.8,2.27,0,2,0.38,2.33,0.44,2.79,0,1.98
+12-08-2017,2411,Barclays Premier League,Brighton,Manchester City,47.43,84.21,0.1143,0.6987,0.1871,0.8,2.27,0,2,0.38,2.33,0.44,2.79,0,1.98
 13-08-2017,2411,Barclays Premier League,Newcastle,Tottenham,52,80.29,0.1731,0.6044,0.2226,0.96,1.99,0,2,0.68,2.32,0.42,1.96,0,1.68
-13-08-2017,2411,Barclays Premier League,Manchester United,West Ham United,82.16,60.38,0.7051,0.0992,0.1957,2.19,0.53,4,0,2.4,0.64,2.38,1.27,3.25,0
-19-08-2017,2411,Barclays Premier League,Swansea,Manchester United,56.94,82.92,0.1782,0.5796,0.2423,0.89,1.82,0,4,0.4,3.44,0.87,1.83,0,3.3
-19-08-2017,2411,Barclays Premier League,Burnley,West Bromwich Albion,61.62,56.78,0.4893,0.2304,0.2803,1.48,0.92,0,1,1.37,0.66,1.64,0.76,0,1.05
+13-08-2017,2411,Barclays Premier League,Manchester Utd,West Ham,82.16,60.38,0.7051,0.0992,0.1957,2.19,0.53,4,0,2.4,0.64,2.38,1.27,3.25,0
+19-08-2017,2411,Barclays Premier League,Swansea,Manchester Utd,56.94,82.92,0.1782,0.5796,0.2423,0.89,1.82,0,4,0.4,3.44,0.87,1.83,0,3.3
+19-08-2017,2411,Barclays Premier League,Burnley,West Brom,61.62,56.78,0.4893,0.2304,0.2803,1.48,0.92,0,1,1.37,0.66,1.64,0.76,0,1.05
 19-08-2017,2411,Barclays Premier League,Liverpool,Crystal Palace,76.45,56.81,0.6679,0.1321,0.2,2.21,0.87,1,0,2.28,0.74,2.3,0.78,1.05,0
-19-08-2017,2411,Barclays Premier League,Leicester City,Brighton and Hove Albion,62.15,46.4,0.6063,0.1526,0.2411,1.79,0.77,2,0,2.05,0.16,0.9,0.57,2.1,0
-19-08-2017,2411,Barclays Premier League,AFC Bournemouth,Watford,57.66,55.28,0.471,0.2673,0.2617,1.62,1.16,0,2,0.54,2.37,1.07,1.73,0,1.69
-19-08-2017,2411,Barclays Premier League,Southampton,West Ham United,64.07,59.35,0.4937,0.2359,0.2704,1.56,0.99,3,2,2.05,1.86,2.08,1.61,2.52,2.1
-19-08-2017,2411,Barclays Premier League,Stoke City,Arsenal,60.68,78.07,0.2681,0.4873,0.2446,1.3,1.82,1,0,0.77,1.55,1,3.46,1.05,0
-20-08-2017,2411,Barclays Premier League,Huddersfield Town,Newcastle,47.19,50.91,0.4021,0.3064,0.2915,1.3,1.1,1,0,0.29,1.11,0.3,1.21,1.05,0
+19-08-2017,2411,Barclays Premier League,Leicester,Brighton,62.15,46.4,0.6063,0.1526,0.2411,1.79,0.77,2,0,2.05,0.16,0.9,0.57,2.1,0
+19-08-2017,2411,Barclays Premier League,Bournemouth,Watford F.C.,57.66,55.28,0.471,0.2673,0.2617,1.62,1.16,0,2,0.54,2.37,1.07,1.73,0,1.69
+19-08-2017,2411,Barclays Premier League,Southampton,West Ham,64.07,59.35,0.4937,0.2359,0.2704,1.56,0.99,3,2,2.05,1.86,2.08,1.61,2.52,2.1
+19-08-2017,2411,Barclays Premier League,Stoke,Arsenal F.C.,60.68,78.07,0.2681,0.4873,0.2446,1.3,1.82,1,0,0.77,1.55,1,3.46,1.05,0
+20-08-2017,2411,Barclays Premier League,Huddersfield,Newcastle,47.19,50.91,0.4021,0.3064,0.2915,1.3,1.1,1,0,0.29,1.11,0.3,1.21,1.05,0
 20-08-2017,2411,Barclays Premier League,Tottenham,Chelsea,81.03,81.51,0.4481,0.2988,0.2531,1.69,1.34,1,2,0.76,0.92,1.44,0.9,1.05,2.1
 21-08-2017,2411,Barclays Premier League,Manchester City,Everton,84.84,67.1,0.6746,0.1256,0.1998,2.19,0.82,1,1,1.33,0.74,3.08,0.59,1.05,1.05
-26-08-2017,2411,Barclays Premier League,AFC Bournemouth,Manchester City,55.41,84.47,0.1546,0.6423,0.2031,1.01,2.25,1,2,0.45,1.81,0.75,2.48,0.84,2.1
-26-08-2017,2411,Barclays Premier League,Watford,Brighton and Hove Albion,57.52,45.65,0.5617,0.1719,0.2664,1.59,0.75,0,0,0.3,0.96,0.61,1.85,0,0
-26-08-2017,2411,Barclays Premier League,Newcastle,West Ham United,51.16,59.54,0.3593,0.364,0.2767,1.33,1.34,3,0,2.02,0.78,2.01,0.2,2.68,0
+26-08-2017,2411,Barclays Premier League,Bournemouth,Manchester City,55.41,84.47,0.1546,0.6423,0.2031,1.01,2.25,1,2,0.45,1.81,0.75,2.48,0.84,2.1
+26-08-2017,2411,Barclays Premier League,Watford F.C.,Brighton,57.52,45.65,0.5617,0.1719,0.2664,1.59,0.75,0,0,0.3,0.96,0.61,1.85,0,0
+26-08-2017,2411,Barclays Premier League,Newcastle,West Ham,51.16,59.54,0.3593,0.364,0.2767,1.33,1.34,3,0,2.02,0.78,2.01,0.2,2.68,0
 26-08-2017,2411,Barclays Premier League,Crystal Palace,Swansea,56.61,54.83,0.4617,0.2655,0.2728,1.52,1.09,0,2,0.93,0.61,1.7,0.49,0,2.1
-26-08-2017,2411,Barclays Premier League,Huddersfield Town,Southampton,47.04,63.96,0.2768,0.4364,0.2868,1.04,1.38,0,0,1.78,0.72,1.42,0.43,0,0
-26-08-2017,2411,Barclays Premier League,Manchester United,Leicester City,84.32,62.94,0.7527,0.0744,0.1729,2.27,0.56,2,0,2.8,0.91,3.22,0.87,1.8,0
+26-08-2017,2411,Barclays Premier League,Huddersfield,Southampton,47.04,63.96,0.2768,0.4364,0.2868,1.04,1.38,0,0,1.78,0.72,1.42,0.43,0,0
+26-08-2017,2411,Barclays Premier League,Manchester Utd,Leicester,84.32,62.94,0.7527,0.0744,0.1729,2.27,0.56,2,0,2.8,0.91,3.22,0.87,1.8,0
 27-08-2017,2411,Barclays Premier League,Chelsea,Everton,82.05,67.56,0.6274,0.1564,0.2162,2.08,0.93,2,0,1.07,0.49,2.16,0.96,2.1,0
-27-08-2017,2411,Barclays Premier League,West Bromwich Albion,Stoke City,57.54,60.7,0.4028,0.2886,0.3086,1.2,0.97,1,1,0.95,1.26,0.96,1.91,1.05,1.05
-27-08-2017,2411,Barclays Premier League,Liverpool,Arsenal,76.53,77.97,0.44,0.3215,0.2386,1.85,1.56,4,0,3.62,0.61,1.57,1.51,4.02,0
+27-08-2017,2411,Barclays Premier League,West Brom,Stoke,57.54,60.7,0.4028,0.2886,0.3086,1.2,0.97,1,1,0.95,1.26,0.96,1.91,1.05,1.05
+27-08-2017,2411,Barclays Premier League,Liverpool,Arsenal F.C.,76.53,77.97,0.44,0.3215,0.2386,1.85,1.56,4,0,3.62,0.61,1.57,1.51,4.02,0
 27-08-2017,2411,Barclays Premier League,Tottenham,Burnley,80.4,60.84,0.6729,0.1188,0.2083,2.06,0.73,1,1,2.07,0.96,3.13,1.01,1.05,1.05
 09-09-2017,2411,Barclays Premier League,Manchester City,Liverpool,84.62,78.47,0.5436,0.2212,0.2352,1.93,1.16,5,0,2.5,0.45,1.91,0.47,3.65,0
-09-09-2017,2411,Barclays Premier League,Arsenal,AFC Bournemouth,76.02,55.13,0.7223,0.1073,0.1705,2.53,0.88,3,0,2.26,0.59,1.93,1.03,3.15,0
-09-09-2017,2411,Barclays Premier League,Southampton,Watford,63.2,56.08,0.5149,0.212,0.2731,1.54,0.89,0,2,0.36,0.59,0.96,0.86,0,2.1
-09-09-2017,2411,Barclays Premier League,Brighton and Hove Albion,West Bromwich Albion,47.12,56.85,0.3357,0.3388,0.3255,1,1.01,3,1,0.45,0.78,0.47,1.23,3.15,1.05
-09-09-2017,2411,Barclays Premier League,Leicester City,Chelsea,62.37,82.35,0.2283,0.5379,0.2339,1.2,1.95,1,2,1.47,0.69,0.66,1.45,1.05,2.1
+09-09-2017,2411,Barclays Premier League,Arsenal F.C.,Bournemouth,76.02,55.13,0.7223,0.1073,0.1705,2.53,0.88,3,0,2.26,0.59,1.93,1.03,3.15,0
+09-09-2017,2411,Barclays Premier League,Southampton,Watford F.C.,63.2,56.08,0.5149,0.212,0.2731,1.54,0.89,0,2,0.36,0.59,0.96,0.86,0,2.1
+09-09-2017,2411,Barclays Premier League,Brighton,West Brom,47.12,56.85,0.3357,0.3388,0.3255,1,1.01,3,1,0.45,0.78,0.47,1.23,3.15,1.05
+09-09-2017,2411,Barclays Premier League,Leicester,Chelsea,62.37,82.35,0.2283,0.5379,0.2339,1.2,1.95,1,2,1.47,0.69,0.66,1.45,1.05,2.1
 09-09-2017,2411,Barclays Premier League,Everton,Tottenham,67.03,79.94,0.297,0.4333,0.2697,1.21,1.51,0,3,1.03,2.22,1.95,1.74,0,3.15
-09-09-2017,2411,Barclays Premier League,Stoke City,Manchester United,61.39,84.68,0.1919,0.5488,0.2593,0.87,1.66,2,2,2.05,2.85,1.01,1.92,2.1,2.1
+09-09-2017,2411,Barclays Premier League,Stoke,Manchester Utd,61.39,84.68,0.1919,0.5488,0.2593,0.87,1.66,2,2,2.05,2.85,1.01,1.92,2.1,2.1
 10-09-2017,2411,Barclays Premier League,Burnley,Crystal Palace,61.45,55.37,0.5067,0.2276,0.2658,1.6,0.99,1,0,0.31,1.98,0.61,2.44,1.05,0
 10-09-2017,2411,Barclays Premier League,Swansea,Newcastle,56.09,53.67,0.4649,0.252,0.2831,1.44,0.98,0,1,1.25,1.29,1.88,1.15,0,1.05
-11-09-2017,2411,Barclays Premier League,West Ham United,Huddersfield Town,56.97,47.84,0.5392,0.2017,0.2591,1.67,0.91,2,0,1.98,0.41,1.29,0.71,1.92,0
-15-09-2017,2411,Barclays Premier League,AFC Bournemouth,Brighton and Hove Albion,54.27,48.21,0.5031,0.2168,0.28,1.48,0.87,2,1,1.35,0.9,1.9,0.93,2.1,1.05
+11-09-2017,2411,Barclays Premier League,West Ham,Huddersfield,56.97,47.84,0.5392,0.2017,0.2591,1.67,0.91,2,0,1.98,0.41,1.29,0.71,1.92,0
+15-09-2017,2411,Barclays Premier League,Bournemouth,Brighton,54.27,48.21,0.5031,0.2168,0.28,1.48,0.87,2,1,1.35,0.9,1.9,0.93,2.1,1.05
 16-09-2017,2411,Barclays Premier League,Crystal Palace,Southampton,56.47,61.22,0.391,0.316,0.293,1.28,1.12,0,1,2.46,1.04,1.64,1.62,0,1.05
-16-09-2017,2411,Barclays Premier League,West Bromwich Albion,West Ham United,55.69,57.97,0.419,0.3002,0.2809,1.4,1.15,0,0,0.79,0.25,0.72,0.47,0,0
-16-09-2017,2411,Barclays Premier League,Newcastle,Stoke City,54.64,62.46,0.3605,0.344,0.2955,1.2,1.17,2,1,2.73,0.8,1.33,1.35,2.1,1.05
+16-09-2017,2411,Barclays Premier League,West Brom,West Ham,55.69,57.97,0.419,0.3002,0.2809,1.4,1.15,0,0,0.79,0.25,0.72,0.47,0,0
+16-09-2017,2411,Barclays Premier League,Newcastle,Stoke,54.64,62.46,0.3605,0.344,0.2955,1.2,1.17,2,1,2.73,0.8,1.33,1.35,2.1,1.05
 16-09-2017,2411,Barclays Premier League,Liverpool,Burnley,76.9,60.37,0.6339,0.1497,0.2163,2.06,0.88,1,1,2.23,0.39,3.11,0.36,1.05,1.05
-16-09-2017,2411,Barclays Premier League,Watford,Manchester City,58.11,86.94,0.1484,0.6394,0.2122,0.9,2.1,0,6,0.96,3.62,0.72,2.88,0,5.55
-16-09-2017,2411,Barclays Premier League,Huddersfield Town,Leicester City,46.92,62.46,0.2897,0.4276,0.2827,1.1,1.4,1,1,0.83,1.27,1.65,1.13,1.05,1.05
+16-09-2017,2411,Barclays Premier League,Watford F.C.,Manchester City,58.11,86.94,0.1484,0.6394,0.2122,0.9,2.1,0,6,0.96,3.62,0.72,2.88,0,5.55
+16-09-2017,2411,Barclays Premier League,Huddersfield,Leicester,46.92,62.46,0.2897,0.4276,0.2827,1.1,1.4,1,1,0.83,1.27,1.65,1.13,1.05,1.05
 16-09-2017,2411,Barclays Premier League,Tottenham,Swansea,81.77,55.13,0.7824,0.0598,0.1578,2.36,0.49,0,0,1.48,0.23,2.17,0.2,0,0
-17-09-2017,2411,Barclays Premier League,Chelsea,Arsenal,83.38,77.11,0.5506,0.229,0.2204,2.14,1.33,0,0,0.89,1.62,0.85,1.16,0,0
-17-09-2017,2411,Barclays Premier League,Manchester United,Everton,84.49,64.09,0.6978,0.1031,0.1991,2.11,0.66,4,0,3,1.34,1.77,0.64,2.84,0
-23-09-2017,2411,Barclays Premier League,West Ham United,Tottenham,58.1,81.4,0.2028,0.556,0.2412,1.02,1.85,2,3,0.96,1.58,1.15,0.89,1.68,3.15
-23-09-2017,2411,Barclays Premier League,Southampton,Manchester United,61.6,85.13,0.1903,0.5579,0.2517,0.9,1.73,0,1,0.84,1.11,1.65,1.13,0,1.05
-23-09-2017,2411,Barclays Premier League,Everton,AFC Bournemouth,63.19,54.55,0.537,0.2122,0.2508,1.75,1.01,2,1,2.3,0.34,2.11,1.45,2.1,1.05
-23-09-2017,2411,Barclays Premier League,Swansea,Watford,55.46,55.51,0.4391,0.2733,0.2876,1.38,1.03,1,2,1.86,1.51,1.12,0.84,1.05,2.1
-23-09-2017,2411,Barclays Premier League,Stoke City,Chelsea,61.26,82.63,0.2171,0.5397,0.2432,1.08,1.84,0,4,0.79,1.26,1.34,1.27,0,3.72
+17-09-2017,2411,Barclays Premier League,Chelsea,Arsenal F.C.,83.38,77.11,0.5506,0.229,0.2204,2.14,1.33,0,0,0.89,1.62,0.85,1.16,0,0
+17-09-2017,2411,Barclays Premier League,Manchester Utd,Everton,84.49,64.09,0.6978,0.1031,0.1991,2.11,0.66,4,0,3,1.34,1.77,0.64,2.84,0
+23-09-2017,2411,Barclays Premier League,West Ham,Tottenham,58.1,81.4,0.2028,0.556,0.2412,1.02,1.85,2,3,0.96,1.58,1.15,0.89,1.68,3.15
+23-09-2017,2411,Barclays Premier League,Southampton,Manchester Utd,61.6,85.13,0.1903,0.5579,0.2517,0.9,1.73,0,1,0.84,1.11,1.65,1.13,0,1.05
+23-09-2017,2411,Barclays Premier League,Everton,Bournemouth,63.19,54.55,0.537,0.2122,0.2508,1.75,1.01,2,1,2.3,0.34,2.11,1.45,2.1,1.05
+23-09-2017,2411,Barclays Premier League,Swansea,Watford F.C.,55.46,55.51,0.4391,0.2733,0.2876,1.38,1.03,1,2,1.86,1.51,1.12,0.84,1.05,2.1
+23-09-2017,2411,Barclays Premier League,Stoke,Chelsea,61.26,82.63,0.2171,0.5397,0.2432,1.08,1.84,0,4,0.79,1.26,1.34,1.27,0,3.72
 23-09-2017,2411,Barclays Premier League,Manchester City,Crystal Palace,88.5,56.07,0.8554,0.0333,0.1113,2.77,0.4,5,0,5.02,0.63,3.75,0.46,4.55,0
-23-09-2017,2411,Barclays Premier League,Burnley,Huddersfield Town,60.3,47.25,0.572,0.1629,0.2651,1.6,0.72,0,0,0.5,0.27,0.67,0.49,0,0
-23-09-2017,2411,Barclays Premier League,Leicester City,Liverpool,62.12,76.92,0.2882,0.4617,0.25,1.33,1.74,2,3,2.72,2.02,0.75,1.95,2.1,3.15
-24-09-2017,2411,Barclays Premier League,Brighton and Hove Albion,Newcastle,47.92,55.87,0.3562,0.3351,0.3087,1.12,1.08,1,0,0.69,1.41,1.25,1.81,1.05,0
-25-09-2017,2411,Barclays Premier League,Arsenal,West Bromwich Albion,77.63,55.57,0.6835,0.1126,0.2039,2.09,0.71,2,0,2.47,0.9,2.83,0.65,2.1,0
-30-09-2017,2411,Barclays Premier League,Huddersfield Town,Tottenham,47.99,81.97,0.1336,0.6407,0.2257,0.74,1.91,0,4,0.24,1.34,0.19,2.16,0,3.68
-30-09-2017,2411,Barclays Premier League,West Bromwich Albion,Watford,54.88,56.37,0.4213,0.2789,0.2998,1.28,0.98,2,2,1.97,1.61,0.75,1.89,2.1,2.1
-30-09-2017,2411,Barclays Premier League,Manchester United,Crystal Palace,86.55,54.33,0.8448,0.0345,0.1207,2.63,0.38,4,0,3.06,0.35,1.91,1.3,3.8,0
-30-09-2017,2411,Barclays Premier League,AFC Bournemouth,Leicester City,54.1,62.17,0.3648,0.372,0.2632,1.45,1.46,0,0,1.54,0.71,2.11,0.49,0,0
-30-09-2017,2411,Barclays Premier League,Stoke City,Southampton,59.85,61.68,0.4189,0.2864,0.2948,1.31,1.03,2,1,2.44,1.3,1.49,2.74,2.1,1.05
-30-09-2017,2411,Barclays Premier League,West Ham United,Swansea,58.5,54.6,0.4835,0.246,0.2705,1.55,1.03,1,0,0.91,0.21,1.08,0.21,1.05,0
+23-09-2017,2411,Barclays Premier League,Burnley,Huddersfield,60.3,47.25,0.572,0.1629,0.2651,1.6,0.72,0,0,0.5,0.27,0.67,0.49,0,0
+23-09-2017,2411,Barclays Premier League,Leicester,Liverpool,62.12,76.92,0.2882,0.4617,0.25,1.33,1.74,2,3,2.72,2.02,0.75,1.95,2.1,3.15
+24-09-2017,2411,Barclays Premier League,Brighton,Newcastle,47.92,55.87,0.3562,0.3351,0.3087,1.12,1.08,1,0,0.69,1.41,1.25,1.81,1.05,0
+25-09-2017,2411,Barclays Premier League,Arsenal F.C.,West Brom,77.63,55.57,0.6835,0.1126,0.2039,2.09,0.71,2,0,2.47,0.9,2.83,0.65,2.1,0
+30-09-2017,2411,Barclays Premier League,Huddersfield,Tottenham,47.99,81.97,0.1336,0.6407,0.2257,0.74,1.91,0,4,0.24,1.34,0.19,2.16,0,3.68
+30-09-2017,2411,Barclays Premier League,West Brom,Watford F.C.,54.88,56.37,0.4213,0.2789,0.2998,1.28,0.98,2,2,1.97,1.61,0.75,1.89,2.1,2.1
+30-09-2017,2411,Barclays Premier League,Manchester Utd,Crystal Palace,86.55,54.33,0.8448,0.0345,0.1207,2.63,0.38,4,0,3.06,0.35,1.91,1.3,3.8,0
+30-09-2017,2411,Barclays Premier League,Bournemouth,Leicester,54.1,62.17,0.3648,0.372,0.2632,1.45,1.46,0,0,1.54,0.71,2.11,0.49,0,0
+30-09-2017,2411,Barclays Premier League,Stoke,Southampton,59.85,61.68,0.4189,0.2864,0.2948,1.31,1.03,2,1,2.44,1.3,1.49,2.74,2.1,1.05
+30-09-2017,2411,Barclays Premier League,West Ham,Swansea,58.5,54.6,0.4835,0.246,0.2705,1.55,1.03,1,0,0.91,0.21,1.08,0.21,1.05,0
 30-09-2017,2411,Barclays Premier League,Chelsea,Manchester City,84.68,89.65,0.3615,0.3843,0.2542,1.52,1.57,0,1,0.88,1.22,1.09,2.12,0,1.05
-01-10-2017,2411,Barclays Premier League,Arsenal,Brighton and Hove Albion,78.92,48.08,0.8061,0.0522,0.1417,2.52,0.49,2,0,2.79,0.38,2.88,1.44,2.1,0
+01-10-2017,2411,Barclays Premier League,Arsenal F.C.,Brighton,78.92,48.08,0.8061,0.0522,0.1417,2.52,0.49,2,0,2.79,0.38,2.88,1.44,2.1,0
 01-10-2017,2411,Barclays Premier League,Everton,Burnley,62.48,59.63,0.471,0.2529,0.2761,1.5,1.02,0,1,1.34,0.35,3.6,1.24,0,1.05
 01-10-2017,2411,Barclays Premier League,Newcastle,Liverpool,55.73,77.55,0.2278,0.5251,0.2471,1.1,1.79,1,1,0.37,2.25,0.33,1.82,1.05,1.05
-14-10-2017,2411,Barclays Premier League,Liverpool,Manchester United,77.8,86.94,0.3102,0.4339,0.2559,1.36,1.64,0,0,2.08,0.28,2.46,0.43,0,0
-14-10-2017,2411,Barclays Premier League,Tottenham,AFC Bournemouth,83.28,54.65,0.806,0.0515,0.1425,2.5,0.48,1,0,2.26,0.25,2.1,0.4,1.05,0
-14-10-2017,2411,Barclays Premier League,Manchester City,Stoke City,90.03,60.16,0.8492,0.0362,0.1146,2.76,0.43,7,2,4.04,0.59,2.6,0.36,7.13,2.1
-14-10-2017,2411,Barclays Premier League,Burnley,West Ham United,59.78,59.02,0.4492,0.268,0.2828,1.43,1.04,1,1,0.87,0.73,2.27,1.17,0.84,1.05
-14-10-2017,2411,Barclays Premier League,Swansea,Huddersfield Town,54.09,46.13,0.5134,0.1876,0.299,1.35,0.7,2,0,1.78,0.4,0.41,0.7,2.1,0
+14-10-2017,2411,Barclays Premier League,Liverpool,Manchester Utd,77.8,86.94,0.3102,0.4339,0.2559,1.36,1.64,0,0,2.08,0.28,2.46,0.43,0,0
+14-10-2017,2411,Barclays Premier League,Tottenham,Bournemouth,83.28,54.65,0.806,0.0515,0.1425,2.5,0.48,1,0,2.26,0.25,2.1,0.4,1.05,0
+14-10-2017,2411,Barclays Premier League,Manchester City,Stoke,90.03,60.16,0.8492,0.0362,0.1146,2.76,0.43,7,2,4.04,0.59,2.6,0.36,7.13,2.1
+14-10-2017,2411,Barclays Premier League,Burnley,West Ham,59.78,59.02,0.4492,0.268,0.2828,1.43,1.04,1,1,0.87,0.73,2.27,1.17,0.84,1.05
+14-10-2017,2411,Barclays Premier League,Swansea,Huddersfield,54.09,46.13,0.5134,0.1876,0.299,1.35,0.7,2,0,1.78,0.4,0.41,0.7,2.1,0
 14-10-2017,2411,Barclays Premier League,Crystal Palace,Chelsea,53.72,83.93,0.1498,0.6394,0.2108,0.92,2.13,2,1,1.52,0.8,1.47,1.07,2.1,1.05
-14-10-2017,2411,Barclays Premier League,Watford,Arsenal,56.95,79.1,0.2227,0.5521,0.2252,1.25,2.07,2,1,1.7,0.93,0.89,1.59,2.1,1.05
-15-10-2017,2411,Barclays Premier League,Brighton and Hove Albion,Everton,47.85,62.31,0.2978,0.4087,0.2936,1.07,1.3,1,1,1.17,1.65,1.27,1.28,1.05,1.05
+14-10-2017,2411,Barclays Premier League,Watford F.C.,Arsenal F.C.,56.95,79.1,0.2227,0.5521,0.2252,1.25,2.07,2,1,1.7,0.93,0.89,1.59,2.1,1.05
+15-10-2017,2411,Barclays Premier League,Brighton,Everton,47.85,62.31,0.2978,0.4087,0.2936,1.07,1.3,1,1,1.17,1.65,1.27,1.28,1.05,1.05
 15-10-2017,2411,Barclays Premier League,Southampton,Newcastle,61.43,55.36,0.4999,0.2146,0.2854,1.44,0.84,2,2,1.92,1.13,1.39,1.07,2.1,2.1
-16-10-2017,2411,Barclays Premier League,Leicester City,West Bromwich Albion,61.62,54.29,0.5163,0.2118,0.272,1.55,0.89,1,1,1.21,0.25,1.08,0.41,1.05,1.05
-20-10-2017,2411,Barclays Premier League,West Ham United,Brighton and Hove Albion,59.17,47.98,0.5538,0.1763,0.27,1.56,0.76,0,3,0.71,1.85,1.66,0.85,0,3.02
-21-10-2017,2411,Barclays Premier League,Chelsea,Watford,82.15,58.23,0.7637,0.0756,0.1607,2.45,0.64,4,2,1.92,1.83,1.52,2.32,3.68,2.1
-21-10-2017,2411,Barclays Premier League,Huddersfield Town,Manchester United,45.27,86.08,0.0884,0.7162,0.1954,0.57,2.08,2,1,1.3,0.84,0.9,1.92,2.1,1.05
+16-10-2017,2411,Barclays Premier League,Leicester,West Brom,61.62,54.29,0.5163,0.2118,0.272,1.55,0.89,1,1,1.21,0.25,1.08,0.41,1.05,1.05
+20-10-2017,2411,Barclays Premier League,West Ham,Brighton,59.17,47.98,0.5538,0.1763,0.27,1.56,0.76,0,3,0.71,1.85,1.66,0.85,0,3.02
+21-10-2017,2411,Barclays Premier League,Chelsea,Watford F.C.,82.15,58.23,0.7637,0.0756,0.1607,2.45,0.64,4,2,1.92,1.83,1.52,2.32,3.68,2.1
+21-10-2017,2411,Barclays Premier League,Huddersfield,Manchester Utd,45.27,86.08,0.0884,0.7162,0.1954,0.57,2.08,2,1,1.3,0.84,0.9,1.92,2.1,1.05
 21-10-2017,2411,Barclays Premier League,Manchester City,Burnley,90.45,59.63,0.8536,0.0334,0.113,2.74,0.39,3,0,3.77,0.17,2.19,0.76,2.96,0
-21-10-2017,2411,Barclays Premier League,Stoke City,AFC Bournemouth,59.67,54.6,0.4984,0.2416,0.26,1.66,1.08,1,2,1.5,1.02,2.25,0.45,1.05,2.1
-21-10-2017,2411,Barclays Premier League,Swansea,Leicester City,54.99,61.37,0.3762,0.3337,0.2901,1.27,1.18,1,2,0.71,1.9,1.25,1.21,1.05,2.1
+21-10-2017,2411,Barclays Premier League,Stoke,Bournemouth,59.67,54.6,0.4984,0.2416,0.26,1.66,1.08,1,2,1.5,1.02,2.25,0.45,1.05,2.1
+21-10-2017,2411,Barclays Premier League,Swansea,Leicester,54.99,61.37,0.3762,0.3337,0.2901,1.27,1.18,1,2,0.71,1.9,1.25,1.21,1.05,2.1
 21-10-2017,2411,Barclays Premier League,Newcastle,Crystal Palace,55.86,55.99,0.44,0.2784,0.2816,1.43,1.08,1,0,0.33,0.54,0.93,0.99,1.05,0
-21-10-2017,2411,Barclays Premier League,Southampton,West Bromwich Albion,60.97,54.54,0.5021,0.2096,0.2883,1.42,0.81,1,0,1.91,0.43,2.01,0.31,1.05,0
-22-10-2017,2411,Barclays Premier League,Everton,Arsenal,62.09,77.9,0.2793,0.4754,0.2452,1.34,1.8,2,5,0.83,4.24,0.63,3.29,2.1,3.31
+21-10-2017,2411,Barclays Premier League,Southampton,West Brom,60.97,54.54,0.5021,0.2096,0.2883,1.42,0.81,1,0,1.91,0.43,2.01,0.31,1.05,0
+22-10-2017,2411,Barclays Premier League,Everton,Arsenal F.C.,62.09,77.9,0.2793,0.4754,0.2452,1.34,1.8,2,5,0.83,4.24,0.63,3.29,2.1,3.31
 22-10-2017,2411,Barclays Premier League,Tottenham,Liverpool,83.42,81.11,0.4903,0.2566,0.253,1.72,1.18,4,1,2.95,0.78,0.63,0.83,4.2,1.05
-28-10-2017,2411,Barclays Premier League,Manchester United,Tottenham,84.39,84.51,0.4432,0.2852,0.2717,1.51,1.16,1,0,1.04,1.08,0.9,1.14,1.05,0
-28-10-2017,2411,Barclays Premier League,Arsenal,Swansea,79.42,53.96,0.7642,0.0748,0.161,2.44,0.63,2,1,2.54,0.86,2.62,0.57,2.1,1.05
-28-10-2017,2411,Barclays Premier League,Watford,Stoke City,59.82,59.07,0.4556,0.2864,0.258,1.65,1.26,0,1,1.29,0.34,2.56,0.64,0,1.05
-28-10-2017,2411,Barclays Premier League,Liverpool,Huddersfield Town,80.02,48.01,0.8162,0.0439,0.1399,2.46,0.41,3,0,2.36,0.06,2.17,0.03,3.03,0
-28-10-2017,2411,Barclays Premier League,West Bromwich Albion,Manchester City,53.6,90.78,0.0899,0.7388,0.1713,0.71,2.4,2,3,1.18,1.82,0.63,2.93,2.1,3.15
-28-10-2017,2411,Barclays Premier League,Crystal Palace,West Ham United,55.88,56.05,0.4416,0.2835,0.2749,1.48,1.13,2,2,2.24,0.91,2.33,1.04,2.1,2.1
-28-10-2017,2411,Barclays Premier League,AFC Bournemouth,Chelsea,55.19,81.18,0.1876,0.5907,0.2217,1.08,2.07,0,1,0.53,1.94,1.28,3.4,0,1.05
-29-10-2017,2411,Barclays Premier League,Brighton and Hove Albion,Southampton,50.99,61.89,0.3287,0.364,0.3074,1.07,1.14,1,1,1.64,0.63,1.35,0.38,1.05,1.05
-29-10-2017,2411,Barclays Premier League,Leicester City,Everton,62.41,60.41,0.4678,0.2707,0.2615,1.62,1.18,2,0,1.44,0.72,0.64,1.41,2.1,0
+28-10-2017,2411,Barclays Premier League,Manchester Utd,Tottenham,84.39,84.51,0.4432,0.2852,0.2717,1.51,1.16,1,0,1.04,1.08,0.9,1.14,1.05,0
+28-10-2017,2411,Barclays Premier League,Arsenal F.C.,Swansea,79.42,53.96,0.7642,0.0748,0.161,2.44,0.63,2,1,2.54,0.86,2.62,0.57,2.1,1.05
+28-10-2017,2411,Barclays Premier League,Watford F.C.,Stoke,59.82,59.07,0.4556,0.2864,0.258,1.65,1.26,0,1,1.29,0.34,2.56,0.64,0,1.05
+28-10-2017,2411,Barclays Premier League,Liverpool,Huddersfield,80.02,48.01,0.8162,0.0439,0.1399,2.46,0.41,3,0,2.36,0.06,2.17,0.03,3.03,0
+28-10-2017,2411,Barclays Premier League,West Brom,Manchester City,53.6,90.78,0.0899,0.7388,0.1713,0.71,2.4,2,3,1.18,1.82,0.63,2.93,2.1,3.15
+28-10-2017,2411,Barclays Premier League,Crystal Palace,West Ham,55.88,56.05,0.4416,0.2835,0.2749,1.48,1.13,2,2,2.24,0.91,2.33,1.04,2.1,2.1
+28-10-2017,2411,Barclays Premier League,Bournemouth,Chelsea,55.19,81.18,0.1876,0.5907,0.2217,1.08,2.07,0,1,0.53,1.94,1.28,3.4,0,1.05
+29-10-2017,2411,Barclays Premier League,Brighton,Southampton,50.99,61.89,0.3287,0.364,0.3074,1.07,1.14,1,1,1.64,0.63,1.35,0.38,1.05,1.05
+29-10-2017,2411,Barclays Premier League,Leicester,Everton,62.41,60.41,0.4678,0.2707,0.2615,1.62,1.18,2,0,1.44,0.72,0.64,1.41,2.1,0
 30-10-2017,2411,Barclays Premier League,Burnley,Newcastle,58.94,55.98,0.4666,0.2387,0.2947,1.36,0.89,1,0,1.12,0.48,1.2,1.22,1.05,0
-04-11-2017,2411,Barclays Premier League,Stoke City,Leicester City,59.25,63.02,0.4056,0.3231,0.2713,1.46,1.28,2,2,1.34,1.44,1.62,1.04,2.1,2.1
+04-11-2017,2411,Barclays Premier League,Stoke,Leicester,59.25,63.02,0.4056,0.3231,0.2713,1.46,1.28,2,2,1.34,1.44,1.62,1.04,2.1,2.1
 04-11-2017,2411,Barclays Premier League,Southampton,Burnley,61.2,59.21,0.4567,0.2472,0.2961,1.34,0.91,0,1,0.89,0.16,1.53,0.47,0,1.05
-04-11-2017,2411,Barclays Premier League,Swansea,Brighton and Hove Albion,54.19,51.7,0.459,0.2361,0.3049,1.29,0.84,0,1,1.56,0.8,1.54,0.46,0,1.05
-04-11-2017,2411,Barclays Premier League,Newcastle,AFC Bournemouth,55.7,54.43,0.4507,0.2578,0.2915,1.37,0.96,0,1,0.78,1.61,1.37,1.48,0,1.05
-04-11-2017,2411,Barclays Premier League,Huddersfield Town,West Bromwich Albion,46.99,54.83,0.3537,0.3222,0.3241,1.04,0.98,1,0,0.29,0.28,0.15,1.03,1.05,0
-04-11-2017,2411,Barclays Premier League,West Ham United,Liverpool,55.69,81.21,0.1897,0.5933,0.217,1.13,2.14,1,4,1.28,2.89,1,1.01,1.05,4.07
+04-11-2017,2411,Barclays Premier League,Swansea,Brighton,54.19,51.7,0.459,0.2361,0.3049,1.29,0.84,0,1,1.56,0.8,1.54,0.46,0,1.05
+04-11-2017,2411,Barclays Premier League,Newcastle,Bournemouth,55.7,54.43,0.4507,0.2578,0.2915,1.37,0.96,0,1,0.78,1.61,1.37,1.48,0,1.05
+04-11-2017,2411,Barclays Premier League,Huddersfield,West Brom,46.99,54.83,0.3537,0.3222,0.3241,1.04,0.98,1,0,0.29,0.28,0.15,1.03,1.05,0
+04-11-2017,2411,Barclays Premier League,West Ham,Liverpool,55.69,81.21,0.1897,0.5933,0.217,1.13,2.14,1,4,1.28,2.89,1,1.01,1.05,4.07
 05-11-2017,2411,Barclays Premier League,Tottenham,Crystal Palace,84.88,56.23,0.8118,0.0472,0.141,2.48,0.44,1,0,1.43,0.94,1.27,0.78,1.05,0
-05-11-2017,2411,Barclays Premier League,Manchester City,Arsenal,90.78,78.33,0.667,0.1481,0.185,2.51,1.12,3,1,2.08,0.35,1.34,0.7,3.05,1.05
-05-11-2017,2411,Barclays Premier League,Everton,Watford,59.07,59.62,0.4398,0.2922,0.268,1.54,1.21,3,2,2.83,1.71,1.05,1.74,3.15,2.1
-05-11-2017,2411,Barclays Premier League,Chelsea,Manchester United,81.07,84.54,0.3863,0.3489,0.2648,1.48,1.39,1,0,2.19,0.93,1.56,1.24,1.05,0
-18-11-2017,2411,Barclays Premier League,Arsenal,Tottenham,78.05,84.3,0.3497,0.3913,0.259,1.45,1.54,2,0,2,0.87,2.1,1.72,2.1,0
+05-11-2017,2411,Barclays Premier League,Manchester City,Arsenal F.C.,90.78,78.33,0.667,0.1481,0.185,2.51,1.12,3,1,2.08,0.35,1.34,0.7,3.05,1.05
+05-11-2017,2411,Barclays Premier League,Everton,Watford F.C.,59.07,59.62,0.4398,0.2922,0.268,1.54,1.21,3,2,2.83,1.71,1.05,1.74,3.15,2.1
+05-11-2017,2411,Barclays Premier League,Chelsea,Manchester Utd,81.07,84.54,0.3863,0.3489,0.2648,1.48,1.39,1,0,2.19,0.93,1.56,1.24,1.05,0
+18-11-2017,2411,Barclays Premier League,Arsenal F.C.,Tottenham,78.05,84.3,0.3497,0.3913,0.259,1.45,1.54,2,0,2,0.87,2.1,1.72,2.1,0
 18-11-2017,2411,Barclays Premier League,Burnley,Swansea,59.79,53.54,0.4973,0.2057,0.2971,1.36,0.77,2,0,1.63,0.47,1.57,0.89,2.1,0
-18-11-2017,2411,Barclays Premier League,AFC Bournemouth,Huddersfield Town,55.89,47.23,0.5231,0.1857,0.2913,1.41,0.72,4,0,1.49,1.26,1.05,2.33,3.85,0
-18-11-2017,2411,Barclays Premier League,West Bromwich Albion,Chelsea,54.66,81.62,0.1806,0.5782,0.2412,0.91,1.83,0,4,0.75,1.3,0.86,2.2,0,4.2
-18-11-2017,2411,Barclays Premier League,Leicester City,Manchester City,63.07,90.88,0.1343,0.6819,0.1837,1.01,2.47,0,2,0.17,2.05,0.23,1.96,0,2.1
+18-11-2017,2411,Barclays Premier League,Bournemouth,Huddersfield,55.89,47.23,0.5231,0.1857,0.2913,1.41,0.72,4,0,1.49,1.26,1.05,2.33,3.85,0
+18-11-2017,2411,Barclays Premier League,West Brom,Chelsea,54.66,81.62,0.1806,0.5782,0.2412,0.91,1.83,0,4,0.75,1.3,0.86,2.2,0,4.2
+18-11-2017,2411,Barclays Premier League,Leicester,Manchester City,63.07,90.88,0.1343,0.6819,0.1837,1.01,2.47,0,2,0.17,2.05,0.23,1.96,0,2.1
 18-11-2017,2411,Barclays Premier League,Liverpool,Southampton,81.77,60.58,0.6894,0.1124,0.1983,2.15,0.74,3,0,2.36,0.7,1.77,0.71,3.15,0
 18-11-2017,2411,Barclays Premier League,Crystal Palace,Everton,56.99,59.41,0.4198,0.3073,0.273,1.47,1.22,2,2,2.19,1.68,1.79,0.7,2.1,2.1
-18-11-2017,2411,Barclays Premier League,Manchester United,Newcastle,83.93,54.28,0.8095,0.0385,0.1521,2.25,0.31,4,1,2.92,1.13,2.65,1.28,4.2,1.05
-19-11-2017,2411,Barclays Premier League,Watford,West Ham United,59.31,54.97,0.4937,0.2547,0.2517,1.74,1.19,2,0,1.33,1.81,1.54,1.15,2.1,0
-20-11-2017,2411,Barclays Premier League,Brighton and Hove Albion,Stoke City,52.36,59.22,0.3703,0.3364,0.2933,1.24,1.17,2,2,0.64,1.26,1.15,1.56,2.1,2.1
-24-11-2017,2411,Barclays Premier League,West Ham United,Leicester City,54.45,61.92,0.3688,0.3581,0.2731,1.37,1.35,1,1,0.98,0.67,1.41,0.44,1.05,1.05
-25-11-2017,2411,Barclays Premier League,Swansea,AFC Bournemouth,52.37,57.02,0.3918,0.3135,0.2947,1.27,1.1,0,0,0.93,0.56,0.98,0.89,0,0
-25-11-2017,2411,Barclays Premier League,Manchester United,Brighton and Hove Albion,83.67,52.02,0.8228,0.034,0.1432,2.31,0.3,1,0,1.83,0.71,1.73,1.21,1.05,0
-25-11-2017,2411,Barclays Premier League,Tottenham,West Bromwich Albion,83.88,52.93,0.8178,0.0343,0.1479,2.26,0.29,1,1,2.01,0.71,2.99,0.24,1.05,1.05
-25-11-2017,2411,Barclays Premier League,Newcastle,Watford,54.47,59.81,0.3888,0.3317,0.2795,1.37,1.24,0,3,0.96,2.32,2.06,1.27,0,3.15
-25-11-2017,2411,Barclays Premier League,Crystal Palace,Stoke City,57.19,59.56,0.4215,0.3105,0.268,1.51,1.26,2,1,1.5,0.7,1.3,1.17,2.1,1.05
+18-11-2017,2411,Barclays Premier League,Manchester Utd,Newcastle,83.93,54.28,0.8095,0.0385,0.1521,2.25,0.31,4,1,2.92,1.13,2.65,1.28,4.2,1.05
+19-11-2017,2411,Barclays Premier League,Watford F.C.,West Ham,59.31,54.97,0.4937,0.2547,0.2517,1.74,1.19,2,0,1.33,1.81,1.54,1.15,2.1,0
+20-11-2017,2411,Barclays Premier League,Brighton,Stoke,52.36,59.22,0.3703,0.3364,0.2933,1.24,1.17,2,2,0.64,1.26,1.15,1.56,2.1,2.1
+24-11-2017,2411,Barclays Premier League,West Ham,Leicester,54.45,61.92,0.3688,0.3581,0.2731,1.37,1.35,1,1,0.98,0.67,1.41,0.44,1.05,1.05
+25-11-2017,2411,Barclays Premier League,Swansea,Bournemouth,52.37,57.02,0.3918,0.3135,0.2947,1.27,1.1,0,0,0.93,0.56,0.98,0.89,0,0
+25-11-2017,2411,Barclays Premier League,Manchester Utd,Brighton,83.67,52.02,0.8228,0.034,0.1432,2.31,0.3,1,0,1.83,0.71,1.73,1.21,1.05,0
+25-11-2017,2411,Barclays Premier League,Tottenham,West Brom,83.88,52.93,0.8178,0.0343,0.1479,2.26,0.29,1,1,2.01,0.71,2.99,0.24,1.05,1.05
+25-11-2017,2411,Barclays Premier League,Newcastle,Watford F.C.,54.47,59.81,0.3888,0.3317,0.2795,1.37,1.24,0,3,0.96,2.32,2.06,1.27,0,3.15
+25-11-2017,2411,Barclays Premier League,Crystal Palace,Stoke,57.19,59.56,0.4215,0.3105,0.268,1.51,1.26,2,1,1.5,0.7,1.3,1.17,2.1,1.05
 25-11-2017,2411,Barclays Premier League,Liverpool,Chelsea,82.48,84.01,0.4251,0.3324,0.2425,1.78,1.55,1,1,1.45,0.92,1.99,1.83,1.05,1.05
 26-11-2017,2411,Barclays Premier League,Southampton,Everton,59.69,57.44,0.4673,0.2608,0.2718,1.53,1.08,4,1,2.64,0.22,1.62,0.5,3.76,1.05
-26-11-2017,2411,Barclays Premier League,Burnley,Arsenal,60.94,79.26,0.2548,0.4819,0.2633,1.11,1.62,0,1,0.4,1.92,0.61,2.36,0,1.05
-26-11-2017,2411,Barclays Premier League,Huddersfield Town,Manchester City,46.05,90.79,0.0605,0.7995,0.14,0.6,2.64,1,2,0.59,3.07,0.56,2.06,1.05,2.1
-28-11-2017,2411,Barclays Premier League,Brighton and Hove Albion,Crystal Palace,52.86,57.74,0.3881,0.3117,0.3002,1.23,1.07,0,0,0.41,0.69,0.75,0.57,0,0
-28-11-2017,2411,Barclays Premier League,Leicester City,Tottenham,61.65,83.21,0.2104,0.5352,0.2544,0.98,1.71,2,1,0.84,2.9,0.6,2.3,2.1,1.05
-28-11-2017,2411,Barclays Premier League,Watford,Manchester United,61.87,83.06,0.2119,0.5462,0.2419,1.06,1.85,2,4,1.35,1.23,1.62,1.61,2.1,3.78
-28-11-2017,2411,Barclays Premier League,West Bromwich Albion,Newcastle,53.94,52.42,0.4498,0.2491,0.3011,1.3,0.89,2,2,1.01,1.14,0.91,1.64,2.1,2.1
+26-11-2017,2411,Barclays Premier League,Burnley,Arsenal F.C.,60.94,79.26,0.2548,0.4819,0.2633,1.11,1.62,0,1,0.4,1.92,0.61,2.36,0,1.05
+26-11-2017,2411,Barclays Premier League,Huddersfield,Manchester City,46.05,90.79,0.0605,0.7995,0.14,0.6,2.64,1,2,0.59,3.07,0.56,2.06,1.05,2.1
+28-11-2017,2411,Barclays Premier League,Brighton,Crystal Palace,52.86,57.74,0.3881,0.3117,0.3002,1.23,1.07,0,0,0.41,0.69,0.75,0.57,0,0
+28-11-2017,2411,Barclays Premier League,Leicester,Tottenham,61.65,83.21,0.2104,0.5352,0.2544,0.98,1.71,2,1,0.84,2.9,0.6,2.3,2.1,1.05
+28-11-2017,2411,Barclays Premier League,Watford F.C.,Manchester Utd,61.87,83.06,0.2119,0.5462,0.2419,1.06,1.85,2,4,1.35,1.23,1.62,1.61,2.1,3.78
+28-11-2017,2411,Barclays Premier League,West Brom,Newcastle,53.94,52.42,0.4498,0.2491,0.3011,1.3,0.89,2,2,1.01,1.14,0.91,1.64,2.1,2.1
 29-11-2017,2411,Barclays Premier League,Chelsea,Swansea,84,52.24,0.8256,0.0393,0.1351,2.47,0.38,1,0,1.9,0.06,1.91,0.6,1.05,0
-29-11-2017,2411,Barclays Premier League,AFC Bournemouth,Burnley,57.19,59.75,0.4088,0.2842,0.307,1.22,0.97,1,2,1.07,1,1.44,1.13,1.05,2.1
-29-11-2017,2411,Barclays Premier League,Arsenal,Huddersfield Town,80.11,46.69,0.8266,0.038,0.1354,2.45,0.36,5,0,3.78,0.52,3.02,0.64,4.77,0
-29-11-2017,2411,Barclays Premier League,Everton,West Ham United,55.28,54.73,0.4545,0.2893,0.2562,1.67,1.28,4,0,2.15,1.1,0.94,1.55,4.01,0
-29-11-2017,2411,Barclays Premier League,Stoke City,Liverpool,59,82.36,0.2023,0.5803,0.2174,1.2,2.15,0,3,0.91,2.8,1.09,1.55,0,2.65
+29-11-2017,2411,Barclays Premier League,Bournemouth,Burnley,57.19,59.75,0.4088,0.2842,0.307,1.22,0.97,1,2,1.07,1,1.44,1.13,1.05,2.1
+29-11-2017,2411,Barclays Premier League,Arsenal F.C.,Huddersfield,80.11,46.69,0.8266,0.038,0.1354,2.45,0.36,5,0,3.78,0.52,3.02,0.64,4.77,0
+29-11-2017,2411,Barclays Premier League,Everton,West Ham,55.28,54.73,0.4545,0.2893,0.2562,1.67,1.28,4,0,2.15,1.1,0.94,1.55,4.01,0
+29-11-2017,2411,Barclays Premier League,Stoke,Liverpool,59,82.36,0.2023,0.5803,0.2174,1.2,2.15,0,3,0.91,2.8,1.09,1.55,0,2.65
 29-11-2017,2411,Barclays Premier League,Manchester City,Southampton,90.49,61.73,0.8402,0.0386,0.1213,2.68,0.43,2,1,1.79,1.66,2.98,1.44,2.1,1.05
 02-12-2017,2411,Barclays Premier League,Chelsea,Newcastle,83.79,53.22,0.8207,0.0458,0.1334,2.57,0.46,3,1,3.39,0.52,3.62,0.47,3.06,1.05
-02-12-2017,2411,Barclays Premier League,West Bromwich Albion,Crystal Palace,53.11,58.09,0.387,0.3115,0.3015,1.22,1.06,0,0,1.65,0.77,2.4,1.57,0,0
-02-12-2017,2411,Barclays Premier League,Watford,Tottenham,62.27,82.89,0.2167,0.5458,0.2374,1.12,1.9,1,1,0.29,1.09,1.37,0.56,1.05,1.05
-02-12-2017,2411,Barclays Premier League,Brighton and Hove Albion,Liverpool,52.54,83.18,0.1533,0.6202,0.2265,0.85,1.95,1,5,1.79,2.34,0.65,1.73,1.05,4.32
-02-12-2017,2411,Barclays Premier League,Leicester City,Burnley,62.21,60.57,0.453,0.2528,0.2942,1.35,0.93,1,0,1.18,1.22,1.22,1.74,1.05,0
-02-12-2017,2411,Barclays Premier League,Stoke City,Swansea,57.76,52.42,0.495,0.2247,0.2802,1.48,0.9,2,1,1.24,0.34,1.48,0.51,2.1,1.05
-02-12-2017,2411,Barclays Premier League,Everton,Huddersfield Town,57.16,44.99,0.5725,0.178,0.2495,1.74,0.86,2,0,0.84,0.24,1.13,0.63,2.02,0
-02-12-2017,2411,Barclays Premier League,Arsenal,Manchester United,81.46,82.94,0.4194,0.3221,0.2585,1.6,1.37,1,3,5.41,1.88,6.58,1.38,1.05,3.15
-03-12-2017,2411,Barclays Premier League,AFC Bournemouth,Southampton,56.35,63.25,0.3701,0.3392,0.2907,1.25,1.19,1,1,0.83,1.31,1.54,1.61,1.05,1.05
-03-12-2017,2411,Barclays Premier League,Manchester City,West Ham United,89.8,52.86,0.8932,0.0243,0.0824,3.21,0.42,2,1,2.41,0.48,3.72,0.44,2.1,1.05
-09-12-2017,2411,Barclays Premier League,West Ham United,Chelsea,53.61,84.31,0.1454,0.6575,0.1971,0.99,2.3,1,0,0.28,1.15,0.55,2.81,1.05,0
-09-12-2017,2411,Barclays Premier League,Burnley,Watford,60.6,62.77,0.4206,0.293,0.2864,1.37,1.09,1,0,0.41,1.13,1.41,1.52,0.84,0
-09-12-2017,2411,Barclays Premier League,Crystal Palace,AFC Bournemouth,57.79,56.09,0.4571,0.2572,0.2857,1.41,0.99,2,2,4.1,1.14,2.87,1.37,2.1,2.1
-09-12-2017,2411,Barclays Premier League,Tottenham,Stoke City,82.78,58.26,0.7731,0.0668,0.1601,2.39,0.55,5,1,2.83,0.82,2.4,0.83,5.15,1.05
-09-12-2017,2411,Barclays Premier League,Swansea,West Bromwich Albion,51.93,53.41,0.4153,0.2633,0.3214,1.15,0.85,1,0,0.97,0.32,1.05,0.57,1.05,0
-09-12-2017,2411,Barclays Premier League,Huddersfield Town,Brighton and Hove Albion,44.44,51.9,0.3562,0.314,0.3298,1.02,0.94,2,0,1.89,0.37,1.67,0.3,2.1,0
-09-12-2017,2411,Barclays Premier League,Newcastle,Leicester City,52.95,62.15,0.3498,0.3669,0.2833,1.26,1.3,2,3,0.93,0.52,0.89,1.1,2.1,3.15
-10-12-2017,2411,Barclays Premier League,Southampton,Arsenal,63.49,83.74,0.2283,0.5376,0.2341,1.2,1.95,1,1,1.29,0.78,0.64,4.31,1.05,1.05
+02-12-2017,2411,Barclays Premier League,West Brom,Crystal Palace,53.11,58.09,0.387,0.3115,0.3015,1.22,1.06,0,0,1.65,0.77,2.4,1.57,0,0
+02-12-2017,2411,Barclays Premier League,Watford F.C.,Tottenham,62.27,82.89,0.2167,0.5458,0.2374,1.12,1.9,1,1,0.29,1.09,1.37,0.56,1.05,1.05
+02-12-2017,2411,Barclays Premier League,Brighton,Liverpool,52.54,83.18,0.1533,0.6202,0.2265,0.85,1.95,1,5,1.79,2.34,0.65,1.73,1.05,4.32
+02-12-2017,2411,Barclays Premier League,Leicester,Burnley,62.21,60.57,0.453,0.2528,0.2942,1.35,0.93,1,0,1.18,1.22,1.22,1.74,1.05,0
+02-12-2017,2411,Barclays Premier League,Stoke,Swansea,57.76,52.42,0.495,0.2247,0.2802,1.48,0.9,2,1,1.24,0.34,1.48,0.51,2.1,1.05
+02-12-2017,2411,Barclays Premier League,Everton,Huddersfield,57.16,44.99,0.5725,0.178,0.2495,1.74,0.86,2,0,0.84,0.24,1.13,0.63,2.02,0
+02-12-2017,2411,Barclays Premier League,Arsenal F.C.,Manchester Utd,81.46,82.94,0.4194,0.3221,0.2585,1.6,1.37,1,3,5.41,1.88,6.58,1.38,1.05,3.15
+03-12-2017,2411,Barclays Premier League,Bournemouth,Southampton,56.35,63.25,0.3701,0.3392,0.2907,1.25,1.19,1,1,0.83,1.31,1.54,1.61,1.05,1.05
+03-12-2017,2411,Barclays Premier League,Manchester City,West Ham,89.8,52.86,0.8932,0.0243,0.0824,3.21,0.42,2,1,2.41,0.48,3.72,0.44,2.1,1.05
+09-12-2017,2411,Barclays Premier League,West Ham,Chelsea,53.61,84.31,0.1454,0.6575,0.1971,0.99,2.3,1,0,0.28,1.15,0.55,2.81,1.05,0
+09-12-2017,2411,Barclays Premier League,Burnley,Watford F.C.,60.6,62.77,0.4206,0.293,0.2864,1.37,1.09,1,0,0.41,1.13,1.41,1.52,0.84,0
+09-12-2017,2411,Barclays Premier League,Crystal Palace,Bournemouth,57.79,56.09,0.4571,0.2572,0.2857,1.41,0.99,2,2,4.1,1.14,2.87,1.37,2.1,2.1
+09-12-2017,2411,Barclays Premier League,Tottenham,Stoke,82.78,58.26,0.7731,0.0668,0.1601,2.39,0.55,5,1,2.83,0.82,2.4,0.83,5.15,1.05
+09-12-2017,2411,Barclays Premier League,Swansea,West Brom,51.93,53.41,0.4153,0.2633,0.3214,1.15,0.85,1,0,0.97,0.32,1.05,0.57,1.05,0
+09-12-2017,2411,Barclays Premier League,Huddersfield,Brighton,44.44,51.9,0.3562,0.314,0.3298,1.02,0.94,2,0,1.89,0.37,1.67,0.3,2.1,0
+09-12-2017,2411,Barclays Premier League,Newcastle,Leicester,52.95,62.15,0.3498,0.3669,0.2833,1.26,1.3,2,3,0.93,0.52,0.89,1.1,2.1,3.15
+10-12-2017,2411,Barclays Premier League,Southampton,Arsenal F.C.,63.49,83.74,0.2283,0.5376,0.2341,1.2,1.95,1,1,1.29,0.78,0.64,4.31,1.05,1.05
 10-12-2017,2411,Barclays Premier League,Liverpool,Everton,85.45,58.88,0.8039,0.0659,0.1302,2.9,0.74,1,1,1.94,0.83,3.19,0.18,1.05,1.05
-10-12-2017,2411,Barclays Premier League,Manchester United,Manchester City,82.58,89.17,0.3433,0.409,0.2477,1.53,1.69,1,2,1.86,2,0.57,2.16,1.05,2.1
-12-12-2017,2411,Barclays Premier League,Burnley,Stoke City,60.54,57.43,0.4735,0.2451,0.2814,1.46,0.97,1,0,0.42,1.1,1.26,1.48,1.05,0
-12-12-2017,2411,Barclays Premier League,Crystal Palace,Watford,58.57,62.8,0.4017,0.3265,0.2718,1.45,1.28,2,1,1.34,1.23,0.94,0.75,1.68,1.05
-12-12-2017,2411,Barclays Premier League,Huddersfield Town,Chelsea,46.7,83.85,0.1127,0.6868,0.2005,0.73,2.13,1,3,0.54,1.81,0.52,1.59,1.05,3.15
+10-12-2017,2411,Barclays Premier League,Manchester Utd,Manchester City,82.58,89.17,0.3433,0.409,0.2477,1.53,1.69,1,2,1.86,2,0.57,2.16,1.05,2.1
+12-12-2017,2411,Barclays Premier League,Burnley,Stoke,60.54,57.43,0.4735,0.2451,0.2814,1.46,0.97,1,0,0.42,1.1,1.26,1.48,1.05,0
+12-12-2017,2411,Barclays Premier League,Crystal Palace,Watford F.C.,58.57,62.8,0.4017,0.3265,0.2718,1.45,1.28,2,1,1.34,1.23,0.94,0.75,1.68,1.05
+12-12-2017,2411,Barclays Premier League,Huddersfield,Chelsea,46.7,83.85,0.1127,0.6868,0.2005,0.73,2.13,1,3,0.54,1.81,0.52,1.59,1.05,3.15
 13-12-2017,2411,Barclays Premier League,Newcastle,Everton,52.53,59.46,0.3758,0.3571,0.2671,1.44,1.4,0,1,0.79,1.33,1.29,0.88,0,1.05
 13-12-2017,2411,Barclays Premier League,Swansea,Manchester City,52.61,89.57,0.097,0.7219,0.1811,0.71,2.3,0,4,0.4,3.1,0.58,2.45,0,3.82
-13-12-2017,2411,Barclays Premier League,Southampton,Leicester City,63.34,62.55,0.4502,0.2679,0.2819,1.43,1.04,1,4,1.36,1.98,1.37,1.06,1.05,4.2
-13-12-2017,2411,Barclays Premier League,Liverpool,West Bromwich Albion,85,52.77,0.8327,0.0404,0.1269,2.61,0.42,0,0,1.73,0.36,1.92,0.62,0,0
-13-12-2017,2411,Barclays Premier League,West Ham United,Arsenal,54.15,83.8,0.1556,0.6497,0.1947,1.09,2.38,0,0,0.41,1.17,1.06,4.21,0,0
-13-12-2017,2411,Barclays Premier League,Manchester United,AFC Bournemouth,82,55.3,0.7863,0.0635,0.1502,2.5,0.57,1,0,1.25,0.78,1.63,1.36,1.05,0
-13-12-2017,2411,Barclays Premier League,Tottenham,Brighton and Hove Albion,83.47,49.58,0.8382,0.0297,0.1321,2.4,0.28,2,0,2.22,0.47,1.66,0.77,1.66,0
-16-12-2017,2411,Barclays Premier League,Leicester City,Crystal Palace,64.91,58.91,0.5076,0.2302,0.2623,1.64,1.02,0,3,0.76,1.93,1.57,1.73,0,2.52
-16-12-2017,2411,Barclays Premier League,Arsenal,Newcastle,83.9,51.79,0.8335,0.0457,0.1209,2.79,0.52,1,0,1.97,0.35,4.15,0.86,1.05,0
-16-12-2017,2411,Barclays Premier League,Stoke City,West Ham United,57.64,53.81,0.4854,0.2523,0.2622,1.63,1.1,0,3,1.22,2.38,2.06,1.79,0,2.61
+13-12-2017,2411,Barclays Premier League,Southampton,Leicester,63.34,62.55,0.4502,0.2679,0.2819,1.43,1.04,1,4,1.36,1.98,1.37,1.06,1.05,4.2
+13-12-2017,2411,Barclays Premier League,Liverpool,West Brom,85,52.77,0.8327,0.0404,0.1269,2.61,0.42,0,0,1.73,0.36,1.92,0.62,0,0
+13-12-2017,2411,Barclays Premier League,West Ham,Arsenal F.C.,54.15,83.8,0.1556,0.6497,0.1947,1.09,2.38,0,0,0.41,1.17,1.06,4.21,0,0
+13-12-2017,2411,Barclays Premier League,Manchester Utd,Bournemouth,82,55.3,0.7863,0.0635,0.1502,2.5,0.57,1,0,1.25,0.78,1.63,1.36,1.05,0
+13-12-2017,2411,Barclays Premier League,Tottenham,Brighton,83.47,49.58,0.8382,0.0297,0.1321,2.4,0.28,2,0,2.22,0.47,1.66,0.77,1.66,0
+16-12-2017,2411,Barclays Premier League,Leicester,Crystal Palace,64.91,58.91,0.5076,0.2302,0.2623,1.64,1.02,0,3,0.76,1.93,1.57,1.73,0,2.52
+16-12-2017,2411,Barclays Premier League,Arsenal F.C.,Newcastle,83.9,51.79,0.8335,0.0457,0.1209,2.79,0.52,1,0,1.97,0.35,4.15,0.86,1.05,0
+16-12-2017,2411,Barclays Premier League,Stoke,West Ham,57.64,53.81,0.4854,0.2523,0.2622,1.63,1.1,0,3,1.22,2.38,2.06,1.79,0,2.61
 16-12-2017,2411,Barclays Premier League,Chelsea,Southampton,83.94,61.07,0.7586,0.0743,0.1671,2.35,0.59,1,0,1.21,0.7,3.1,0.78,1.05,0
-16-12-2017,2411,Barclays Premier League,Watford,Huddersfield Town,62.45,46.6,0.6052,0.1488,0.2461,1.74,0.73,1,4,0.57,2.6,1.2,1,1.05,3.5
-16-12-2017,2411,Barclays Premier League,Brighton and Hove Albion,Burnley,49.79,60.33,0.3261,0.3388,0.3351,0.95,0.97,0,0,1.62,1.06,1.06,1.41,0,0
+16-12-2017,2411,Barclays Premier League,Watford F.C.,Huddersfield,62.45,46.6,0.6052,0.1488,0.2461,1.74,0.73,1,4,0.57,2.6,1.2,1,1.05,3.5
+16-12-2017,2411,Barclays Premier League,Brighton,Burnley,49.79,60.33,0.3261,0.3388,0.3351,0.95,0.97,0,0,1.62,1.06,1.06,1.41,0,0
 16-12-2017,2411,Barclays Premier League,Manchester City,Tottenham,90.4,83.3,0.5701,0.1985,0.2314,1.96,1.07,4,1,3.93,0.26,1.76,0.54,3.44,1.05
-17-12-2017,2411,Barclays Premier League,West Bromwich Albion,Manchester United,53.5,81.4,0.1737,0.5774,0.2488,0.84,1.75,1,2,0.78,0.49,1.31,1.03,1.05,2.1
-17-12-2017,2411,Barclays Premier League,AFC Bournemouth,Liverpool,56.02,84.38,0.1619,0.6303,0.2078,1.02,2.2,0,4,0.61,3.09,0.84,3.01,0,4.2
+17-12-2017,2411,Barclays Premier League,West Brom,Manchester Utd,53.5,81.4,0.1737,0.5774,0.2488,0.84,1.75,1,2,0.78,0.49,1.31,1.03,1.05,2.1
+17-12-2017,2411,Barclays Premier League,Bournemouth,Liverpool,56.02,84.38,0.1619,0.6303,0.2078,1.02,2.2,0,4,0.61,3.09,0.84,3.01,0,4.2
 18-12-2017,2411,Barclays Premier League,Everton,Swansea,60.22,51,0.5342,0.1924,0.2734,1.54,0.81,3,1,2.14,0.74,0.85,0.43,3.07,1.05
-22-12-2017,2411,Barclays Premier League,Arsenal,Liverpool,83.86,85.7,0.4218,0.3374,0.2408,1.8,1.59,3,3,1.41,2.42,1.78,2.28,3.15,3.15
+22-12-2017,2411,Barclays Premier League,Arsenal F.C.,Liverpool,83.86,85.7,0.4218,0.3374,0.2408,1.8,1.59,3,3,1.41,2.42,1.78,2.28,3.15,3.15
 23-12-2017,2411,Barclays Premier League,Everton,Chelsea,61.04,83.82,0.1995,0.5742,0.2263,1.11,2.03,0,0,0.37,2.26,0.56,2.67,0,0
-23-12-2017,2411,Barclays Premier League,West Ham United,Newcastle,56.24,51.76,0.488,0.2382,0.2738,1.53,0.98,2,3,2.23,2,2.18,0.55,2.1,3.15
-23-12-2017,2411,Barclays Premier League,Stoke City,West Bromwich Albion,55.17,54.13,0.4517,0.2617,0.2866,1.4,1,3,1,1.65,2.22,0.92,2.38,2.63,1.05
-23-12-2017,2411,Barclays Premier League,Manchester City,AFC Bournemouth,91.23,53.98,0.9011,0.0205,0.0784,3.19,0.36,4,0,1.44,0.28,1.85,0.56,3.6,0
+23-12-2017,2411,Barclays Premier League,West Ham,Newcastle,56.24,51.76,0.488,0.2382,0.2738,1.53,0.98,2,3,2.23,2,2.18,0.55,2.1,3.15
+23-12-2017,2411,Barclays Premier League,Stoke,West Brom,55.17,54.13,0.4517,0.2617,0.2866,1.4,1,3,1,1.65,2.22,0.92,2.38,2.63,1.05
+23-12-2017,2411,Barclays Premier League,Manchester City,Bournemouth,91.23,53.98,0.9011,0.0205,0.0784,3.19,0.36,4,0,1.44,0.28,1.85,0.56,3.6,0
 23-12-2017,2411,Barclays Premier League,Swansea,Crystal Palace,50.19,61.56,0.3246,0.3705,0.3049,1.08,1.17,1,1,0.61,1.19,0.87,2.16,1.05,1.05
-23-12-2017,2411,Barclays Premier League,Southampton,Huddersfield Town,61.11,50.18,0.55,0.1779,0.272,1.55,0.75,1,1,2.27,1.05,1.4,1.07,1.05,1.05
-23-12-2017,2411,Barclays Premier League,Brighton and Hove Albion,Watford,49.82,58.74,0.3503,0.3602,0.2895,1.22,1.24,1,0,1.82,0.9,1.94,1.02,1.05,0
+23-12-2017,2411,Barclays Premier League,Southampton,Huddersfield,61.11,50.18,0.55,0.1779,0.272,1.55,0.75,1,1,2.27,1.05,1.4,1.07,1.05,1.05
+23-12-2017,2411,Barclays Premier League,Brighton,Watford F.C.,49.82,58.74,0.3503,0.3602,0.2895,1.22,1.24,1,0,1.82,0.9,1.94,1.02,1.05,0
 23-12-2017,2411,Barclays Premier League,Burnley,Tottenham,60.32,82.23,0.2144,0.5073,0.2783,0.87,1.5,0,3,0.22,3.73,0.93,1.47,0,2.94
-23-12-2017,2411,Barclays Premier League,Leicester City,Manchester United,62.3,80.93,0.2429,0.5111,0.246,1.18,1.81,2,2,1.77,1.93,1.03,2.16,2.1,2.1
+23-12-2017,2411,Barclays Premier League,Leicester,Manchester Utd,62.3,80.93,0.2429,0.5111,0.246,1.18,1.81,2,2,1.77,1.93,1.03,2.16,2.1,2.1
 26-12-2017,2411,Barclays Premier League,Tottenham,Southampton,83.79,60.58,0.7602,0.0691,0.1707,2.27,0.52,5,2,3.29,0.79,2.28,1.31,5.25,2.1
-26-12-2017,2411,Barclays Premier League,Chelsea,Brighton and Hove Albion,84.11,50.95,0.8335,0.0293,0.1371,2.34,0.26,2,0,2.27,0.56,3.73,0.77,2.1,0
-26-12-2017,2411,Barclays Premier League,Manchester United,Burnley,80.6,58.19,0.6868,0.0983,0.2149,1.92,0.57,2,2,2.06,0.72,3.21,0.99,2.1,2.1
-26-12-2017,2411,Barclays Premier League,West Bromwich Albion,Everton,54.15,60.34,0.3769,0.3282,0.295,1.24,1.14,0,0,1.14,0.46,1.59,0.57,0,0
-26-12-2017,2411,Barclays Premier League,Watford,Leicester City,57.56,62.86,0.3927,0.3475,0.2597,1.54,1.43,2,1,1.42,1.4,1.26,1.74,2.1,1.05
-26-12-2017,2411,Barclays Premier League,AFC Bournemouth,West Ham United,53.76,55.43,0.4264,0.2985,0.2752,1.46,1.18,3,3,3.16,2.18,3.03,1.07,3.15,3.15
-26-12-2017,2411,Barclays Premier League,Huddersfield Town,Stoke City,50.71,55.1,0.3971,0.3253,0.2776,1.39,1.24,1,1,1.83,1.47,1.12,1.31,1.05,1.05
+26-12-2017,2411,Barclays Premier League,Chelsea,Brighton,84.11,50.95,0.8335,0.0293,0.1371,2.34,0.26,2,0,2.27,0.56,3.73,0.77,2.1,0
+26-12-2017,2411,Barclays Premier League,Manchester Utd,Burnley,80.6,58.19,0.6868,0.0983,0.2149,1.92,0.57,2,2,2.06,0.72,3.21,0.99,2.1,2.1
+26-12-2017,2411,Barclays Premier League,West Brom,Everton,54.15,60.34,0.3769,0.3282,0.295,1.24,1.14,0,0,1.14,0.46,1.59,0.57,0,0
+26-12-2017,2411,Barclays Premier League,Watford F.C.,Leicester,57.56,62.86,0.3927,0.3475,0.2597,1.54,1.43,2,1,1.42,1.4,1.26,1.74,2.1,1.05
+26-12-2017,2411,Barclays Premier League,Bournemouth,West Ham,53.76,55.43,0.4264,0.2985,0.2752,1.46,1.18,3,3,3.16,2.18,3.03,1.07,3.15,3.15
+26-12-2017,2411,Barclays Premier League,Huddersfield,Stoke,50.71,55.1,0.3971,0.3253,0.2776,1.39,1.24,1,1,1.83,1.47,1.12,1.31,1.05,1.05
 26-12-2017,2411,Barclays Premier League,Liverpool,Swansea,86.14,49.71,0.8649,0.0273,0.1078,2.73,0.33,5,0,2.84,0.43,2.65,1.11,4.93,0
 27-12-2017,2411,Barclays Premier League,Newcastle,Manchester City,52.51,91.28,0.0777,0.7801,0.1422,0.79,2.8,0,1,0.2,2.48,0.33,2.63,0,1.05
-28-12-2017,2411,Barclays Premier League,Crystal Palace,Arsenal,62.04,83.64,0.2152,0.5563,0.2286,1.18,2.01,2,3,1.41,2.11,1.42,2.94,2.1,3.15
-30-12-2017,2411,Barclays Premier League,Newcastle,Brighton and Hove Albion,51.93,50.65,0.4489,0.2462,0.3049,1.28,0.87,0,0,0.57,0.71,1.27,0.89,0,0
-30-12-2017,2411,Barclays Premier League,Liverpool,Leicester City,86.8,62.56,0.7889,0.0711,0.1401,2.76,0.73,2,1,2.82,0.76,2.41,1.33,2.1,1.05
-30-12-2017,2411,Barclays Premier League,AFC Bournemouth,Everton,54.28,60.05,0.386,0.3403,0.2736,1.41,1.3,2,1,1.77,0.71,2.41,0.77,2.1,1.05
-30-12-2017,2411,Barclays Premier League,Huddersfield Town,Burnley,50.58,59.21,0.3472,0.33,0.3227,1.04,1,0,0,0.09,1.44,0.6,1.4,0,0
-30-12-2017,2411,Barclays Premier League,Chelsea,Stoke City,84.32,55.25,0.8182,0.0517,0.1301,2.71,0.55,5,0,3.06,0.15,1.69,0.18,4.71,0
-30-12-2017,2411,Barclays Premier League,Watford,Swansea,57.88,48.76,0.5372,0.1977,0.2651,1.61,0.87,1,2,1.3,1.45,1.34,0.77,1.05,2.1
-30-12-2017,2411,Barclays Premier League,Manchester United,Southampton,79.94,60.58,0.6731,0.128,0.1989,2.21,0.85,0,0,1.88,0.84,2.08,0.77,0,0
+28-12-2017,2411,Barclays Premier League,Crystal Palace,Arsenal F.C.,62.04,83.64,0.2152,0.5563,0.2286,1.18,2.01,2,3,1.41,2.11,1.42,2.94,2.1,3.15
+30-12-2017,2411,Barclays Premier League,Newcastle,Brighton,51.93,50.65,0.4489,0.2462,0.3049,1.28,0.87,0,0,0.57,0.71,1.27,0.89,0,0
+30-12-2017,2411,Barclays Premier League,Liverpool,Leicester,86.8,62.56,0.7889,0.0711,0.1401,2.76,0.73,2,1,2.82,0.76,2.41,1.33,2.1,1.05
+30-12-2017,2411,Barclays Premier League,Bournemouth,Everton,54.28,60.05,0.386,0.3403,0.2736,1.41,1.3,2,1,1.77,0.71,2.41,0.77,2.1,1.05
+30-12-2017,2411,Barclays Premier League,Huddersfield,Burnley,50.58,59.21,0.3472,0.33,0.3227,1.04,1,0,0,0.09,1.44,0.6,1.4,0,0
+30-12-2017,2411,Barclays Premier League,Chelsea,Stoke,84.32,55.25,0.8182,0.0517,0.1301,2.71,0.55,5,0,3.06,0.15,1.69,0.18,4.71,0
+30-12-2017,2411,Barclays Premier League,Watford F.C.,Swansea,57.88,48.76,0.5372,0.1977,0.2651,1.61,0.87,1,2,1.3,1.45,1.34,0.77,1.05,2.1
+30-12-2017,2411,Barclays Premier League,Manchester Utd,Southampton,79.94,60.58,0.6731,0.128,0.1989,2.21,0.85,0,0,1.88,0.84,2.08,0.77,0,0
 31-12-2017,2411,Barclays Premier League,Crystal Palace,Manchester City,62.21,91.43,0.1216,0.6947,0.1836,0.9,2.4,0,0,1.7,1.47,0.94,1.76,0,0
-31-12-2017,2411,Barclays Premier League,West Bromwich Albion,Arsenal,54.44,83.65,0.1629,0.6149,0.2222,0.93,2.02,1,1,1.55,1.02,1.15,2.6,1.05,1.05
-01-01-2018,2411,Barclays Premier League,Brighton and Hove Albion,AFC Bournemouth,51.13,55.54,0.3902,0.3058,0.304,1.21,1.03,2,2,2.4,1.57,1.52,2.14,2.1,2.1
+31-12-2017,2411,Barclays Premier League,West Brom,Arsenal F.C.,54.44,83.65,0.1629,0.6149,0.2222,0.93,2.02,1,1,1.55,1.02,1.15,2.6,1.05,1.05
+01-01-2018,2411,Barclays Premier League,Brighton,Bournemouth,51.13,55.54,0.3902,0.3058,0.304,1.21,1.03,2,2,2.4,1.57,1.52,2.14,2.1,2.1
 01-01-2018,2411,Barclays Premier League,Burnley,Liverpool,60.12,86.48,0.1736,0.5934,0.233,0.92,1.91,1,2,1.04,1.48,1.54,2.17,1.05,2.1
-01-01-2018,2411,Barclays Premier League,Leicester City,Huddersfield Town,63.07,49.67,0.5801,0.1664,0.2536,1.7,0.78,3,0,1.2,0.29,1.4,0.33,2.63,0
-01-01-2018,2411,Barclays Premier League,Stoke City,Newcastle,53.59,51.53,0.4679,0.2652,0.2669,1.57,1.12,0,1,0.7,1.89,2.01,1.38,0,1.05
-01-01-2018,2411,Barclays Premier League,Everton,Manchester United,58.82,79.49,0.2309,0.5257,0.2434,1.14,1.84,0,2,1.19,1.26,1.8,1.56,0,1.84
-02-01-2018,2411,Barclays Premier League,West Ham United,West Bromwich Albion,54.82,55.31,0.4364,0.2763,0.2874,1.38,1.04,2,1,1.11,0.86,1.9,0.3,2.1,1.05
+01-01-2018,2411,Barclays Premier League,Leicester,Huddersfield,63.07,49.67,0.5801,0.1664,0.2536,1.7,0.78,3,0,1.2,0.29,1.4,0.33,2.63,0
+01-01-2018,2411,Barclays Premier League,Stoke,Newcastle,53.59,51.53,0.4679,0.2652,0.2669,1.57,1.12,0,1,0.7,1.89,2.01,1.38,0,1.05
+01-01-2018,2411,Barclays Premier League,Everton,Manchester Utd,58.82,79.49,0.2309,0.5257,0.2434,1.14,1.84,0,2,1.19,1.26,1.8,1.56,0,1.84
+02-01-2018,2411,Barclays Premier League,West Ham,West Brom,54.82,55.31,0.4364,0.2763,0.2874,1.38,1.04,2,1,1.11,0.86,1.9,0.3,2.1,1.05
 02-01-2018,2411,Barclays Premier League,Southampton,Crystal Palace,60.97,62.85,0.4225,0.2965,0.281,1.41,1.13,1,2,0.51,1.46,1.2,1.51,1.05,2.1
 02-01-2018,2411,Barclays Premier League,Swansea,Tottenham,50.13,84.06,0.1299,0.658,0.2121,0.78,2.05,0,2,0.4,1.87,0.71,1.52,0,1.62
-02-01-2018,2411,Barclays Premier League,Manchester City,Watford,91,56.42,0.89,0.0252,0.0848,3.17,0.42,3,1,2.95,1.06,1.78,0.74,3.15,1.05
-03-01-2018,2411,Barclays Premier League,Arsenal,Chelsea,83.02,85.34,0.4013,0.35,0.2487,1.67,1.54,2,2,1.46,2.91,2.81,2.2,2.1,2.1
-04-01-2018,2411,Barclays Premier League,Tottenham,West Ham United,84.44,55.62,0.8166,0.0537,0.1297,2.74,0.58,1,1,1.85,0.73,2.75,0.44,1.05,1.05
-13-01-2018,2411,Barclays Premier League,Watford,Southampton,57.42,59.7,0.4227,0.3128,0.2645,1.55,1.3,2,2,1.86,0.85,2.85,1.13,2.1,2.1
+02-01-2018,2411,Barclays Premier League,Manchester City,Watford F.C.,91,56.42,0.89,0.0252,0.0848,3.17,0.42,3,1,2.95,1.06,1.78,0.74,3.15,1.05
+03-01-2018,2411,Barclays Premier League,Arsenal F.C.,Chelsea,83.02,85.34,0.4013,0.35,0.2487,1.67,1.54,2,2,1.46,2.91,2.81,2.2,2.1,2.1
+04-01-2018,2411,Barclays Premier League,Tottenham,West Ham,84.44,55.62,0.8166,0.0537,0.1297,2.74,0.58,1,1,1.85,0.73,2.75,0.44,1.05,1.05
+13-01-2018,2411,Barclays Premier League,Watford F.C.,Southampton,57.42,59.7,0.4227,0.3128,0.2645,1.55,1.3,2,2,1.86,0.85,2.85,1.13,2.1,2.1
 13-01-2018,2411,Barclays Premier League,Crystal Palace,Burnley,64.1,60.47,0.4705,0.23,0.2995,1.33,0.84,1,0,1.66,0.67,1.2,2.23,1.05,0
-13-01-2018,2411,Barclays Premier League,West Bromwich Albion,Brighton and Hove Albion,54.56,51.04,0.462,0.2139,0.3241,1.19,0.71,2,0,1.34,0.59,1.45,1.44,2.1,0
+13-01-2018,2411,Barclays Premier League,West Brom,Brighton,54.56,51.04,0.462,0.2139,0.3241,1.19,0.71,2,0,1.34,0.59,1.45,1.44,2.1,0
 13-01-2018,2411,Barclays Premier League,Newcastle,Swansea,52.78,49.47,0.4668,0.2258,0.3074,1.28,0.79,1,1,1.78,0.81,1.02,1.58,1.05,1.05
-13-01-2018,2411,Barclays Premier League,Chelsea,Leicester City,85.6,64.31,0.7571,0.0779,0.1651,2.4,0.63,0,0,0.62,1.47,1.77,1.55,0,0
-13-01-2018,2411,Barclays Premier League,Huddersfield Town,West Ham United,48.44,56.55,0.3581,0.3543,0.2876,1.25,1.24,1,4,0.6,0.79,0.99,0.78,1.05,4.2
+13-01-2018,2411,Barclays Premier League,Chelsea,Leicester,85.6,64.31,0.7571,0.0779,0.1651,2.4,0.63,0,0,0.62,1.47,1.77,1.55,0,0
+13-01-2018,2411,Barclays Premier League,Huddersfield,West Ham,48.44,56.55,0.3581,0.3543,0.2876,1.25,1.24,1,4,0.6,0.79,0.99,0.78,1.05,4.2
 13-01-2018,2411,Barclays Premier League,Tottenham,Everton,83.8,58.39,0.7813,0.0633,0.1554,2.43,0.54,4,0,4.65,0.43,1.44,0.7,3.92,0
-14-01-2018,2411,Barclays Premier League,AFC Bournemouth,Arsenal,55.56,82.93,0.1723,0.6335,0.1941,1.22,2.45,2,1,1.01,1.09,1.54,1.31,2.1,1.05
+14-01-2018,2411,Barclays Premier League,Bournemouth,Arsenal F.C.,55.56,82.93,0.1723,0.6335,0.1941,1.22,2.45,2,1,1.01,1.09,1.54,1.31,2.1,1.05
 14-01-2018,2411,Barclays Premier League,Liverpool,Manchester City,86.29,90.58,0.3596,0.3981,0.2424,1.64,1.73,4,3,0.82,1.03,1.29,1.44,4.2,3.15
-15-01-2018,2411,Barclays Premier League,Manchester United,Stoke City,79.76,52.31,0.7891,0.0661,0.1448,2.62,0.63,3,0,1.84,1.77,2.03,1.3,3.11,0
-20-01-2018,2411,Barclays Premier League,Brighton and Hove Albion,Chelsea,50.02,84.59,0.1238,0.6575,0.2187,0.71,1.96,0,4,0.94,1.32,1.79,1.49,0,3.56
-20-01-2018,2411,Barclays Premier League,Arsenal,Crystal Palace,81.81,64.12,0.6599,0.1418,0.1983,2.27,0.95,4,1,2.98,0.75,3.99,1.42,4.2,1.05
-20-01-2018,2411,Barclays Premier League,West Ham United,AFC Bournemouth,58.33,57.1,0.4625,0.2869,0.2507,1.73,1.32,1,1,1.08,0.47,1.22,0.69,1.05,1.05
-20-01-2018,2411,Barclays Premier League,Everton,West Bromwich Albion,56.9,55.56,0.4505,0.2526,0.2969,1.33,0.92,1,1,1.09,1.46,1.68,0.98,1.05,1.05
-20-01-2018,2411,Barclays Premier League,Burnley,Manchester United,60.44,79.71,0.2437,0.4763,0.28,0.97,1.47,0,1,0.62,0.76,1.94,1.32,0,1.05
-20-01-2018,2411,Barclays Premier League,Leicester City,Watford,65.63,57.93,0.5334,0.2253,0.2413,1.86,1.13,2,0,1.52,1.03,1.23,0.95,1.58,0
-20-01-2018,2411,Barclays Premier League,Stoke City,Huddersfield Town,52.39,46.71,0.5043,0.2256,0.2701,1.56,0.96,2,0,0.99,0.28,1.11,0.48,2.1,0
+15-01-2018,2411,Barclays Premier League,Manchester Utd,Stoke,79.76,52.31,0.7891,0.0661,0.1448,2.62,0.63,3,0,1.84,1.77,2.03,1.3,3.11,0
+20-01-2018,2411,Barclays Premier League,Brighton,Chelsea,50.02,84.59,0.1238,0.6575,0.2187,0.71,1.96,0,4,0.94,1.32,1.79,1.49,0,3.56
+20-01-2018,2411,Barclays Premier League,Arsenal F.C.,Crystal Palace,81.81,64.12,0.6599,0.1418,0.1983,2.27,0.95,4,1,2.98,0.75,3.99,1.42,4.2,1.05
+20-01-2018,2411,Barclays Premier League,West Ham,Bournemouth,58.33,57.1,0.4625,0.2869,0.2507,1.73,1.32,1,1,1.08,0.47,1.22,0.69,1.05,1.05
+20-01-2018,2411,Barclays Premier League,Everton,West Brom,56.9,55.56,0.4505,0.2526,0.2969,1.33,0.92,1,1,1.09,1.46,1.68,0.98,1.05,1.05
+20-01-2018,2411,Barclays Premier League,Burnley,Manchester Utd,60.44,79.71,0.2437,0.4763,0.28,0.97,1.47,0,1,0.62,0.76,1.94,1.32,0,1.05
+20-01-2018,2411,Barclays Premier League,Leicester,Watford F.C.,65.63,57.93,0.5334,0.2253,0.2413,1.86,1.13,2,0,1.52,1.03,1.23,0.95,1.58,0
+20-01-2018,2411,Barclays Premier League,Stoke,Huddersfield,52.39,46.71,0.5043,0.2256,0.2701,1.56,0.96,2,0,0.99,0.28,1.11,0.48,2.1,0
 20-01-2018,2411,Barclays Premier League,Manchester City,Newcastle,90.38,52.25,0.8981,0.018,0.0838,2.99,0.28,3,1,2.75,1.06,4.06,0.37,2.82,1.05
 21-01-2018,2411,Barclays Premier League,Southampton,Tottenham,59.22,84.81,0.177,0.5988,0.2242,1,2.02,1,1,1.21,1.48,0.59,2.52,1.05,1.05
 22-01-2018,2411,Barclays Premier League,Swansea,Liverpool,49.97,86.79,0.1086,0.7119,0.1795,0.82,2.39,1,0,0.42,2.2,0.22,3.32,1.05,0
-30-01-2018,2411,Barclays Premier League,Swansea,Arsenal,50.42,82.71,0.1458,0.6473,0.2069,0.92,2.17,3,1,2.38,1.17,0.71,2.79,2.73,1.05
-30-01-2018,2411,Barclays Premier League,West Ham United,Crystal Palace,58.2,63.1,0.3948,0.3383,0.2669,1.48,1.35,1,1,1.13,0.76,1.49,1.33,1.05,1.05
-30-01-2018,2411,Barclays Premier League,Huddersfield Town,Liverpool,45.81,86.44,0.0906,0.7456,0.1638,0.76,2.52,0,3,0.39,1.95,0.44,1.95,0,2.95
-31-01-2018,2411,Barclays Premier League,Chelsea,AFC Bournemouth,84.98,57.23,0.8084,0.0532,0.1385,2.58,0.52,0,3,1.35,1.39,2.18,0.48,0,3.15
-31-01-2018,2411,Barclays Premier League,Southampton,Brighton and Hove Albion,59.56,49.47,0.5415,0.1834,0.275,1.53,0.77,1,1,1.2,1.04,1.98,0.53,1.05,1.05
-31-01-2018,2411,Barclays Premier League,Everton,Leicester City,56.48,66.05,0.3458,0.3776,0.2766,1.3,1.37,2,1,1.82,2.71,1.19,0.85,2.1,1.05
+30-01-2018,2411,Barclays Premier League,Swansea,Arsenal F.C.,50.42,82.71,0.1458,0.6473,0.2069,0.92,2.17,3,1,2.38,1.17,0.71,2.79,2.73,1.05
+30-01-2018,2411,Barclays Premier League,West Ham,Crystal Palace,58.2,63.1,0.3948,0.3383,0.2669,1.48,1.35,1,1,1.13,0.76,1.49,1.33,1.05,1.05
+30-01-2018,2411,Barclays Premier League,Huddersfield,Liverpool,45.81,86.44,0.0906,0.7456,0.1638,0.76,2.52,0,3,0.39,1.95,0.44,1.95,0,2.95
+31-01-2018,2411,Barclays Premier League,Chelsea,Bournemouth,84.98,57.23,0.8084,0.0532,0.1385,2.58,0.52,0,3,1.35,1.39,2.18,0.48,0,3.15
+31-01-2018,2411,Barclays Premier League,Southampton,Brighton,59.56,49.47,0.5415,0.1834,0.275,1.53,0.77,1,1,1.2,1.04,1.98,0.53,1.05,1.05
+31-01-2018,2411,Barclays Premier League,Everton,Leicester,56.48,66.05,0.3458,0.3776,0.2766,1.3,1.37,2,1,1.82,2.71,1.19,0.85,2.1,1.05
 31-01-2018,2411,Barclays Premier League,Newcastle,Burnley,52.98,60.33,0.3592,0.3189,0.3219,1.06,0.98,1,1,2.5,0.93,1.64,1.53,1.05,1.05
-31-01-2018,2411,Barclays Premier League,Stoke City,Watford,53.41,57.44,0.4076,0.337,0.2555,1.61,1.44,0,0,0.82,0.87,1.1,1.75,0,0
-31-01-2018,2411,Barclays Premier League,Manchester City,West Bromwich Albion,90.09,55.97,0.8688,0.0243,0.1069,2.69,0.29,3,0,3.14,0.12,2.47,0.15,2.66,0
-31-01-2018,2411,Barclays Premier League,Tottenham,Manchester United,84.56,79.71,0.5206,0.2313,0.248,1.78,1.11,2,0,1.53,0.49,1.99,0.84,2.1,0
+31-01-2018,2411,Barclays Premier League,Stoke,Watford F.C.,53.41,57.44,0.4076,0.337,0.2555,1.61,1.44,0,0,0.82,0.87,1.1,1.75,0,0
+31-01-2018,2411,Barclays Premier League,Manchester City,West Brom,90.09,55.97,0.8688,0.0243,0.1069,2.69,0.29,3,0,3.14,0.12,2.47,0.15,2.66,0
+31-01-2018,2411,Barclays Premier League,Tottenham,Manchester Utd,84.56,79.71,0.5206,0.2313,0.248,1.78,1.11,2,0,1.53,0.49,1.99,0.84,2.1,0
 03-02-2018,2411,Barclays Premier League,Burnley,Manchester City,59.84,90.45,0.1259,0.6629,0.2112,0.76,2.05,1,1,1.11,2.4,1.14,2.8,1.05,1.05
-03-02-2018,2411,Barclays Premier League,Brighton and Hove Albion,West Ham United,49.9,58.16,0.3565,0.3521,0.2914,1.22,1.21,3,1,1.7,0.51,1.95,1.64,3.03,1.05
-03-02-2018,2411,Barclays Premier League,Manchester United,Huddersfield Town,78.85,44.87,0.8268,0.033,0.1402,2.34,0.29,2,0,2.26,0.22,2.85,0.62,2.1,0
-03-02-2018,2411,Barclays Premier League,AFC Bournemouth,Stoke City,60.64,52.98,0.5279,0.2246,0.2475,1.79,1.09,2,1,1.66,0.78,1.84,1.8,2.1,1.05
-03-02-2018,2411,Barclays Premier League,Leicester City,Swansea,65.52,52.9,0.5693,0.1671,0.2636,1.61,0.74,1,1,1.76,0.5,1.29,0.69,1.05,1.05
-03-02-2018,2411,Barclays Premier League,West Bromwich Albion,Southampton,55.2,59.11,0.3966,0.2985,0.3049,1.21,1.01,2,3,0.78,0.91,1.75,1.65,2.1,3.15
-03-02-2018,2411,Barclays Premier League,Arsenal,Everton,80.92,57.06,0.7596,0.0885,0.1518,2.72,0.84,5,1,2.67,1.18,2.33,1.52,5.16,1.05
+03-02-2018,2411,Barclays Premier League,Brighton,West Ham,49.9,58.16,0.3565,0.3521,0.2914,1.22,1.21,3,1,1.7,0.51,1.95,1.64,3.03,1.05
+03-02-2018,2411,Barclays Premier League,Manchester Utd,Huddersfield,78.85,44.87,0.8268,0.033,0.1402,2.34,0.29,2,0,2.26,0.22,2.85,0.62,2.1,0
+03-02-2018,2411,Barclays Premier League,Bournemouth,Stoke,60.64,52.98,0.5279,0.2246,0.2475,1.79,1.09,2,1,1.66,0.78,1.84,1.8,2.1,1.05
+03-02-2018,2411,Barclays Premier League,Leicester,Swansea,65.52,52.9,0.5693,0.1671,0.2636,1.61,0.74,1,1,1.76,0.5,1.29,0.69,1.05,1.05
+03-02-2018,2411,Barclays Premier League,West Brom,Southampton,55.2,59.11,0.3966,0.2985,0.3049,1.21,1.01,2,3,0.78,0.91,1.75,1.65,2.1,3.15
+03-02-2018,2411,Barclays Premier League,Arsenal F.C.,Everton,80.92,57.06,0.7596,0.0885,0.1518,2.72,0.84,5,1,2.67,1.18,2.33,1.52,5.16,1.05
 04-02-2018,2411,Barclays Premier League,Crystal Palace,Newcastle,63.12,53.5,0.5425,0.1968,0.2607,1.65,0.88,1,1,3.01,1.14,2.05,1.25,1.05,1.05
 04-02-2018,2411,Barclays Premier League,Liverpool,Tottenham,86.98,85.16,0.4718,0.2843,0.2439,1.82,1.37,2,2,1.39,2.6,0.96,0.93,2.1,2.1
-05-02-2018,2411,Barclays Premier League,Watford,Chelsea,57.9,82.8,0.1872,0.5899,0.2229,1.07,2.05,4,1,2.17,0.38,2.42,0.97,2.58,1.05
-10-02-2018,2411,Barclays Premier League,Tottenham,Arsenal,85.66,81.41,0.5416,0.238,0.2204,2.15,1.38,1,0,3,0.61,1.98,0.66,1.05,0
+05-02-2018,2411,Barclays Premier League,Watford F.C.,Chelsea,57.9,82.8,0.1872,0.5899,0.2229,1.07,2.05,4,1,2.17,0.38,2.42,0.97,2.58,1.05
+10-02-2018,2411,Barclays Premier League,Tottenham,Arsenal F.C.,85.66,81.41,0.5416,0.238,0.2204,2.15,1.38,1,0,3,0.61,1.98,0.66,1.05,0
 10-02-2018,2411,Barclays Premier League,Swansea,Burnley,53.35,60.57,0.3563,0.3073,0.3364,1,0.9,1,0,0.63,0.52,2.26,0.97,1.05,0
 10-02-2018,2411,Barclays Premier League,Everton,Crystal Palace,56.54,62.98,0.3785,0.3483,0.2733,1.39,1.33,3,1,1.53,1.75,1.9,2.03,3.02,1.05
-10-02-2018,2411,Barclays Premier League,West Ham United,Watford,56.36,61.39,0.3973,0.3487,0.254,1.6,1.49,2,0,1.54,0.79,1.26,2.04,1.91,0
-10-02-2018,2411,Barclays Premier League,Stoke City,Brighton and Hove Albion,52.95,51.6,0.4555,0.2589,0.2856,1.41,0.99,1,1,0.64,1.04,1.55,1.97,1.05,1.05
-10-02-2018,2411,Barclays Premier League,Manchester City,Leicester City,90.09,65.07,0.8136,0.0541,0.1323,2.7,0.56,5,1,2.33,0.12,2.78,0.48,4.55,1.05
-11-02-2018,2411,Barclays Premier League,Huddersfield Town,AFC Bournemouth,44.49,60.67,0.2822,0.4315,0.2863,1.06,1.38,4,1,2.47,0.66,1.39,0.78,3.68,1.05
-11-02-2018,2411,Barclays Premier League,Newcastle,Manchester United,53.66,79.14,0.194,0.5646,0.2414,0.98,1.84,1,0,0.75,1.41,1.03,2.59,1.05,0
+10-02-2018,2411,Barclays Premier League,West Ham,Watford F.C.,56.36,61.39,0.3973,0.3487,0.254,1.6,1.49,2,0,1.54,0.79,1.26,2.04,1.91,0
+10-02-2018,2411,Barclays Premier League,Stoke,Brighton,52.95,51.6,0.4555,0.2589,0.2856,1.41,0.99,1,1,0.64,1.04,1.55,1.97,1.05,1.05
+10-02-2018,2411,Barclays Premier League,Manchester City,Leicester,90.09,65.07,0.8136,0.0541,0.1323,2.7,0.56,5,1,2.33,0.12,2.78,0.48,4.55,1.05
+11-02-2018,2411,Barclays Premier League,Huddersfield,Bournemouth,44.49,60.67,0.2822,0.4315,0.2863,1.06,1.38,4,1,2.47,0.66,1.39,0.78,3.68,1.05
+11-02-2018,2411,Barclays Premier League,Newcastle,Manchester Utd,53.66,79.14,0.194,0.5646,0.2414,0.98,1.84,1,0,0.75,1.41,1.03,2.59,1.05,0
 11-02-2018,2411,Barclays Premier League,Southampton,Liverpool,59.95,86.56,0.1652,0.6356,0.1992,1.12,2.34,0,2,0.98,2.42,1.28,1.64,0,2.1
-12-02-2018,2411,Barclays Premier League,Chelsea,West Bromwich Albion,80.44,54.39,0.7685,0.0614,0.1701,2.22,0.46,3,0,2.41,0.65,2.6,1.36,3.14,0
-24-02-2018,2411,Barclays Premier League,Leicester City,Stoke City,64.35,52.18,0.5745,0.1857,0.2398,1.85,0.95,1,1,1.22,0.22,0.68,0.26,1.05,1.05
-24-02-2018,2411,Barclays Premier League,AFC Bournemouth,Newcastle,57.47,54.34,0.4791,0.2601,0.2609,1.64,1.14,2,2,1.28,3.36,1.98,0.85,2.1,2.1
-24-02-2018,2411,Barclays Premier League,Brighton and Hove Albion,Swansea,52.35,54.4,0.4098,0.267,0.3231,1.14,0.86,4,1,2.79,0.61,1.55,0.8,3.62,1.05
-24-02-2018,2411,Barclays Premier League,Liverpool,West Ham United,88.57,57.23,0.8544,0.0423,0.1034,3.12,0.6,4,1,3.62,0.33,2.83,0.55,4.04,1.05
+12-02-2018,2411,Barclays Premier League,Chelsea,West Brom,80.44,54.39,0.7685,0.0614,0.1701,2.22,0.46,3,0,2.41,0.65,2.6,1.36,3.14,0
+24-02-2018,2411,Barclays Premier League,Leicester,Stoke,64.35,52.18,0.5745,0.1857,0.2398,1.85,0.95,1,1,1.22,0.22,0.68,0.26,1.05,1.05
+24-02-2018,2411,Barclays Premier League,Bournemouth,Newcastle,57.47,54.34,0.4791,0.2601,0.2609,1.64,1.14,2,2,1.28,3.36,1.98,0.85,2.1,2.1
+24-02-2018,2411,Barclays Premier League,Brighton,Swansea,52.35,54.4,0.4098,0.267,0.3231,1.14,0.86,4,1,2.79,0.61,1.55,0.8,3.62,1.05
+24-02-2018,2411,Barclays Premier League,Liverpool,West Ham,88.57,57.23,0.8544,0.0423,0.1034,3.12,0.6,4,1,3.62,0.33,2.83,0.55,4.04,1.05
 24-02-2018,2411,Barclays Premier League,Burnley,Southampton,59.55,59.34,0.439,0.2598,0.3012,1.29,0.92,1,1,1.46,0.94,1.38,1.13,1.05,1.05
-24-02-2018,2411,Barclays Premier League,West Bromwich Albion,Huddersfield Town,53.73,47.46,0.4949,0.2016,0.3035,1.32,0.73,1,2,1.51,0.94,0.99,0.96,1.05,2.1
-24-02-2018,2411,Barclays Premier League,Watford,Everton,60.52,57.58,0.4798,0.2686,0.2517,1.73,1.24,1,0,0.58,0.73,1.48,1.4,1.05,0
+24-02-2018,2411,Barclays Premier League,West Brom,Huddersfield,53.73,47.46,0.4949,0.2016,0.3035,1.32,0.73,1,2,1.51,0.94,0.99,0.96,1.05,2.1
+24-02-2018,2411,Barclays Premier League,Watford F.C.,Everton,60.52,57.58,0.4798,0.2686,0.2517,1.73,1.24,1,0,0.58,0.73,1.48,1.4,1.05,0
 25-02-2018,2411,Barclays Premier League,Crystal Palace,Tottenham,62,86.46,0.1772,0.5989,0.2239,1,2.02,0,1,0.19,2.04,0.47,1.96,0,1.05
-25-02-2018,2411,Barclays Premier League,Manchester United,Chelsea,78.4,81.04,0.4138,0.318,0.2682,1.5,1.28,2,1,1.41,1.85,1.57,1.7,2.1,1.05
-01-03-2018,2411,Barclays Premier League,Arsenal,Manchester City,80.23,91.2,0.2606,0.5247,0.2147,1.57,2.26,0,3,1.43,1.71,1.36,0.67,0,3.15
+25-02-2018,2411,Barclays Premier League,Manchester Utd,Chelsea,78.4,81.04,0.4138,0.318,0.2682,1.5,1.28,2,1,1.41,1.85,1.57,1.7,2.1,1.05
+01-03-2018,2411,Barclays Premier League,Arsenal F.C.,Manchester City,80.23,91.2,0.2606,0.5247,0.2147,1.57,2.26,0,3,1.43,1.71,1.36,0.67,0,3.15
 03-03-2018,2411,Barclays Premier League,Burnley,Everton,59.34,57.53,0.456,0.2486,0.2955,1.34,0.91,2,1,2.58,1.85,2.13,1.35,2.1,1.05
-03-03-2018,2411,Barclays Premier League,Watford,West Bromwich Albion,60.55,52.39,0.5265,0.2073,0.2662,1.6,0.9,1,0,1.32,1.05,1.3,1.17,1.05,0
-03-03-2018,2411,Barclays Premier League,Leicester City,AFC Bournemouth,63.89,56.59,0.5278,0.2288,0.2435,1.84,1.13,1,1,2.41,1.56,2.57,0.99,1.05,1.05
-03-03-2018,2411,Barclays Premier League,Tottenham,Huddersfield Town,86.87,48.75,0.8793,0.0177,0.103,2.63,0.21,2,0,1.78,0.13,1.71,0.27,2.1,0
-03-03-2018,2411,Barclays Premier League,Southampton,Stoke City,59.57,52.65,0.5167,0.2247,0.2585,1.67,1.02,0,0,1.05,0.52,1.85,1.21,0,0
-03-03-2018,2411,Barclays Premier League,Swansea,West Ham United,51.86,56.89,0.3904,0.3273,0.2822,1.35,1.21,4,1,2.21,0.39,0.6,1.2,4.2,1.05
+03-03-2018,2411,Barclays Premier League,Watford F.C.,West Brom,60.55,52.39,0.5265,0.2073,0.2662,1.6,0.9,1,0,1.32,1.05,1.3,1.17,1.05,0
+03-03-2018,2411,Barclays Premier League,Leicester,Bournemouth,63.89,56.59,0.5278,0.2288,0.2435,1.84,1.13,1,1,2.41,1.56,2.57,0.99,1.05,1.05
+03-03-2018,2411,Barclays Premier League,Tottenham,Huddersfield,86.87,48.75,0.8793,0.0177,0.103,2.63,0.21,2,0,1.78,0.13,1.71,0.27,2.1,0
+03-03-2018,2411,Barclays Premier League,Southampton,Stoke,59.57,52.65,0.5167,0.2247,0.2585,1.67,1.02,0,0,1.05,0.52,1.85,1.21,0,0
+03-03-2018,2411,Barclays Premier League,Swansea,West Ham,51.86,56.89,0.3904,0.3273,0.2822,1.35,1.21,4,1,2.21,0.39,0.6,1.2,4.2,1.05
 03-03-2018,2411,Barclays Premier League,Liverpool,Newcastle,88.79,55.18,0.8653,0.0343,0.1004,3.02,0.48,2,0,1.85,0.34,1.89,0.68,2.1,0
-04-03-2018,2411,Barclays Premier League,Brighton and Hove Albion,Arsenal,54.82,79.44,0.2053,0.5699,0.2249,1.16,2.05,2,1,1.44,0.96,1.68,3.07,2.1,1.05
+04-03-2018,2411,Barclays Premier League,Brighton,Arsenal F.C.,54.82,79.44,0.2053,0.5699,0.2249,1.16,2.05,2,1,1.44,0.96,1.68,3.07,2.1,1.05
 04-03-2018,2411,Barclays Premier League,Manchester City,Chelsea,91.52,80.94,0.6392,0.1551,0.2056,2.21,0.99,1,0,1.07,0.11,1.96,0.38,1.05,0
-05-03-2018,2411,Barclays Premier League,Crystal Palace,Manchester United,61.06,78.58,0.2569,0.4786,0.2645,1.11,1.6,2,3,0.72,1.47,1.06,2.83,2.1,3.15
-10-03-2018,2411,Barclays Premier League,Manchester United,Liverpool,78.99,88.25,0.3149,0.4337,0.2514,1.41,1.69,2,1,1,0.86,0.77,2.57,2.1,1.05
-10-03-2018,2411,Barclays Premier League,West Ham United,Burnley,54.76,59.87,0.3896,0.3244,0.286,1.32,1.18,0,3,0.76,1.28,1.76,1.23,0,2.86
-10-03-2018,2411,Barclays Premier League,Huddersfield Town,Swansea,48.81,53.87,0.3829,0.3031,0.314,1.14,0.98,0,0,1.58,0,2.61,0.12,0,0
-10-03-2018,2411,Barclays Premier League,West Bromwich Albion,Leicester City,52.42,63.8,0.3262,0.3778,0.296,1.13,1.23,1,4,0.46,1.92,1.06,1.59,1.05,3.53
-10-03-2018,2411,Barclays Premier League,Everton,Brighton and Hove Albion,56.98,56.12,0.4522,0.2731,0.2747,1.49,1.1,2,0,1.71,0.36,1.61,0.78,1.95,0
+05-03-2018,2411,Barclays Premier League,Crystal Palace,Manchester Utd,61.06,78.58,0.2569,0.4786,0.2645,1.11,1.6,2,3,0.72,1.47,1.06,2.83,2.1,3.15
+10-03-2018,2411,Barclays Premier League,Manchester Utd,Liverpool,78.99,88.25,0.3149,0.4337,0.2514,1.41,1.69,2,1,1,0.86,0.77,2.57,2.1,1.05
+10-03-2018,2411,Barclays Premier League,West Ham,Burnley,54.76,59.87,0.3896,0.3244,0.286,1.32,1.18,0,3,0.76,1.28,1.76,1.23,0,2.86
+10-03-2018,2411,Barclays Premier League,Huddersfield,Swansea,48.81,53.87,0.3829,0.3031,0.314,1.14,0.98,0,0,1.58,0,2.61,0.12,0,0
+10-03-2018,2411,Barclays Premier League,West Brom,Leicester,52.42,63.8,0.3262,0.3778,0.296,1.13,1.23,1,4,0.46,1.92,1.06,1.59,1.05,3.53
+10-03-2018,2411,Barclays Premier League,Everton,Brighton,56.98,56.12,0.4522,0.2731,0.2747,1.49,1.1,2,0,1.71,0.36,1.61,0.78,1.95,0
 10-03-2018,2411,Barclays Premier League,Newcastle,Southampton,55.28,59.27,0.4006,0.313,0.2864,1.34,1.15,3,0,1.46,0.59,0.82,0.91,3.15,0
 10-03-2018,2411,Barclays Premier League,Chelsea,Crystal Palace,80.56,60.69,0.6792,0.1189,0.2019,2.14,0.76,2,1,4.03,1.24,4.6,1.66,2.1,1.05
-11-03-2018,2411,Barclays Premier League,Arsenal,Watford,79.32,60.53,0.6694,0.1419,0.1887,2.42,1.03,3,0,2.06,1.5,2.11,1.45,2.98,0
-11-03-2018,2411,Barclays Premier League,AFC Bournemouth,Tottenham,56.69,86.83,0.1355,0.6751,0.1894,0.97,2.38,1,4,1.22,3.09,1.04,2.28,1.05,3.24
-12-03-2018,2411,Barclays Premier League,Stoke City,Manchester City,52.97,90.64,0.0854,0.7581,0.1565,0.76,2.6,0,2,0.25,1.61,0.47,1.65,0,2.1
-17-03-2018,2411,Barclays Premier League,Huddersfield Town,Crystal Palace,49.91,60.51,0.3338,0.3717,0.2946,1.15,1.23,0,2,0.37,2.95,0.3,1.92,0,2.1
-17-03-2018,2411,Barclays Premier League,AFC Bournemouth,West Bromwich Albion,56.31,50.44,0.5084,0.2332,0.2584,1.67,1.05,2,1,0.77,1.08,1.16,1.78,2.1,1.05
-17-03-2018,2411,Barclays Premier League,Stoke City,Everton,52.37,58.34,0.3828,0.3387,0.2785,1.36,1.27,1,2,1.1,3.7,1.27,1.79,1.05,1.68
-17-03-2018,2411,Barclays Premier League,Liverpool,Watford,88.03,60.08,0.8244,0.0509,0.1247,2.8,0.57,5,0,2,0.36,2.51,0.44,4.69,0
+11-03-2018,2411,Barclays Premier League,Arsenal F.C.,Watford F.C.,79.32,60.53,0.6694,0.1419,0.1887,2.42,1.03,3,0,2.06,1.5,2.11,1.45,2.98,0
+11-03-2018,2411,Barclays Premier League,Bournemouth,Tottenham,56.69,86.83,0.1355,0.6751,0.1894,0.97,2.38,1,4,1.22,3.09,1.04,2.28,1.05,3.24
+12-03-2018,2411,Barclays Premier League,Stoke,Manchester City,52.97,90.64,0.0854,0.7581,0.1565,0.76,2.6,0,2,0.25,1.61,0.47,1.65,0,2.1
+17-03-2018,2411,Barclays Premier League,Huddersfield,Crystal Palace,49.91,60.51,0.3338,0.3717,0.2946,1.15,1.23,0,2,0.37,2.95,0.3,1.92,0,2.1
+17-03-2018,2411,Barclays Premier League,Bournemouth,West Brom,56.31,50.44,0.5084,0.2332,0.2584,1.67,1.05,2,1,0.77,1.08,1.16,1.78,2.1,1.05
+17-03-2018,2411,Barclays Premier League,Stoke,Everton,52.37,58.34,0.3828,0.3387,0.2785,1.36,1.27,1,2,1.1,3.7,1.27,1.79,1.05,1.68
+17-03-2018,2411,Barclays Premier League,Liverpool,Watford F.C.,88.03,60.08,0.8244,0.0509,0.1247,2.8,0.57,5,0,2,0.36,2.51,0.44,4.69,0
 31-03-2018,2411,Barclays Premier League,Crystal Palace,Liverpool,62.98,88.76,0.1587,0.6407,0.2006,1.06,2.3,1,2,2.12,2.04,0.5,2.58,1.05,2.1
-31-03-2018,2411,Barclays Premier League,West Bromwich Albion,Burnley,50.82,61.68,0.3263,0.3532,0.3205,1.01,1.06,1,2,0.56,1.28,1.63,1.43,1.05,2.03
-31-03-2018,2411,Barclays Premier League,Watford,AFC Bournemouth,58.75,55.9,0.4797,0.2723,0.248,1.78,1.29,2,2,0.79,2.31,2.09,1.28,2.1,2.1
-31-03-2018,2411,Barclays Premier League,Brighton and Hove Albion,Leicester City,54.79,65.74,0.3318,0.3825,0.2857,1.2,1.31,0,2,1.64,1.06,0.86,1.19,0,1.58
-31-03-2018,2411,Barclays Premier League,West Ham United,Southampton,52.78,57.43,0.4002,0.3351,0.2647,1.51,1.36,3,0,1.45,0.64,0.77,1.43,3.15,0
-31-03-2018,2411,Barclays Premier League,Manchester United,Swansea,78.47,52.82,0.761,0.0636,0.1754,2.17,0.46,2,0,2.19,0.25,2.58,0.9,2.1,0
-31-03-2018,2411,Barclays Premier League,Newcastle,Huddersfield Town,57.12,47.48,0.5341,0.1813,0.2846,1.45,0.72,1,0,2.72,0.29,1.01,0.47,1.05,0
+31-03-2018,2411,Barclays Premier League,West Brom,Burnley,50.82,61.68,0.3263,0.3532,0.3205,1.01,1.06,1,2,0.56,1.28,1.63,1.43,1.05,2.03
+31-03-2018,2411,Barclays Premier League,Watford F.C.,Bournemouth,58.75,55.9,0.4797,0.2723,0.248,1.78,1.29,2,2,0.79,2.31,2.09,1.28,2.1,2.1
+31-03-2018,2411,Barclays Premier League,Brighton,Leicester,54.79,65.74,0.3318,0.3825,0.2857,1.2,1.31,0,2,1.64,1.06,0.86,1.19,0,1.58
+31-03-2018,2411,Barclays Premier League,West Ham,Southampton,52.78,57.43,0.4002,0.3351,0.2647,1.51,1.36,3,0,1.45,0.64,0.77,1.43,3.15,0
+31-03-2018,2411,Barclays Premier League,Manchester Utd,Swansea,78.47,52.82,0.761,0.0636,0.1754,2.17,0.46,2,0,2.19,0.25,2.58,0.9,2.1,0
+31-03-2018,2411,Barclays Premier League,Newcastle,Huddersfield,57.12,47.48,0.5341,0.1813,0.2846,1.45,0.72,1,0,2.72,0.29,1.01,0.47,1.05,0
 31-03-2018,2411,Barclays Premier League,Everton,Manchester City,59.77,90.81,0.113,0.7118,0.1752,0.89,2.49,1,3,0.85,1.64,1.03,2.77,1.05,3.15
-01-04-2018,2411,Barclays Premier League,Arsenal,Stoke City,80.25,50.94,0.8017,0.0631,0.1352,2.76,0.66,3,0,3.46,0.37,2.51,1.18,2.26,0
+01-04-2018,2411,Barclays Premier League,Arsenal F.C.,Stoke,80.25,50.94,0.8017,0.0631,0.1352,2.76,0.66,3,0,3.46,0.37,2.51,1.18,2.26,0
 01-04-2018,2411,Barclays Premier League,Chelsea,Tottenham,80.79,87.1,0.3469,0.3888,0.2643,1.39,1.49,1,3,1.12,1.66,2.1,1.29,1.05,3.15
 07-04-2018,2411,Barclays Premier League,Everton,Liverpool,59.82,89.26,0.1317,0.6872,0.1811,1.01,2.5,0,0,0.77,0.95,0.8,1.39,0,0
-07-04-2018,2411,Barclays Premier League,West Bromwich Albion,Swansea,50.14,52.25,0.4137,0.2777,0.3086,1.22,0.94,1,1,1.34,0.78,2.01,0.56,1.05,1.05
-07-04-2018,2411,Barclays Premier League,Brighton and Hove Albion,Huddersfield Town,53.87,46.76,0.5039,0.1927,0.3034,1.32,0.7,1,1,1.65,1.31,1.71,1.45,1.05,1.05
-07-04-2018,2411,Barclays Premier League,Watford,Burnley,58.04,62.32,0.3941,0.3121,0.2937,1.28,1.1,1,2,0.91,1,1.83,0.85,1.05,2.1
-07-04-2018,2411,Barclays Premier League,AFC Bournemouth,Crystal Palace,56.64,63.23,0.3805,0.3672,0.2523,1.58,1.55,2,2,2.4,1.04,2.41,1.68,2.1,2.1
-07-04-2018,2411,Barclays Premier League,Stoke City,Tottenham,50.3,87.64,0.0991,0.7225,0.1784,0.75,2.35,1,2,1.37,1.4,1.28,1.24,1.05,2.1
-07-04-2018,2411,Barclays Premier League,Leicester City,Newcastle,66.61,57.9,0.5344,0.2032,0.2624,1.63,0.9,1,2,1,0.35,1.43,0.49,1.05,1.98
-07-04-2018,2411,Barclays Premier League,Manchester City,Manchester United,90.2,78.9,0.6337,0.1497,0.2166,2.05,0.88,2,3,3.12,1.32,2.83,0.8,2.1,3.15
-08-04-2018,2411,Barclays Premier League,Arsenal,Southampton,81.8,55.89,0.7782,0.0764,0.1453,2.72,0.75,3,2,1.61,2.61,1.85,1.62,3.15,2.1
-08-04-2018,2411,Barclays Premier League,Chelsea,West Ham United,80.21,54.39,0.7784,0.0732,0.1484,2.63,0.69,1,1,2.11,0.34,4.08,0.44,1.05,1.05
+07-04-2018,2411,Barclays Premier League,West Brom,Swansea,50.14,52.25,0.4137,0.2777,0.3086,1.22,0.94,1,1,1.34,0.78,2.01,0.56,1.05,1.05
+07-04-2018,2411,Barclays Premier League,Brighton,Huddersfield,53.87,46.76,0.5039,0.1927,0.3034,1.32,0.7,1,1,1.65,1.31,1.71,1.45,1.05,1.05
+07-04-2018,2411,Barclays Premier League,Watford F.C.,Burnley,58.04,62.32,0.3941,0.3121,0.2937,1.28,1.1,1,2,0.91,1,1.83,0.85,1.05,2.1
+07-04-2018,2411,Barclays Premier League,Bournemouth,Crystal Palace,56.64,63.23,0.3805,0.3672,0.2523,1.58,1.55,2,2,2.4,1.04,2.41,1.68,2.1,2.1
+07-04-2018,2411,Barclays Premier League,Stoke,Tottenham,50.3,87.64,0.0991,0.7225,0.1784,0.75,2.35,1,2,1.37,1.4,1.28,1.24,1.05,2.1
+07-04-2018,2411,Barclays Premier League,Leicester,Newcastle,66.61,57.9,0.5344,0.2032,0.2624,1.63,0.9,1,2,1,0.35,1.43,0.49,1.05,1.98
+07-04-2018,2411,Barclays Premier League,Manchester City,Manchester Utd,90.2,78.9,0.6337,0.1497,0.2166,2.05,0.88,2,3,3.12,1.32,2.83,0.8,2.1,3.15
+08-04-2018,2411,Barclays Premier League,Arsenal F.C.,Southampton,81.8,55.89,0.7782,0.0764,0.1453,2.72,0.75,3,2,1.61,2.61,1.85,1.62,3.15,2.1
+08-04-2018,2411,Barclays Premier League,Chelsea,West Ham,80.21,54.39,0.7784,0.0732,0.1484,2.63,0.69,1,1,2.11,0.34,4.08,0.44,1.05,1.05
 14-04-2018,2411,Barclays Premier League,Southampton,Chelsea,57.7,80,0.2164,0.5434,0.2402,1.1,1.87,2,3,1.38,1.02,1.05,1.97,2.1,3.15
 14-04-2018,2411,Barclays Premier League,Swansea,Everton,51.96,60.11,0.3583,0.35,0.2917,1.22,1.21,1,1,1.53,1.63,2.3,1.39,1.05,1.05
-14-04-2018,2411,Barclays Premier League,Huddersfield Town,Watford,47.41,57.49,0.3376,0.3666,0.2958,1.15,1.21,1,0,0.94,0.3,1.37,1.01,1.05,0
-14-04-2018,2411,Barclays Premier League,Burnley,Leicester City,62.84,65.71,0.4104,0.2931,0.2965,1.28,1.04,2,1,1.07,1.92,0.69,1.81,2.1,1.05
-14-04-2018,2411,Barclays Premier League,Crystal Palace,Brighton and Hove Albion,62.7,53.15,0.5425,0.1996,0.2579,1.68,0.91,3,2,2.12,1.3,1.42,1.17,3.15,2.1
-14-04-2018,2411,Barclays Premier League,Liverpool,AFC Bournemouth,89.16,57.22,0.8668,0.037,0.0962,3.19,0.57,3,0,2.36,0.63,2.78,0.61,2.65,0
+14-04-2018,2411,Barclays Premier League,Huddersfield,Watford F.C.,47.41,57.49,0.3376,0.3666,0.2958,1.15,1.21,1,0,0.94,0.3,1.37,1.01,1.05,0
+14-04-2018,2411,Barclays Premier League,Burnley,Leicester,62.84,65.71,0.4104,0.2931,0.2965,1.28,1.04,2,1,1.07,1.92,0.69,1.81,2.1,1.05
+14-04-2018,2411,Barclays Premier League,Crystal Palace,Brighton,62.7,53.15,0.5425,0.1996,0.2579,1.68,0.91,3,2,2.12,1.3,1.42,1.17,3.15,2.1
+14-04-2018,2411,Barclays Premier League,Liverpool,Bournemouth,89.16,57.22,0.8668,0.037,0.0962,3.19,0.57,3,0,2.36,0.63,2.78,0.61,2.65,0
 14-04-2018,2411,Barclays Premier League,Tottenham,Manchester City,86.93,89.53,0.4029,0.3384,0.2587,1.57,1.42,1,3,0.6,3.13,1.8,1.45,1.05,3.11
-15-04-2018,2411,Barclays Premier League,Newcastle,Arsenal,58.83,80.46,0.2283,0.5473,0.2244,1.29,2.08,2,1,0.88,1.74,0.91,1.92,2.1,1.05
-15-04-2018,2411,Barclays Premier League,Manchester United,West Bromwich Albion,79.93,50.44,0.7981,0.0514,0.1505,2.39,0.44,0,1,0.83,0.84,2.62,0.79,0,1.05
-16-04-2018,2411,Barclays Premier League,West Ham United,Stoke City,54.63,51.58,0.479,0.2598,0.2612,1.63,1.14,1,1,0.78,1.28,3,1.64,1.05,1.05
-17-04-2018,2411,Barclays Premier League,Brighton and Hove Albion,Tottenham,53.3,85.93,0.1297,0.6681,0.2022,0.84,2.17,1,1,1.04,1.54,0.36,1.86,1.05,1.05
-18-04-2018,2411,Barclays Premier League,AFC Bournemouth,Manchester United,56.89,78.5,0.2227,0.5527,0.2246,1.25,2.08,0,2,1.21,1.41,1.21,1.24,0,2.1
-19-04-2018,2411,Barclays Premier League,Leicester City,Southampton,65.97,58.14,0.53,0.2177,0.2523,1.74,1.02,0,0,0.6,0.75,1.33,0.61,0,0
+15-04-2018,2411,Barclays Premier League,Newcastle,Arsenal F.C.,58.83,80.46,0.2283,0.5473,0.2244,1.29,2.08,2,1,0.88,1.74,0.91,1.92,2.1,1.05
+15-04-2018,2411,Barclays Premier League,Manchester Utd,West Brom,79.93,50.44,0.7981,0.0514,0.1505,2.39,0.44,0,1,0.83,0.84,2.62,0.79,0,1.05
+16-04-2018,2411,Barclays Premier League,West Ham,Stoke,54.63,51.58,0.479,0.2598,0.2612,1.63,1.14,1,1,0.78,1.28,3,1.64,1.05,1.05
+17-04-2018,2411,Barclays Premier League,Brighton,Tottenham,53.3,85.93,0.1297,0.6681,0.2022,0.84,2.17,1,1,1.04,1.54,0.36,1.86,1.05,1.05
+18-04-2018,2411,Barclays Premier League,Bournemouth,Manchester Utd,56.89,78.5,0.2227,0.5527,0.2246,1.25,2.08,0,2,1.21,1.41,1.21,1.24,0,2.1
+19-04-2018,2411,Barclays Premier League,Leicester,Southampton,65.97,58.14,0.53,0.2177,0.2523,1.74,1.02,0,0,0.6,0.75,1.33,0.61,0,0
 19-04-2018,2411,Barclays Premier League,Burnley,Chelsea,62.62,79.75,0.2627,0.4661,0.2712,1.09,1.53,1,2,0.26,1.84,0.61,1.74,1.05,2.1
-21-04-2018,2411,Barclays Premier League,West Bromwich Albion,Liverpool,52.23,89.26,0.0956,0.7268,0.1776,0.72,2.34,2,2,1.33,1.58,1.54,1.94,2.1,2.07
-21-04-2018,2411,Barclays Premier League,Watford,Crystal Palace,56.57,62.57,0.3858,0.3517,0.2625,1.5,1.42,0,0,0.62,0.22,0.71,0.85,0,0
-22-04-2018,2411,Barclays Premier League,Stoke City,Burnley,51.89,61.77,0.3391,0.3566,0.3043,1.11,1.15,1,1,0.35,1.38,1.43,1.15,1.05,1.05
-22-04-2018,2411,Barclays Premier League,Arsenal,West Ham United,79.85,54.32,0.776,0.0854,0.1386,2.97,0.93,4,1,2.05,0.88,4.45,1.22,3.33,1.05
+21-04-2018,2411,Barclays Premier League,West Brom,Liverpool,52.23,89.26,0.0956,0.7268,0.1776,0.72,2.34,2,2,1.33,1.58,1.54,1.94,2.1,2.07
+21-04-2018,2411,Barclays Premier League,Watford F.C.,Crystal Palace,56.57,62.57,0.3858,0.3517,0.2625,1.5,1.42,0,0,0.62,0.22,0.71,0.85,0,0
+22-04-2018,2411,Barclays Premier League,Stoke,Burnley,51.89,61.77,0.3391,0.3566,0.3043,1.11,1.15,1,1,0.35,1.38,1.43,1.15,1.05,1.05
+22-04-2018,2411,Barclays Premier League,Arsenal F.C.,West Ham,79.85,54.32,0.776,0.0854,0.1386,2.97,0.93,4,1,2.05,0.88,4.45,1.22,3.33,1.05
 22-04-2018,2411,Barclays Premier League,Manchester City,Swansea,90.46,52.2,0.8978,0.0168,0.0854,2.92,0.25,5,0,3.37,0.29,3.04,0.23,4.79,0
 23-04-2018,2411,Barclays Premier League,Everton,Newcastle,59.86,59.56,0.445,0.2771,0.2779,1.46,1.09,1,0,1.04,0.56,1.13,1.44,1.05,0
-28-04-2018,2411,Barclays Premier League,Liverpool,Stoke City,88.84,51.67,0.8861,0.0246,0.0893,3.04,0.38,0,0,2.25,0.74,2.42,0.39,0,0
-28-04-2018,2411,Barclays Premier League,Huddersfield Town,Everton,48.33,60.07,0.3209,0.3756,0.3035,1.07,1.19,0,2,0.45,0.98,0.9,1.01,0,1.92
-28-04-2018,2411,Barclays Premier League,Southampton,AFC Bournemouth,58.58,56.3,0.472,0.2732,0.2548,1.7,1.23,2,1,1.69,0.98,0.97,1.8,2.1,1.05
-28-04-2018,2411,Barclays Premier League,Newcastle,West Bromwich Albion,59.33,54.47,0.487,0.2247,0.2883,1.41,0.87,0,1,1.91,0.69,2.56,0.93,0,1.05
-28-04-2018,2411,Barclays Premier League,Burnley,Brighton and Hove Albion,61.98,53.95,0.518,0.1949,0.2871,1.43,0.76,0,0,1.58,0.36,1.28,0.7,0,0
-28-04-2018,2411,Barclays Premier League,Crystal Palace,Leicester City,62.7,65.47,0.4139,0.3128,0.2733,1.46,1.23,5,0,2.34,0.95,1.72,0.89,3.69,0
+28-04-2018,2411,Barclays Premier League,Liverpool,Stoke,88.84,51.67,0.8861,0.0246,0.0893,3.04,0.38,0,0,2.25,0.74,2.42,0.39,0,0
+28-04-2018,2411,Barclays Premier League,Huddersfield,Everton,48.33,60.07,0.3209,0.3756,0.3035,1.07,1.19,0,2,0.45,0.98,0.9,1.01,0,1.92
+28-04-2018,2411,Barclays Premier League,Southampton,Bournemouth,58.58,56.3,0.472,0.2732,0.2548,1.7,1.23,2,1,1.69,0.98,0.97,1.8,2.1,1.05
+28-04-2018,2411,Barclays Premier League,Newcastle,West Brom,59.33,54.47,0.487,0.2247,0.2883,1.41,0.87,0,1,1.91,0.69,2.56,0.93,0,1.05
+28-04-2018,2411,Barclays Premier League,Burnley,Brighton,61.98,53.95,0.518,0.1949,0.2871,1.43,0.76,0,0,1.58,0.36,1.28,0.7,0,0
+28-04-2018,2411,Barclays Premier League,Crystal Palace,Leicester,62.7,65.47,0.4139,0.3128,0.2733,1.46,1.23,5,0,2.34,0.95,1.72,0.89,3.69,0
 28-04-2018,2411,Barclays Premier League,Swansea,Chelsea,50.95,80.41,0.1655,0.605,0.2295,0.9,1.94,0,1,0.66,1.48,0.89,2.4,0,1.05
-29-04-2018,2411,Barclays Premier League,West Ham United,Manchester City,53.92,91.08,0.0822,0.7793,0.1384,0.89,2.93,1,4,0.3,2.16,0.63,3.29,1.05,4.2
-29-04-2018,2411,Barclays Premier League,Manchester United,Arsenal,78.86,81.18,0.4371,0.3279,0.235,1.89,1.62,2,1,1.84,0.66,2.02,0.9,2.1,1.05
-30-04-2018,2411,Barclays Premier League,Tottenham,Watford,85.49,56.39,0.8171,0.0467,0.1361,2.54,0.45,2,0,1.81,1.78,1.74,0.91,2.1,0
-04-05-2018,2411,Barclays Premier League,Brighton and Hove Albion,Manchester United,54.11,79.39,0.1951,0.5533,0.2516,0.93,1.74,1,0,0.88,0.75,0.56,1.63,1.05,0
-05-05-2018,2411,Barclays Premier League,Stoke City,Crystal Palace,52.52,65.5,0.3145,0.4095,0.2761,1.22,1.43,1,2,0.72,1.33,1.42,1.34,1.05,2.1
-05-05-2018,2411,Barclays Premier League,Leicester City,West Ham United,62.77,53.38,0.5476,0.2113,0.2412,1.86,1.07,0,2,0.45,1.31,0.54,1.56,0,2.1
-05-05-2018,2411,Barclays Premier League,West Bromwich Albion,Tottenham,54.9,85.09,0.1471,0.6336,0.2193,0.85,2.01,1,0,0.96,1.16,1,2.6,1.05,0
-05-05-2018,2411,Barclays Premier League,AFC Bournemouth,Swansea,56.28,50.48,0.5064,0.231,0.2626,1.63,1.02,1,0,1.61,1.23,1.32,1.89,1.05,0
-05-05-2018,2411,Barclays Premier League,Watford,Newcastle,56.99,58.9,0.4193,0.2878,0.2929,1.32,1.04,2,1,3.45,0.8,0.61,1.44,2.1,1.05
+29-04-2018,2411,Barclays Premier League,West Ham,Manchester City,53.92,91.08,0.0822,0.7793,0.1384,0.89,2.93,1,4,0.3,2.16,0.63,3.29,1.05,4.2
+29-04-2018,2411,Barclays Premier League,Manchester Utd,Arsenal F.C.,78.86,81.18,0.4371,0.3279,0.235,1.89,1.62,2,1,1.84,0.66,2.02,0.9,2.1,1.05
+30-04-2018,2411,Barclays Premier League,Tottenham,Watford F.C.,85.49,56.39,0.8171,0.0467,0.1361,2.54,0.45,2,0,1.81,1.78,1.74,0.91,2.1,0
+04-05-2018,2411,Barclays Premier League,Brighton,Manchester Utd,54.11,79.39,0.1951,0.5533,0.2516,0.93,1.74,1,0,0.88,0.75,0.56,1.63,1.05,0
+05-05-2018,2411,Barclays Premier League,Stoke,Crystal Palace,52.52,65.5,0.3145,0.4095,0.2761,1.22,1.43,1,2,0.72,1.33,1.42,1.34,1.05,2.1
+05-05-2018,2411,Barclays Premier League,Leicester,West Ham,62.77,53.38,0.5476,0.2113,0.2412,1.86,1.07,0,2,0.45,1.31,0.54,1.56,0,2.1
+05-05-2018,2411,Barclays Premier League,West Brom,Tottenham,54.9,85.09,0.1471,0.6336,0.2193,0.85,2.01,1,0,0.96,1.16,1,2.6,1.05,0
+05-05-2018,2411,Barclays Premier League,Bournemouth,Swansea,56.28,50.48,0.5064,0.231,0.2626,1.63,1.02,1,0,1.61,1.23,1.32,1.89,1.05,0
+05-05-2018,2411,Barclays Premier League,Watford F.C.,Newcastle,56.99,58.9,0.4193,0.2878,0.2929,1.32,1.04,2,1,3.45,0.8,0.61,1.44,2.1,1.05
 05-05-2018,2411,Barclays Premier League,Everton,Southampton,61.47,58.6,0.4732,0.2552,0.2717,1.54,1.06,1,1,0.47,0.62,1.35,0.55,0.84,1.05
-06-05-2018,2411,Barclays Premier League,Manchester City,Huddersfield Town,91.33,46.98,0.9151,0.0116,0.0733,3.02,0.2,0,0,0.92,0.55,1.85,0.47,0,0
+06-05-2018,2411,Barclays Premier League,Manchester City,Huddersfield,91.33,46.98,0.9151,0.0116,0.0733,3.02,0.2,0,0,0.92,0.55,1.85,0.47,0,0
 06-05-2018,2411,Barclays Premier League,Chelsea,Liverpool,80.7,87.61,0.3484,0.404,0.2476,1.55,1.68,1,0,0.66,0.61,2.02,1.97,1.05,0
-06-05-2018,2411,Barclays Premier League,Arsenal,Burnley,80.32,61.81,0.6531,0.1386,0.2084,2.12,0.86,5,0,2.54,0.22,2.96,1.11,5.14,0
+06-05-2018,2411,Barclays Premier League,Arsenal F.C.,Burnley,80.32,61.81,0.6531,0.1386,0.2084,2.12,0.86,5,0,2.54,0.22,2.96,1.11,5.14,0
 08-05-2018,2411,Barclays Premier League,Swansea,Southampton,50.63,58.99,0.3534,0.342,0.3046,1.14,1.12,0,1,0.45,1.9,0.99,1.65,0,1.05
-09-05-2018,2411,Barclays Premier League,Leicester City,Arsenal,60.43,82.09,0.2225,0.5599,0.2176,1.32,2.18,3,1,2.24,1.82,1.61,2.28,2.33,1.05
-09-05-2018,2411,Barclays Premier League,Chelsea,Huddersfield Town,80.98,48.54,0.8171,0.0326,0.1503,2.22,0.26,1,1,2.4,0.78,6.1,0.22,1.05,1.05
-09-05-2018,2411,Barclays Premier League,Manchester City,Brighton and Hove Albion,90.49,55.03,0.8822,0.0208,0.097,2.79,0.28,3,1,1.6,1.18,2.67,0.29,3.11,1.05
+09-05-2018,2411,Barclays Premier League,Leicester,Arsenal F.C.,60.43,82.09,0.2225,0.5599,0.2176,1.32,2.18,3,1,2.24,1.82,1.61,2.28,2.33,1.05
+09-05-2018,2411,Barclays Premier League,Chelsea,Huddersfield,80.98,48.54,0.8171,0.0326,0.1503,2.22,0.26,1,1,2.4,0.78,6.1,0.22,1.05,1.05
+09-05-2018,2411,Barclays Premier League,Manchester City,Brighton,90.49,55.03,0.8822,0.0208,0.097,2.79,0.28,3,1,1.6,1.18,2.67,0.29,3.11,1.05
 09-05-2018,2411,Barclays Premier League,Tottenham,Newcastle,84.32,58.06,0.7864,0.0552,0.1584,2.32,0.45,1,0,0.83,0.81,1.78,1.53,1.05,0
-10-05-2018,2411,Barclays Premier League,West Ham United,Manchester United,55.85,78.61,0.2134,0.5507,0.2358,1.11,1.92,0,0,0.72,0.76,1.39,1.81,0,0
-13-05-2018,2411,Barclays Premier League,Burnley,AFC Bournemouth,59.71,56.15,0.48,0.2476,0.2724,1.53,1.03,1,2,1.42,1.58,1.55,1.17,1.05,2.1
-13-05-2018,2411,Barclays Premier League,Swansea,Stoke City,49.23,52.03,0.4044,0.2833,0.3123,1.18,0.94,1,2,2.12,1.9,3.35,0.61,1.05,2.1
-13-05-2018,2411,Barclays Premier League,Manchester United,Watford,78.32,57.86,0.6745,0.1133,0.2122,2,0.67,1,0,0.54,0.68,0.92,1.48,1.05,0
-13-05-2018,2411,Barclays Premier League,Huddersfield Town,Arsenal,48.81,80.86,0.152,0.6412,0.2068,0.96,2.19,0,1,1.49,1.98,1.85,1.41,0,1.05
-13-05-2018,2411,Barclays Premier League,Tottenham,Leicester City,83.63,62.1,0.7473,0.0778,0.1749,2.27,0.58,5,4,1.98,1.34,1.46,1.81,5.25,4.2
-13-05-2018,2411,Barclays Premier League,Liverpool,Brighton and Hove Albion,87.19,56.04,0.8365,0.0398,0.1238,2.65,0.43,4,0,4.1,0.05,3,0.27,3.81,0
+10-05-2018,2411,Barclays Premier League,West Ham,Manchester Utd,55.85,78.61,0.2134,0.5507,0.2358,1.11,1.92,0,0,0.72,0.76,1.39,1.81,0,0
+13-05-2018,2411,Barclays Premier League,Burnley,Bournemouth,59.71,56.15,0.48,0.2476,0.2724,1.53,1.03,1,2,1.42,1.58,1.55,1.17,1.05,2.1
+13-05-2018,2411,Barclays Premier League,Swansea,Stoke,49.23,52.03,0.4044,0.2833,0.3123,1.18,0.94,1,2,2.12,1.9,3.35,0.61,1.05,2.1
+13-05-2018,2411,Barclays Premier League,Manchester Utd,Watford F.C.,78.32,57.86,0.6745,0.1133,0.2122,2,0.67,1,0,0.54,0.68,0.92,1.48,1.05,0
+13-05-2018,2411,Barclays Premier League,Huddersfield,Arsenal F.C.,48.81,80.86,0.152,0.6412,0.2068,0.96,2.19,0,1,1.49,1.98,1.85,1.41,0,1.05
+13-05-2018,2411,Barclays Premier League,Tottenham,Leicester,83.63,62.1,0.7473,0.0778,0.1749,2.27,0.58,5,4,1.98,1.34,1.46,1.81,5.25,4.2
+13-05-2018,2411,Barclays Premier League,Liverpool,Brighton,87.19,56.04,0.8365,0.0398,0.1238,2.65,0.43,4,0,4.1,0.05,3,0.27,3.81,0
 13-05-2018,2411,Barclays Premier League,Southampton,Manchester City,60.42,90.05,0.1295,0.675,0.1955,0.88,2.26,0,1,0.49,0.91,0.86,1.4,0,1.05
-13-05-2018,2411,Barclays Premier League,Crystal Palace,West Bromwich Albion,65.97,56.01,0.5477,0.1964,0.2559,1.69,0.91,2,0,2.09,0.22,2.01,0.36,1.91,0
+13-05-2018,2411,Barclays Premier League,Crystal Palace,West Brom,65.97,56.01,0.5477,0.1964,0.2559,1.69,0.91,2,0,2.09,0.22,2.01,0.36,1.91,0
 13-05-2018,2411,Barclays Premier League,Newcastle,Chelsea,58.98,80.83,0.2189,0.5251,0.256,1.01,1.7,3,0,2.25,0.99,1.03,1.16,3.15,0
-13-05-2018,2411,Barclays Premier League,West Ham United,Everton,56.06,61.06,0.3934,0.3341,0.2725,1.43,1.3,3,1,1.17,1.75,2.02,1.06,2.85,1.05
+13-05-2018,2411,Barclays Premier League,West Ham,Everton,56.06,61.06,0.3934,0.3341,0.2725,1.43,1.3,3,1,1.17,1.75,2.02,1.06,2.85,1.05

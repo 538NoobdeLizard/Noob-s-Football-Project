@@ -5,14 +5,14 @@
 3,L. Suarez,92,FC Barcelona,ST 
 4,M. Neuer,92,FC Bayern Munich,GK 
 5,R. Lewandowski,91,FC Bayern Munich,ST 
-6,De Gea,90,Manchester United,GK 
+6,De Gea,90,Manchester Utd,GK 
 7,E. Hazard,90,Chelsea,LW 
 8,T. Kroos,90,Real Madrid CF,CDM CM 
 9,G. Higuain,90,Juventus,ST 
 10,Sergio Ramos,90,Real Madrid CF,CB 
 11,K. De Bruyne,89,Manchester City,RM CM CAM 
 12,T. Courtois,89,Chelsea,GK 
-13,A. Sanchez,89,Arsenal,RM LW ST LM 
+13,A. Sanchez,89,Arsenal F.C.,RM LW ST LM 
 14,L. Modric,89,Real Madrid CF,CDM CM 
 15,G. Bale,89,Real Madrid CF,RW 
 16,S. Aguero,89,Manchester City,ST 
@@ -27,14 +27,14 @@
 25,J. Boateng,88,FC Bayern Munich,CB 
 26,D. Godin,88,Atletico Madrid,CB 
 27,M. Hummels,88,FC Bayern Munich,CB 
-28,M. ozil,88,Arsenal,RW CAM 
+28,M. ozil,88,Arsenal F.C.,RW CAM 
 29,H. Lloris,88,Tottenham,GK 
 30,Thiago Silva,88,Paris Saint-Germain,CB 
-31,Z. Ibrahimovic,88,Manchester United,ST 
+31,Z. Ibrahimovic,88,Manchester Utd,ST 
 32,A. Robben,88,FC Bayern Munich,RW RM 
 33,N. Kante,87,Chelsea,CM CDM 
 34,M. Verratti,87,Paris Saint-Germain,CDM CM 
-35,P. Pogba,87,Manchester United,CDM CM 
+35,P. Pogba,87,Manchester Utd,CDM CM 
 36,C. Eriksen,87,Tottenham,LM RM CAM 
 37,A. Vidal,87,FC Bayern Munich,CM CDM 
 38,E. Cavani,87,Paris Saint-Germain,ST 
@@ -49,7 +49,7 @@
 47,J. Rodriguez,86,FC Bayern Munich,RM CM CAM 
 48,Isco,86,Real Madrid CF,LM RM CAM CM 
 49,D. Alaba,86,FC Bayern Munich,CM CB LB 
-50,R. Lukaku,86,Manchester United,ST 
+50,R. Lukaku,86,Manchester Utd,ST 
 51,Alex Sandro,86,Juventus,LM LB 
 52,T. Muller,86,FC Bayern Munich,ST CAM RW CF 
 53,Sergio Busquets,86,FC Barcelona,CM CDM 
@@ -67,14 +67,14 @@
 65,Cesc Fàbregas,86,Chelsea,CAM CDM CM 
 66,F. Ribery,86,FC Bayern Munich,LW LM 
 67,Pepe,86,Beşiktaş JK,CB 
-68,P. Čech,86,Arsenal,GK 
+68,P. Čech,86,Arsenal F.C.,GK 
 69,Y. Carrasco,85,Atletico Madrid,RM LM 
 70,R. Varane,85,Real Madrid CF,CB 
 71,Casemiro,85,Real Madrid CF,CDM 
 72,L. Insigne,85,Napoli,LW 
-73,A. Lacazette,85,Arsenal,ST 
+73,A. Lacazette,85,Arsenal F.C.,ST 
 74,K. Navas,85,Real Madrid CF,GK 
-75,H. Mkhitaryan,85,Manchester United,LM RW RM 
+75,H. Mkhitaryan,85,Manchester Utd,LM RW RM 
 76,D. Subašic,85,AS Monaco,GK 
 77,B. Leno,85,Bayer 04 Leverkusen,GK 
 78,M. ter Stegen,85,FC Barcelona,GK 
@@ -91,7 +91,7 @@
 89,Filipe Luis,85,Atletico Madrid,LB 
 90,V. Kompany,85,Manchester City,CB 
 91,A. Barzagli,85,Juventus,CB 
-92,E. Bailly,84,Manchester United,CB 
+92,E. Bailly,84,Manchester Utd,CB 
 93,Marco Asensio,84,Real Madrid CF,LW LM RM CAM 
 94,Bernardo Silva,84,Manchester City,RM 
 95,A. Laporte,84,Athletic Club de Bilbao,CB 
@@ -105,8 +105,8 @@
 103,T. Horn,84,1. FC Köln,GK 
 104,Koke,84,Atletico Madrid,LM RM CM 
 105,K. Manolas,84,Roma,CB 
-106,S. Mustafi,84,Arsenal,CB 
-107,Ander Herrera,84,Manchester United,CDM CM 
+106,S. Mustafi,84,Arsenal F.C.,CB 
+107,Ander Herrera,84,Manchester Utd,CDM CM 
 108,K. Strootman,84,Roma,CDM CM 
 109,Pedro,84,Chelsea,LW RW 
 110,R. Burki,84,Borussia Dortmund,GK 
@@ -117,11 +117,11 @@
 115,S. Khedira,84,Juventus,CDM CM 
 116,R. Fährmann,84,FC Schalke 04,GK 
 117,Sergio Asenjo,84,Villarreal CF,GK 
-118,Juan Mata,84,Manchester United,RM CAM 
+118,Juan Mata,84,Manchester Utd,RM CAM 
 119,M. Benatia,84,Juventus,CB 
 120,D. Payet,84,Olympique de Marseille,CAM LW 
 121,Falcao,84,AS Monaco,ST 
-122,L. Koscielny,84,Arsenal,CB 
+122,L. Koscielny,84,Arsenal F.C.,CB 
 123,G. Cahill,84,Chelsea,CB 
 124,Dani Alves,84,Paris Saint-Germain,RB 
 125,A. Gómez,84,Atalanta,ST LW CF 
@@ -142,7 +142,7 @@
 140,Marquinhos,83,Paris Saint-Germain,CB 
 141,William Carvalho,83,Sporting CP,CM CDM 
 142,S. Umtiti,83,FC Barcelona,CB 
-143,R. Mahrez,83,Leicester City,RM 
+143,R. Mahrez,83,Leicester,RM 
 144,V. van Dijk,83,Southampton,CB 
 145,Roberto Firmino,83,Liverpool,CAM CF ST 
 146,Danilo Pereira,83,FC Porto,CM CB CDM 
@@ -154,7 +154,7 @@
 152,I. Gueye,83,Everton,CM CDM 
 153,Iago Aspas,83,RC Celta de Vigo,RW ST 
 154,N. Otamendi,83,Manchester City,CB 
-155,N. Matic,83,Manchester United,CM CDM 
+155,N. Matic,83,Manchester Utd,CM CDM 
 156,J. Pastore,83,Paris Saint-Germain,RW LW CM 
 157,Parejo,83,Valencia CF,CDM CAM CM 
 158,S. Kagawa,83,Borussia Dortmund,CF CAM 
@@ -180,15 +180,15 @@
 178,K. Gameiro,83,Atletico Madrid,ST 
 179,L. Piszczek,83,Borussia Dortmund,CB RB 
 180,E. Garay,83,Valencia CF,CB 
-181,A. Valencia,83,Manchester United,RB 
-182,K. Schmeichel,83,Leicester City,GK 
+181,A. Valencia,83,Manchester Utd,RB 
+182,K. Schmeichel,83,Leicester,GK 
 183,M. Dembele,83,Tottenham,CDM CM 
 184,Borja Valero,83,Inter,CF CM CAM 
 185,L. Perrin,83,AS Saint-Étienne,CB 
 186,L. Biglia,83,Milan,CM CDM 
 187,Juanfran,83,Atletico Madrid,RB 
 188,Diego López,83,RCD Espanyol,GK 
-189,Santi Cazorla,83,Arsenal,CDM CM 
+189,Santi Cazorla,83,Arsenal F.C.,CDM CM 
 190,J. Mascherano,83,FC Barcelona,CDM CB 
 191,W. Sneijder,83,OGC Nice,CAM 
 192,Nani,83,Lazio,LM CAM RW LW 
@@ -201,7 +201,7 @@
 199,L. Sane,82,Manchester City,LM RW LW 
 200,T. Bakayoko,82,Chelsea,CM CDM 
 201,C. Tolisso,82,FC Bayern Munich,CDM CM 
-202,I. Slimani,82,Leicester City,ST 
+202,I. Slimani,82,Leicester,ST 
 203,N. Fekir,82,Olympique Lyonnais,ST CAM 
 204,J. Seri,82,OGC Nice,CDM CM 
 205,K. Balde Diao,82,AS Monaco,ST LW 
@@ -209,7 +209,7 @@
 207,F. Bernardeschi,82,Juventus,LM CF RM 
 208,T. Werner,82,RB Leipzig,ST 
 209,Andre Gomes,82,FC Barcelona,CAM LW CM 
-210,A. Martial,82,Manchester United,ST LM 
+210,A. Martial,82,Manchester Utd,ST LM 
 211,L. Goretzka,82,FC Schalke 04,CDM CAM CM 
 212,Q. Promes,82,Spartak Moscow,LM ST RM 
 213,Lucas Vazquez,82,Real Madrid CF,RM RW 
@@ -232,45 +232,45 @@
 230,Suso,82,Milan,RW 
 231,Deulofeu,82,FC Barcelona,RW LW 
 232,E. Dier,82,Tottenham,CM CDM CB 
-233,M. Rojo,82,Manchester United,LB CB 
+233,M. Rojo,82,Manchester Utd,LB CB 
 234,Lucas,82,Paris Saint-Germain,LW RW 
 235,H. Son,82,Tottenham,ST RM LM 
 236,F. Acerbi,82,Sassuolo,CB 
-237,G. Xhaka,82,Arsenal,CDM CM 
+237,G. Xhaka,82,Arsenal F.C.,CDM CM 
 238,Jonathan Viera,82,UD Las Palmas,CAM LM CM 
 239,Pizzi,82,SL Benfica,RM CM 
 240,Willian Jose,82,Real Sociedad,ST 
 241,O. Baumann,82,TSG 1899 Hoffenheim,GK 
 242,G. Medel,82,Beşiktaş JK,CB CDM 
 243,Victor Ruiz,82,Villarreal CF,CB 
-244,X. Shaqiri,82,Stoke City,RW RM 
+244,X. Shaqiri,82,Stoke,RW RM 
 245,J. Cuadrado,82,Juventus,RM 
 246,C. Immobile,82,Lazio,ST 
 247,Douglas Costa,82,Juventus,RM LM 
 248,N. Clyne,82,Liverpool,RB 
-249,Iborra,82,Leicester City,CAM CM CDM 
+249,Iborra,82,Leicester,CAM CM CDM 
 250,K. Trapp,82,Paris Saint-Germain,GK 
 251,V. Wanyama,82,Tottenham,CM CDM 
 252,Taison,82,Shakhtar Donetsk,CAM LM 
 253,Marlos,82,Shakhtar Donetsk,RM 
 254,L. Stindl,82,Borussia Mönchengladbach,CAM CF 
 255,M. Balotelli,82,OGC Nice,ST 
-256,A. Ramsey,82,Arsenal,RM CDM CM 
+256,A. Ramsey,82,Arsenal F.C.,RM CDM CM 
 257,W. Szczęsny,82,Juventus,GK 
 258,G. Sigurdsson,82,Everton,LM CAM 
 259,Y. Brahimi,82,FC Porto,LM 
-260,M. Arnautovic,82,West Ham United,LW RM LM 
+260,M. Arnautovic,82,West Ham,LW RM LM 
 261,J. Henderson,82,Liverpool,CM CDM 
 262,M. Kruse,82,SV Werder Bremen,CAM ST CF 
-263,O. Karnezis,82,Watford,GK 
+263,O. Karnezis,82,Watford F.C.,GK 
 264,L. Fejsa,82,SL Benfica,CM CDM 
 265,F. Muslera,82,Galatasaray SK,GK 
 266,V. Ćorluka,82,Lokomotiv Moscow,CB 
 267,G. Wijnaldum,82,Liverpool,CAM CM 
 268,F. Fazio,82,Roma,CB 
-269,O. Giroud,82,Arsenal,ST 
+269,O. Giroud,82,Arsenal F.C.,ST 
 270,B. Ivanovic,82,Zenit St. Petersburg,RB CB 
-271,J. Hernandez,82,West Ham United,ST 
+271,J. Hernandez,82,West Ham,ST 
 272,Beñat,82,Athletic Club de Bilbao,CM 
 273,L. Bender,82,Bayer 04 Leverkusen,CM CDM 
 274,A. Witsel,82,,CAM CDM CM 
@@ -290,7 +290,7 @@
 288,João Moutinho,82,AS Monaco,CAM CDM CM 
 289,B. Costil,82,Girondins de Bordeaux,GK 
 290,Raúl Albiol,82,Napoli,CB 
-291,J. Hart,82,West Ham United,GK 
+291,J. Hart,82,West Ham,GK 
 292,M. Gómez,82,VfL Wolfsburg,ST 
 293,Raffael,82,Borussia Mönchengladbach,ST CF 
 294,A. Turan,82,FC Barcelona,LW RW CM 
@@ -315,12 +315,12 @@
 313,M. Sanson,81,Olympique de Marseille,CDM CM 
 314,A. Rabiot,81,Paris Saint-Germain,CM 
 315,R. Guerreiro,81,Borussia Dortmund,CM LB LWB LM 
-316,J. Vardy,81,Leicester City,ST 
+316,J. Vardy,81,Leicester,ST 
 317,H. Ziyech,81,Ajax,CAM CM 
 318,M. Keane,81,Everton,CB 
 319,Jorginho,81,Napoli,CM 
-320,Hector Bellerin,81,Arsenal,RB 
-321,J. Butland,81,Stoke City,GK 
+320,Hector Bellerin,81,Arsenal F.C.,RB 
+321,J. Butland,81,Stoke,GK 
 322,S. Zaza,81,Valencia CF,ST 
 323,T. Meunier,81,Paris Saint-Germain,RM RB 
 324,Felipe Anderson,81,Lazio,RM LW RW 
@@ -336,7 +336,7 @@
 334,Bartra,81,Borussia Dortmund,CB 
 335,S. Aurier,81,Tottenham,RB 
 336,S. Coates,81,Sporting CP,CB 
-337,G. Krychowiak,81,West Bromwich Albion,CDM 
+337,G. Krychowiak,81,West Brom,CDM 
 338,K. Kampl,81,RB Leipzig,CAM CM 
 339,D. Lovren,81,Liverpool,CB 
 340,A. Yarmolenko,81,Borussia Dortmund,RM RW 
@@ -350,11 +350,11 @@
 348,L. Hradecký,81,Eintracht Frankfurt,GK 
 349,Illarramendi,81,Real Sociedad,CM 
 350,De Marcos,81,Athletic Club de Bilbao,RB 
-351,C. Smalling,81,Manchester United,CB 
+351,C. Smalling,81,Manchester Utd,CB 
 352,Iturraspe,81,Athletic Club de Bilbao,CM 
-353,J. Wilshere,81,Arsenal,CDM CAM CM 
+353,J. Wilshere,81,Arsenal F.C.,CDM CAM CM 
 354,S. Rudy,81,FC Bayern Munich,RM RB CDM CM 
-355,M. Lanzini,81,West Ham United,LM CAM 
+355,M. Lanzini,81,West Ham,LM CAM 
 356,R. Boudebouz,81,Real Betis Balompie,CAM 
 357,Camacho,81,VfL Wolfsburg,CM CDM 
 358,Paulinho,81,FC Barcelona,CDM CM 
@@ -387,11 +387,11 @@
 385,C. Carrasso,81,Galatasaray SK,GK 
 386,Moya,81,Atletico Madrid,GK 
 387,W. Rooney,81,Everton,ST CAM 
-388,P. Mertesacker,81,Arsenal,CB 
+388,P. Mertesacker,81,Arsenal F.C.,CB 
 389,T. Motta,81,Paris Saint-Germain,CDM 
 390,Fernando Torres,81,Atletico Madrid,ST 
 391,S. Eto'o,81,Antalyaspor,ST 
-392,M. Rashford,80,Manchester United,RM ST LM 
+392,M. Rashford,80,Manchester Utd,RM ST LM 
 393,S. Milinkovic-Savic,80,Lazio,CAM CM 
 394,Y. Tielemans,80,AS Monaco,CAM CM 
 395,Jemerson,80,AS Monaco,CB 
@@ -408,7 +408,7 @@
 406,Fred,80,Shakhtar Donetsk,CAM CDM CM 
 407,J. Hector,80,1. FC Köln,LB CDM 
 408,E. Can,80,Liverpool,CDM CM 
-409,S. Kolašinac,80,Arsenal,LM LB 
+409,S. Kolašinac,80,Arsenal F.C.,LM LB 
 410,Arrizabalaga,80,Athletic Club de Bilbao,GK 
 411,A. Plea,80,OGC Nice,RM RW ST 
 412,T. Stepanenko,80,Shakhtar Donetsk,CDM 
@@ -441,33 +441,33 @@
 439,R. Soriano,80,Villarreal CF,CM CAM LM 
 440,A. Schurrle,80,Borussia Dortmund,LW ST LM 
 441,M. Gonalons,80,Roma,CDM 
-442,R. Pereyra,80,Watford,CAM CM 
+442,R. Pereyra,80,Watford F.C.,CAM CM 
 443,K. Vogt,80,TSG 1899 Hoffenheim,CDM CB 
 444,F. Orellana,80,Valencia CF,RW CAM 
 445,Maicon,80,Galatasaray SK,CB 
 446,E. Salvio,80,SL Benfica,RM 
-447,D. Blind,80,Manchester United,CB LB 
+447,D. Blind,80,Manchester Utd,CB LB 
 448,S. El Shaarawy,80,Roma,LW 
-449,M. Antonio,80,West Ham United,RWB RM ST 
+449,M. Antonio,80,West Ham,RWB RM ST 
 450,Iago Falque,80,Torino,LW RW 
-451,S. Rondón,80,West Bromwich Albion,ST 
+451,S. Rondón,80,West Brom,ST 
 452,Daniel Carriço,80,Sevilla FC,CDM CB 
 453,M. Schmelzer,80,Borussia Dortmund,LM LB 
 454,J. McCarthy,80,Everton,CM CDM 
 455,A. Dzagoev,80,CSKA Moscow,CF CDM CM 
 456,Ganso,80,Sevilla FC,CM CAM 
 457,F. Smolov,80,FC Krasnodar,ST 
-458,D. Welbeck,80,Arsenal,ST 
+458,D. Welbeck,80,Arsenal F.C.,ST 
 459,Luiz Gustavo,80,Olympique de Marseille,CB CM CDM 
 460,Mikel San Jose,80,Athletic Club de Bilbao,CM 
-461,M. Darmian,80,Manchester United,RB LB 
+461,M. Darmian,80,Manchester Utd,RB LB 
 462,R. Thomas,80,Angers SCO,CB 
 463,I. Traore,80,Borussia Mönchengladbach,RM 
 464,Sidnei,80,RC Deportivo de La Coruña,CB 
 465,J. Lens,80,Beşiktaş JK,RW RM 
 466,Eder,80,Inter,LW ST 
 467,Kiko Casilla,80,Real Madrid CF,GK 
-468,Nacho Monreal,80,Arsenal,CB LB 
+468,Nacho Monreal,80,Arsenal F.C.,CB LB 
 469,S. Bender,80,Bayer 04 Leverkusen,CDM CB 
 470,M. Diaz,80,U.N.A.M.,CDM CM 
 471,A. Fernandez,80,Atletico Madrid,CM 
@@ -478,7 +478,7 @@
 476,K. Boateng,80,Eintracht Frankfurt,CAM LM ST 
 477,Marcano,80,FC Porto,CB 
 478,H. Moreno,80,Roma,LB CB 
-479,S. Romero,80,Manchester United,GK 
+479,S. Romero,80,Manchester Utd,GK 
 480,A. Candreva,80,Inter,RW CAM RM 
 481,D. Criscito,80,Zenit St. Petersburg,CB LB 
 482,D. Wass,80,RC Celta de Vigo,CAM CM 
@@ -493,9 +493,9 @@
 491,D. Basta,80,Lazio,RM RB 
 492,G. Cabral,80,RC Celta de Vigo,CB 
 493,G. Paletta,80,Milan,CB 
-494,T. Walcott,80,Arsenal,ST LM RM 
+494,T. Walcott,80,Arsenal F.C.,ST LM RM 
 495,L. Fabiański,80,Swansea,GK 
-496,B. Foster,80,West Bromwich Albion,GK 
+496,B. Foster,80,West Brom,GK 
 497,V. Ibiševic,80,Hertha BSC Berlin,ST 
 498,K. El Ahmadi,80,Feyenoord,CM 
 499,S. Kalou,80,Hertha BSC Berlin,ST LM 
@@ -517,14 +517,14 @@
 515,P. Evra,80,Olympique de Marseille,LB 
 516,J. Defoe,80,Bournemouth,ST 
 517,Júlio Cesar,80,SL Benfica,GK 
-518,M. Carrick,80,Manchester United,CDM 
+518,M. Carrick,80,Manchester Utd,CDM 
 519,M. Almirón,79,Atlanta United FC,LM CAM 
 520,Oyarzabal,79,Real Sociedad,RW LW 
 521,Soares,79,FC Porto,ST 
 522,M. Campaña,79,Independiente,GK 
 523,F. Andone,79,RC Deportivo de La Coruña,ST 
 524,M. Acuña,79,Sporting CP,RM LM 
-525,V. Lindelöf,79,Manchester United,CB 
+525,V. Lindelöf,79,Manchester Utd,CB 
 526,Y. Cardinale,79,OGC Nice,GK 
 527,C. Lenglet,79,Sevilla FC,CB 
 528,M. Dahoud,79,Borussia Dortmund,CDM CM 
@@ -556,7 +556,7 @@
 554,L. Paredes,79,Zenit St. Petersburg,CDM CM 
 555,M. Arnold,79,VfL Wolfsburg,CDM CAM CM 
 556,S. Gnabry,79,TSG 1899 Hoffenheim,RM LM 
-557,L. Shaw,79,Manchester United,LB 
+557,L. Shaw,79,Manchester Utd,LB 
 558,E. Višca,79,İstanbul Başakşehir FK,RM 
 559,Bernard,79,Shakhtar Donetsk,LW CAM 
 560,D. Baselli,79,Torino,CM 
@@ -564,7 +564,7 @@
 562,Bernat,79,FC Bayern Munich,LM LB 
 563,W. Orban,79,RB Leipzig,CB 
 564,Ruben Pardo,79,Real Sociedad,CM 
-565,K. Zouma,79,Stoke City,RB CB 
+565,K. Zouma,79,Stoke,RB CB 
 566,C. Kramer,79,Borussia Mönchengladbach,CM CDM 
 567,S. Vrsaljko,79,Atletico Madrid,RB 
 568,Ze Luis,79,Spartak Moscow,ST 
@@ -592,13 +592,13 @@
 590,N. Jørgensen,79,Feyenoord,ST 
 591,Oriol Romeu,79,Southampton,CM CDM 
 592,Nolito,79,Sevilla FC,LM LW 
-593,B. Martins Indi,79,Stoke City,CB 
+593,B. Martins Indi,79,Stoke,CB 
 594,M. Gabbiadini,79,Southampton,ST 
 595,P. Herrmann,79,Borussia Mönchengladbach,LM RM 
 596,F. Lejeune,79,Newcastle,CB 
 597,J. Bruma,79,VfL Wolfsburg,CB 
-598,P. Jones,79,Manchester United,CB 
-599,Adrian,79,West Ham United,GK 
+598,P. Jones,79,Manchester Utd,CB 
+599,Adrian,79,West Ham,GK 
 600,Keko,79,Malaga CF,RM 
 601,H. Perez,79,RCD Espanyol,LM RM 
 602,Jaume Costa,79,Villarreal CF,LM LB 
@@ -615,7 +615,7 @@
 613,Balenziaga,79,Athletic Club de Bilbao,LB 
 614,W. Bony,79,Swansea,ST 
 615,B. Hubner,79,TSG 1899 Hoffenheim,CB 
-616,F. Coquelin,79,Arsenal,CM CDM 
+616,F. Coquelin,79,Arsenal F.C.,CM CDM 
 617,Jonathas,79,Hannover 96,ST 
 618,G. Bou,79,Club Tijuana,ST 
 619,V. Babacan,79,İstanbul Başakşehir FK,GK 
@@ -632,35 +632,35 @@
 630,K. Papadopoulos,79,Hamburger SV,CB 
 631,S. Wagner,79,TSG 1899 Hoffenheim,ST 
 632,P. Piatti,79,RCD Espanyol,LW RM LM 
-633,C. Yacob,79,West Bromwich Albion,CM CDM 
-634,A. Ogbonna,79,West Ham United,CB 
+633,C. Yacob,79,West Brom,CM CDM 
+634,A. Ogbonna,79,West Ham,CB 
 635,Roberto,79,Malaga CF,GK 
 636,N. Amrabat,79,CD Leganes,CAM RWB RM 
 637,W. Vainqueur,79,Antalyaspor,CDM 
 638,Marcelo,79,Olympique Lyonnais,CB 
 639,Antunes,79,Getafe CF,LB 
 640,Fabricio,79,Beşiktaş JK,GK 
-641,S. Prödl,79,Watford,CB 
+641,S. Prödl,79,Watford F.C.,CB 
 642,S. Tasci,79,Spartak Moscow,CB 
 643,F. Johnson,79,Borussia Mönchengladbach,RB LM 
 644,Bojan,79,Deportivo Alaves,ST CAM 
-645,M. Fellaini,79,Manchester United,CDM CM 
+645,M. Fellaini,79,Manchester Utd,CDM CM 
 646,P. Wernbloom,79,CSKA Moscow,CDM 
-647,A. Ayew,79,West Ham United,CAM ST RM 
-648,D. Ospina,79,Arsenal,GK 
-649,W. Reid,79,West Ham United,CB 
+647,A. Ayew,79,West Ham,CAM ST RM 
+648,D. Ospina,79,Arsenal F.C.,GK 
+649,W. Reid,79,West Ham,CB 
 650,Lucas Leiva,79,Lazio,CB CDM 
 651,Z. Junuzovic,79,SV Werder Bremen,LM CAM CM 
 652,C. Ansaldi,79,Torino,LB 
 653,V. Moses,79,Chelsea,LM RM RWB 
 654,D. Zurutuza,79,Real Sociedad,CM 
 655,D. Valeri,79,Portland Timbers,CAM 
-656,Jose Fonte,79,West Ham United,CB 
+656,Jose Fonte,79,West Ham,CB 
 657,N. Şahin,79,Borussia Dortmund,CM CDM 
 658,Gervinho,79,,RW LW 
 659,G. dos Santos,79,LA Galaxy,ST CAM CF 
-660,R. Shawcross,79,Stoke City,CB 
-661,J. Evans,79,West Bromwich Albion,LB CB 
+660,R. Shawcross,79,Stoke,CB 
+661,J. Evans,79,West Brom,LB CB 
 662,S. Sirigu,79,Torino,GK 
 663,A. Gyan,79,Kayserispor,ST 
 664,Y. Cabaye,79,Crystal Palace,CDM CM 
@@ -680,18 +680,18 @@
 678,Xabi Prieto,79,Real Sociedad,RW CAM CM 
 679,Negredo,79,Beşiktaş JK,ST 
 680,A. Pyatov,79,Shakhtar Donetsk,GK 
-681,P. Zabaleta,79,West Ham United,RB 
+681,P. Zabaleta,79,West Ham,RB 
 682,G. Ochoa,79,Standard de Liège,GK 
 683,W. Caballero,79,Chelsea,GK 
 684,Vagner Love,79,Alanyaspor,CAM ST 
 685,M. Vorm,79,Tottenham,GK 
 686,D. Baier,79,FC Augsburg,CDM 
-687,Gomes,79,Watford,GK 
+687,Gomes,79,Watford F.C.,GK 
 688,R. Adler,79,1. FSV Mainz 05,GK 
 689,S. Sorrentino,79,Chievo Verona,GK 
 690,T. Rosický,79,Sparta Praha,RM CM CAM 
 691,A. Pirlo,79,New York City Football Club,CDM CM 
-692,G. Barry,79,West Bromwich Albion,CDM 
+692,G. Barry,79,West Brom,CDM 
 693,E. Belözoglu,79,İstanbul Başakşehir FK,CDM CM 
 694,A. Lunev,78,Zenit St. Petersburg,GK 
 695,Andre Silva,78,Milan,ST 
@@ -715,7 +715,7 @@
 713,M. Vecino,78,Inter,CDM CM 
 714,A. Sanabria,78,Real Betis Balompie,ST 
 715,R. Battaglia,78,Sporting CP,CDM CM 
-716,J. Izquierdo,78,Brighton & Hove Albion,LW 
+716,J. Izquierdo,78,Brighton,LW 
 717,T. Bongonda,78,Trabzonspor,RW LM LW 
 718,Rúben Semedo,78,Villarreal CF,CB 
 719,Rafa,78,SL Benfica,ST RM LM 
@@ -737,15 +737,15 @@
 735,Paulo Oliveira,78,SD Eibar,CB 
 736,A. Szymanowski,78,CD Leganes,LW CM LM 
 737,Bruno Peres,78,Roma,RB RM 
-738,K. Wimmer,78,Stoke City,CB 
+738,K. Wimmer,78,Stoke,CB 
 739,Tiago Volpi,78,Queretaro,GK 
 740,F. Kostic,78,Hamburger SV,LM 
 741,A. Samaris,78,SL Benfica,CM CDM 
-742,A. Doucoure,78,Watford,CM CAM CDM 
+742,A. Doucoure,78,Watford F.C.,CM CAM CDM 
 743,G. Pizarro,78,Sevilla FC,CM CDM 
 744,J. Martinez,78,Atlanta United FC,ST 
 745,M. Ginter,78,Borussia Mönchengladbach,CDM RB CB 
-746,J. Lingard,78,Manchester United,RW LM LW RM 
+746,J. Lingard,78,Manchester Utd,RW LM LW RM 
 747,M. Weiser,78,Hertha BSC Berlin,RM RB 
 748,D. Cheryshev,78,Villarreal CF,LW LM 
 749,Bigas,78,UD Las Palmas,CB 
@@ -780,7 +780,7 @@
 778,L. Teodorczyk,78,RSC Anderlecht,ST 
 779,Marafona,78,SC Braga,GK 
 780,B. Lecomte,78,Montpellier Herault SC,GK 
-781,N. Chadli,78,West Bromwich Albion,CAM LM RM 
+781,N. Chadli,78,West Brom,CAM LM RM 
 782,S. Rode,78,Borussia Dortmund,CM CDM 
 783,M. van Ginkel,78,PSV,CM 
 784,Andre Andre,78,FC Porto,CM 
@@ -817,7 +817,7 @@
 815,C. Aranguiz,78,Bayer 04 Leverkusen,CDM CM 
 816,V. Rongier,78,FC Nantes,CDM CM 
 817,Joaquin,78,Real Betis Balompie,LM ST CAM RM 
-818,J. Lingard,78,Manchester United,RW LM LW RM 
+818,J. Lingard,78,Manchester Utd,RW LM LW RM 
 819,S. Bocchetti,78,Spartak Moscow,CB 
 820,A. Marchesin,78,Club America,GK 
 821,Muniain,78,Athletic Club de Bilbao,RW CAM LW 
@@ -845,7 +845,7 @@
 843,L. Tousart,78,Olympique Lyonnais,CM CDM 
 844,J. Terry,78,Aston Villa,CB 
 845,P. Skjelbred,78,Hertha BSC Berlin,CM CDM 
-846,I. Afellay,78,Stoke City,CDM LM CM CAM 
+846,I. Afellay,78,Stoke,CDM LM CM CAM 
 847,N. Lombaerts,78,KV Oostende,CB 
 848,Granero,78,RCD Espanyol,CDM CAM CM 
 849,J. Baumgartlinger,78,Bayer 04 Leverkusen,CDM 
@@ -891,7 +891,7 @@
 889,Raúl Navas,78,Real Sociedad,CB 
 890,A. Dzyuba,78,Zenit St. Petersburg,ST 
 891,B. Yılmaz,78,Trabzonspor,ST 
-892,J. Holebas,78,Watford,LWB LB 
+892,J. Holebas,78,Watford F.C.,LWB LB 
 893,K. Casteels,78,VfL Wolfsburg,GK 
 894,Javi Garcia,78,Real Betis Balompie,CDM 
 895,D. Caligiuri,78,FC Schalke 04,RW LM RM 
@@ -930,7 +930,7 @@
 928,N. Subotic,77,Borussia Dortmund,CB 
 929,N. Blandi,77,San Lorenzo de Almagro,ST 
 930,P. De Blasis,77,1. FSV Mainz 05,ST RM LM 
-931,M. Phillips,77,West Bromwich Albion,LM RM 
+931,M. Phillips,77,West Brom,LM RM 
 932,M. Braithwaite,77,Middlesbrough,CAM LM ST 
 933,A. Lafont,77,Toulouse FC,GK 
 934,D. Reyes,77,FC Porto,CB 
@@ -938,8 +938,8 @@
 936,V. Behrami,77,Udinese,CM CDM 
 937,G. Hoarau,77,BSC Young Boys,ST 
 938,T. Barnetta,77,FC St. Gallen,CM CDM CAM 
-939,E. Choupo-Moting,77,Stoke City,ST LM 
-940,Jese,77,Stoke City,ST LM 
+939,E. Choupo-Moting,77,Stoke,ST LM 
+940,Jese,77,Stoke,ST LM 
 941,J. Pinola,77,River Plate,CB 
 942,Luis Hernandez,77,Malaga CF,RB CB 
 943,Jonny,77,RC Celta de Vigo,RB LB 
@@ -950,7 +950,7 @@
 948,D. Bonera,77,Villarreal CF,CB 
 949,Marcelo,77,Rio Ave FC,CB 
 950,Dalbert,77,Inter,LM LWB LB 
-951,G. McAuley,77,West Bromwich Albion,CB 
+951,G. McAuley,77,West Brom,CB 
 952,A. Halilovic,77,UD Las Palmas,CM RM CAM 
 953,N. Amiri,77,TSG 1899 Hoffenheim,LM CM CAM 
 954,I. Popov,77,Spartak Moscow,LM CAM 
@@ -961,7 +961,7 @@
 959,F. Pogba,77,AS Saint-Étienne,LB CB 
 960,M. Andújar,77,Estudiantes de La Plata,GK 
 961,D. Boyko,77,Beşiktaş JK,GK 
-962,A. Carrillo,77,Watford,LM RM 
+962,A. Carrillo,77,Watford F.C.,LM RM 
 963,M. Andreolli,77,Cagliari,CB 
 964,Bruno,77,Getafe CF,CB 
 965,O. Duarte,77,RCD Espanyol,CDM CB 
@@ -992,9 +992,9 @@
 990,A. Rukavina,77,Villarreal CF,RM LB RB 
 991,P. Kimpembe,77,Paris Saint-Germain,CB 
 992,Sergio León,77,Real Betis Balompie,ST 
-993,M. Elneny,77,Arsenal,CM CDM 
+993,M. Elneny,77,Arsenal F.C.,CM CDM 
 994,D. Torres,77,Deportivo Alaves,CM CDM 
-995,S. Okazaki,77,Leicester City,ST CF 
+995,S. Okazaki,77,Leicester,ST CF 
 996,C. Jallet,77,OGC Nice,RB 
 997,Y. Salibur,77,En Avant de Guingamp,RW LM RM 
 998,N. Redmond,77,Southampton,ST RM LM 
@@ -1029,12 +1029,12 @@
 1027,K. Källström,77,Djurgårdens IF,CM 
 1028,T. Vaclik,77,FC Basel,GK 
 1029,M. Politano,77,Sassuolo,RW LW 
-1030,M. Zarate,77,Watford,LM CAM CF ST 
+1030,M. Zarate,77,Watford F.C.,LM CAM CF ST 
 1031,G. İnler,77,İstanbul Başakşehir FK,CDM 
-1032,M. Albrighton,77,Leicester City,LM 
-1033,A. Gray,77,Watford,ST 
+1032,M. Albrighton,77,Leicester,LM 
+1033,A. Gray,77,Watford F.C.,ST 
 1034,Marçal,77,Olympique Lyonnais,LB 
-1035,M. Ryan,77,Brighton & Hove Albion,GK 
+1035,M. Ryan,77,Brighton,GK 
 1036,A. Gamberini,77,Chievo Verona,CB 
 1037,Yoel,77,SD Eibar,GK 
 1038,S. Widmer,77,Udinese,RM RB 
@@ -1043,7 +1043,7 @@
 1041,C. Sanchez,77,Fiorentina,CB CM CDM 
 1042,M. Sissoko,77,Tottenham,CAM RM 
 1043,G. Defrel,77,Roma,RW ST 
-1044,T. Krul,77,Brighton & Hove Albion,GK 
+1044,T. Krul,77,Brighton,GK 
 1045,R. Martinez,77,Club Atletico Lanús,CM 
 1046,J. Geis,77,Sevilla FC,CM CDM 
 1047,P. Verhaegh,77,VfL Wolfsburg,RB 
@@ -1061,7 +1061,7 @@
 1059,S. Torrico,77,San Lorenzo de Almagro,GK 
 1060,Wallace,77,Lazio,CB 
 1061,J. Toornstra,77,Feyenoord,RW CAM 
-1062,Pedro Obiang,77,West Ham United,CM CDM 
+1062,Pedro Obiang,77,West Ham,CM CDM 
 1063,A. Boruc,77,Bournemouth,GK 
 1064,V. Chiricheş,77,Napoli,CB 
 1065,S. Hanni,77,RSC Anderlecht,CAM LM 
@@ -1083,8 +1083,8 @@
 1081,Sandro,77,Everton,ST 
 1082,F. Delph,77,Manchester City,CM 
 1083,J. Veltman,77,Ajax,CB RB 
-1084,A. Dragovic,77,Leicester City,CB 
-1085,D. Pröpper,77,Brighton & Hove Albion,CM 
+1084,A. Dragovic,77,Leicester,CB 
+1085,D. Pröpper,77,Brighton,CM 
 1086,J. Pickford,77,Everton,GK 
 1087,L. Cattermole,77,Sunderland,CM CDM 
 1088,Luisinho,77,RC Deportivo de La Coruña,LM LB 
@@ -1094,10 +1094,10 @@
 1092,Rafael Carioca,77,Tigres U.A.N.L.,CDM CM 
 1093,David Garcia,77,UD Las Palmas,RB CB 
 1094,Javi Varas,77,Granada CF,GK 
-1095,J. Allen,77,Stoke City,CAM CM 
+1095,J. Allen,77,Stoke,CAM CM 
 1096,A. Younes,77,Ajax,LW 
 1097,L. Hernandez,77,Atletico Madrid,LB CB 
-1098,A. Mooy,77,Huddersfield Town,CAM CDM CM 
+1098,A. Mooy,77,Huddersfield,CAM CDM CM 
 1099,Campaña,77,Levante UD,CM CAM CDM 
 1100,Vieirinha,77,PAOK Thessaloniki,RB RM 
 1101,Wendell,77,Bayer 04 Leverkusen,LB 
@@ -1117,12 +1117,12 @@
 1115,L. Pellegrini,77,Roma,CM 
 1116,A. Masiello,77,Atalanta,RB CB 
 1117,M. Ekici,77,Fenerbahçe SK,CDM CM CAM 
-1118,A. Nyom,77,West Bromwich Albion,RB LB 
+1118,A. Nyom,77,West Brom,RB LB 
 1119,F. Roncaglia,77,RC Celta de Vigo,LB RB CB 
 1120,P. Hidalgado,77,Colo-Colo,CF ST 
 1121,J. De Guzman,77,Eintracht Frankfurt,CM CAM 
 1122,M. Gradel,77,Toulouse FC,LM CAM 
-1123,M. Debuchy,77,Arsenal,RB 
+1123,M. Debuchy,77,Arsenal F.C.,RB 
 1124,C. Candero,77,Universidad de Chile,GK 
 1125,S. Terodde,77,VfB Stuttgart,ST 
 1126,Recio,77,Malaga CF,CM CDM 
@@ -1135,14 +1135,14 @@
 1133,A. Lennon,77,Everton,RM 
 1134,T. Lagardo,77,Universidad de Chile,LM LB 
 1135,F. Forster,77,Southampton,GK 
-1136,S. Okaka,77,Watford,ST 
+1136,S. Okaka,77,Watford F.C.,ST 
 1137,Aritz Elustondo,77,Real Sociedad,CB RB 
 1138,Ricardo Ferreira,77,SC Braga,CB 
-1139,W. Morgan,77,Leicester City,CB 
+1139,W. Morgan,77,Leicester,CB 
 1140,J. Lukaku,77,Lazio,LB 
 1141,M. Philipp,77,Borussia Dortmund,RW LW ST CF 
 1142,C. Davies,77,Derby County,CB 
-1143,C. Kouyate,77,West Ham United,RB CB CM CDM 
+1143,C. Kouyate,77,West Ham,RB CB CM CDM 
 1144,N. Pejčinovic,77,Lokomotiv Moscow,RB CB 
 1145,M. Lang,77,FC Basel,RM RB 
 1146,Álvaro,77,Villarreal CF,RB CB 
@@ -1163,7 +1163,7 @@
 1161,K. Tete,77,Olympique Lyonnais,RB 
 1162,Diogo Jota,77,Wolverhampton Wanderers,ST LW 
 1163,Bruno Cesar,77,Sporting CP,CM LB CAM LM 
-1164,M. Diouf,77,Stoke City,RM RWB ST 
+1164,M. Diouf,77,Stoke,RM RWB ST 
 1165,M. Valdifiori,77,Torino,CM CDM 
 1166,Rafael Tolói,77,Atalanta,CB 
 1167,B. Oczipka,77,FC Schalke 04,LM LWB LB 
@@ -1187,7 +1187,7 @@
 1185,L. Milivojevic,77,Crystal Palace,CM CDM 
 1186,D. Latza,77,1. FSV Mainz 05,CDM CM 
 1187,S. Arias,77,PSV,RB 
-1188,O. Ndidi,77,Leicester City,CM CDM 
+1188,O. Ndidi,77,Leicester,CM CDM 
 1189,O. Trejo,77,Rayo Vallecano,ST CM CAM 
 1190,V. Janssen,77,Fenerbahçe SK,ST 
 1191,G. Clichy,77,İstanbul Başakşehir FK,LB 
@@ -1204,7 +1204,7 @@
 1202,F. Higuain,77,Columbus Crew SC,CF CAM 
 1203,Sergio Álvarez,77,Real Sporting de Gijón,CDM CM 
 1204,L. Holtby,77,Hamburger SV,CM CAM 
-1205,D. Janmaat,77,Watford,RWB RB 
+1205,D. Janmaat,77,Watford F.C.,RWB RB 
 1206,O. Alonso,77,Seattle Sounders FC,CM CDM 
 1207,Ari,77,Lokomotiv Moscow,RW ST 
 1208,P. Schick,77,Roma,ST 
@@ -1213,11 +1213,11 @@
 1211,J. Menez,77,Antalyaspor,LW ST 
 1212,S. Sinclair,77,Celtic,LM 
 1213,L. Krejči,77,Bologna,RM RW LW 
-1214,H. Maguire,77,Leicester City,CB 
+1214,H. Maguire,77,Leicester,CB 
 1215,G. Escalante,77,SD Eibar,CM CDM 
 1216,R. Alessandrini,77,LA Galaxy,LM RM 
 1217,S. Long,76,Southampton,ST 
-1218,S. Berahino,76,Stoke City,ST 
+1218,S. Berahino,76,Stoke,ST 
 1219,Agirretxe,76,Real Sociedad,ST 
 1220,M. Harnik,76,Hannover 96,RM ST 
 1221,K. Grosicki,76,Hull City,LW RM LM 
@@ -1253,8 +1253,8 @@
 1251,N. Petersen,76,SC Freiburg,ST 
 1252,R. Yanbaev,76,FC Krasnodar,RM LB RB 
 1253,R. Rey,76,PAOK Thessaloniki,GK 
-1254,T. Cleverley,76,Watford,CDM CAM CM 
-1255,D. Fletcher,76,Stoke City,CDM CM 
+1254,T. Cleverley,76,Watford F.C.,CDM CAM CM 
+1255,D. Fletcher,76,Stoke,CDM CM 
 1256,J. Jankto,76,Udinese,LM CM 
 1257,C. Atsu,76,Newcastle,CM LM RM 
 1258,A. Dembal,76,Universidad Católica,LM LB 
@@ -1263,7 +1263,7 @@
 1261,P. Gulacsi,76,RB Leipzig,GK 
 1262,A. Chahechouhe,76,Fenerbahçe SK,CAM LM 
 1263,Xandão,76,Real Sporting de Gijón,CB 
-1264,E. Capoue,76,Watford,CDM CM 
+1264,E. Capoue,76,Watford F.C.,CDM CM 
 1265,G. Sertic,76,Olympique de Marseille,CB CDM 
 1266,M. Pašalic,76,Spartak Moscow,CDM CM 
 1267,I. Traore,76,Angers SCO,CB 
@@ -1273,16 +1273,16 @@
 1271,Jairo,76,1. FSV Mainz 05,RM LM 
 1272,Diego Carlos,76,FC Nantes,CB 
 1273,C. Riveros,76,,CDM CM 
-1274,P. Groß,76,Brighton & Hove Albion,LM CM CAM 
+1274,P. Groß,76,Brighton,LM CM CAM 
 1275,S. Kießling,76,Bayer 04 Leverkusen,ST 
 1276,G. Lux,76,River Plate,GK 
 1277,M. Torres,76,Atletico Nacional Medellin,CM 
-1278,M. Noble,76,West Ham United,CM CDM 
+1278,M. Noble,76,West Ham,CM CDM 
 1279,Helder Costa,76,Wolverhampton Wanderers,RM RW 
 1280,Emerson,76,Roma,LB LWB 
-1281,G. Cameron,76,Stoke City,RWB RB CB CDM 
+1281,G. Cameron,76,Stoke,RWB RB CB CDM 
 1282,P. Djilobodji,76,Dijon FCO,CB 
-1283,C. Fuchs,76,Leicester City,LB 
+1283,C. Fuchs,76,Leicester,LB 
 1284,B. Ramselaar,76,PSV,CM CAM 
 1285,F. Frei,76,1. FSV Mainz 05,CAM CDM CM 
 1286,A. Candales,76,Universidad de Chile,CB 
@@ -1310,7 +1310,7 @@
 1308,E. Puch,76,Pachuca,ST CAM LM RM 
 1309,L. Ocampos,76,Olympique de Marseille,RM LW 
 1310,S. Cristóforo,76,Fiorentina,CM CDM 
-1311,J. Rodriguez,76,West Bromwich Albion,ST LM 
+1311,J. Rodriguez,76,West Brom,ST LM 
 1312,J. Roussillon,76,Montpellier Herault SC,LB 
 1313,S. Berghuis,76,Feyenoord,LW RW 
 1314,A. Saint-Maximin,76,OGC Nice,LM 
@@ -1358,13 +1358,13 @@
 1356,F. Borini,76,Milan,ST LM RM 
 1357,J. van der Heijden,76,Feyenoord,CB 
 1358,C. Clark,76,Newcastle,CB 
-1359,A. Musa,76,Leicester City,LM ST 
+1359,A. Musa,76,Leicester,LM ST 
 1360,J. Boëtius,76,Feyenoord,RW LW 
 1361,Everton Andrão,76,Clube Atletico Paranaense,CM CDM 
 1362,L. Cigarini,76,Cagliari,CDM CM 
 1363,R. Meggiorini,76,Chievo Verona,ST 
 1364,Michel Macedo,76,UD Las Palmas,RB 
-1365,J. Collins,76,West Ham United,CB 
+1365,J. Collins,76,West Ham,CB 
 1366,Serey Die,76,FC Basel,CDM 
 1367,S. Proto,76,Olympiakos CFP,GK 
 1368,A. Mehmedi,76,Bayer 04 Leverkusen,RM LM ST 
@@ -1392,7 +1392,7 @@
 1390,Rosberto Dourado,76,Clube Atletico Mineiro,CAM CM CDM 
 1391,M. Izco,76,Crotone,CDM CM 
 1392,P. Aguilar,76,Club America,RB 
-1393,S. Mounie,76,Huddersfield Town,ST 
+1393,S. Mounie,76,Huddersfield,ST 
 1394,D. Brosinski,76,1. FSV Mainz 05,RB LB 
 1395,Roger,76,Levante UD,ST 
 1396,Dyego Sousa,76,SC Braga,ST 
@@ -1422,7 +1422,7 @@
 1420,J. Vukovic,76,Olympiakos CFP,CB 
 1421,E. Bičakčic,76,TSG 1899 Hoffenheim,CB 
 1422,L. Spinazzola,76,Atalanta,LB LM 
-1423,A. Knockaert,76,Brighton & Hove Albion,LM RM 
+1423,A. Knockaert,76,Brighton,LM RM 
 1424,P. Pekarik,76,Hertha BSC Berlin,RB 
 1425,E. Valencia,76,Tigres U.A.N.L.,RW ST 
 1426,Koo Ja Cheol,76,FC Augsburg,RM LM CAM 
@@ -1466,7 +1466,7 @@
 1464,S. De Maio,76,Bologna,CB 
 1465,S. Brown,76,Celtic,CDM 
 1466,D. Cvitanich,76,Banfield,ST 
-1467,J. Morrison,76,West Bromwich Albion,CM CAM 
+1467,J. Morrison,76,West Brom,CM CAM 
 1468,A. Sulu,76,SV Darmstadt 98,CB 
 1469,R. Saïss,76,Wolverhampton Wanderers,CB CM CDM 
 1470,Mauricio,76,PAOK Thessaloniki,CDM 
@@ -1480,7 +1480,7 @@
 1478,Nelsildo Reis,76,Coritiba Foot Ball Club,GK 
 1479,Laguardia,76,Deportivo Alaves,CB 
 1480,Y. Poulsen,76,RB Leipzig,ST 
-1481,A. Cresswell,76,West Ham United,LWB LB 
+1481,A. Cresswell,76,West Ham,LWB LB 
 1482,O. Tufan,76,Fenerbahçe SK,CM CDM 
 1483,M. Pazdan,76,Legia Warszawa,CB 
 1484,Camarasa,76,Real Betis Balompie,RM CM CAM 
@@ -1599,9 +1599,9 @@
 1597,T. Hlatshwayo,75,,RB CB 
 1598,Ivan Cuellar,75,CD Leganes,GK 
 1599,Fabrio Farinha,75,Sociedade Esportiva Palmeiras,LM CAM 
-1600,J. Lössl,75,Huddersfield Town,GK 
+1600,J. Lössl,75,Huddersfield,GK 
 1601,R. Álvarez,75,Sampdoria,CF CAM 
-1602,A. Masuaku,75,West Ham United,LWB LB 
+1602,A. Masuaku,75,West Ham,LWB LB 
 1603,Rolando,75,Olympique de Marseille,CB 
 1604,Fran Rico,75,SD Eibar,CAM CM CDM 
 1605,Caiuby,75,FC Augsburg,ST LW LM 
@@ -1614,7 +1614,7 @@
 1612,T. Huddlestone,75,Derby County,CDM CM 
 1613,M. Maccarone,75,Brisbane Roar,ST 
 1614,J. Chester,75,Aston Villa,CB 
-1615,D. Sakho,75,West Ham United,ST 
+1615,D. Sakho,75,West Ham,ST 
 1616,J. Hendrix,75,PSV,CM CDM 
 1617,M. Esser,75,Hannover 96,GK 
 1618,C. Grenier,75,Olympique Lyonnais,CAM CM 
@@ -1651,7 +1651,7 @@
 1649,A. Schwolow,75,SC Freiburg,GK 
 1650,F. Di Santo,75,FC Schalke 04,ST 
 1651,João Aurelio,75,Vitória Guimarães,CDM RB 
-1652,M. Zeegelaar,75,Watford,LM LB 
+1652,M. Zeegelaar,75,Watford F.C.,LM LB 
 1653,R. Freuler,75,Atalanta,CM 
 1654,Joselu,75,Newcastle,ST 
 1655,O. Şahiner,75,Atiker Konyaspor,RB RM 
@@ -1675,7 +1675,7 @@
 1673,H. Lemonez,75,Unión Española,LB CDM CB 
 1674,Alexo Baia,75,Botafogo de Futebol e Regatas,RM RB 
 1675,L. Moore,75,Reading,CB 
-1676,G. Johnson,75,Stoke City,RB 
+1676,G. Johnson,75,Stoke,RB 
 1677,N. Spolli,75,Genoa,CB 
 1678,A. Aguilar,75,Asociacion Deportivo Cali,CDM 
 1679,S. Rajkovic,75,Palermo,CB 
@@ -1714,10 +1714,10 @@
 1712,Ailton Guevara,75,Clube Atletico Mineiro,ST CF CAM 
 1713,Naldo,75,RCD Espanyol,CB 
 1714,Paulinho,75,Grupo Desportivo de Chaves,RB 
-1715,E. Schelotto,75,Brighton & Hove Albion,RM RB 
+1715,E. Schelotto,75,Brighton,RM RB 
 1716,Insua,75,FC Schalke 04,CB 
 1717,Fernandão,75,Fenerbahçe SK,ST 
-1718,N. Chalobah,75,Watford,CM CDM 
+1718,N. Chalobah,75,Watford F.C.,CM CDM 
 1719,R. Pizarro,75,Guadalajara,CAM CM 
 1720,G. Martinez,75,River Plate,RW RM LM CAM 
 1721,C. Clemens,75,1. FC Köln,LM RM 
@@ -1725,7 +1725,7 @@
 1723,F. Amorebieta,75,Independiente,LB CB 
 1724,Adilson Edrada,75,Santos Futebol Clube,CAM 
 1725,A. Ioniţă,75,Cagliari,CDM CAM CM 
-1726,A. Young,75,Manchester United,LB LM RB 
+1726,A. Young,75,Manchester Utd,LB LM RB 
 1727,A. Ibarguen,75,Racing Club de Avellaneda,LM LW 
 1728,M. de Roon,75,Atalanta,CDM CM 
 1729,A. Barreca,75,Torino,LB 
@@ -1738,7 +1738,7 @@
 1736,Juli Freitinho,75,Grêmio Foot-Ball Porto Alegrense,CB 
 1737,E. Didot,75,En Avant de Guingamp,CDM CM 
 1738,T. Kalachev,75,FC Rostov,CF RM RWB 
-1739,C. Brunt,75,West Bromwich Albion,LB RM 
+1739,C. Brunt,75,West Brom,LB RM 
 1740,A. Hassan,75,SC Braga,ST 
 1741,Caio Nunson,75,Botafogo de Futebol e Regatas,LB CB 
 1742,B. Zungu,75,Amiens SC Football,CAM CDM CM 
@@ -1751,7 +1751,7 @@
 1749,V. Qazaishvili,75,San Jose Earthquakes,RM LM CAM 
 1750,L. Cadamuro,75,Nîmes Olympique,CB LB 
 1751,A. Chavez,75,Panathinaikos FC,LW ST 
-1752,Y. Kaboul,75,Watford,CB 
+1752,Y. Kaboul,75,Watford F.C.,CB 
 1753,N. Bungert,75,1. FSV Mainz 05,CB 
 1754,M. Marin,75,Olympiakos CFP,RM LM CAM 
 1755,B. Butko,75,Shakhtar Donetsk,RB 
@@ -1805,7 +1805,7 @@
 1803,S. Sessègnon,75,Montpellier Herault SC,CAM CM 
 1804,F. Mora,75,Cruz Azul,ST 
 1805,Diego Ângelo,75,Antalyaspor,CB 
-1806,C. Kabasele,75,Watford,CB 
+1806,C. Kabasele,75,Watford F.C.,CB 
 1807,A. Maxim,75,1. FSV Mainz 05,LM CAM 
 1808,R. Babel,75,Beşiktaş JK,ST LM 
 1809,Y. Donosos,75,Deportes Iquique,CAM 
@@ -1821,12 +1821,12 @@
 1819,M. Martins,75,,ST 
 1820,R. Mavuba,75,Sparta Praha,CM CDM 
 1821,Rafael Cachoira,75,Santos Futebol Clube,CDM CB 
-1822,D. Simpson,75,Leicester City,RB 
+1822,D. Simpson,75,Leicester,RB 
 1823,E. Hallfredsson,75,Udinese,CDM CM 
 1824,G. Rivas,75,Al Hilal,ST 
 1825,Dani Rochelinhas,75,Fluminense Football Club,CM CAM 
 1826,J. Beausejour,75,,LW LB 
-1827,J. Livermore,75,West Bromwich Albion,CB CDM CM 
+1827,J. Livermore,75,West Brom,CB CDM CM 
 1828,P. Lees-Melou,75,OGC Nice,LM CM RM 
 1829,P. Tachtsidis,75,Olympiakos CFP,CM CDM 
 1830,Douglas Santos,75,Hamburger SV,LB 
@@ -1834,13 +1834,13 @@
 1832,R. Inglese,75,Chievo Verona,ST 
 1833,M. Dembele,75,Celtic,ST 
 1834,M. Angeleri,75,San Lorenzo de Almagro,RB CB 
-1835,E. Pieters,75,Stoke City,LWB LB 
+1835,E. Pieters,75,Stoke,LWB LB 
 1836,H. Sakai,75,Olympique de Marseille,RB 
 1837,Cassio,75,Rio Ave FC,GK 
 1838,R. van Wolfswinkel,75,FC Basel,ST 
 1839,M. Suarez,75,Belgrano de Córdoba,ST CAM 
 1840,K. Westwood,75,Sheffield Wednesday,GK 
-1841,M. Britos,75,Watford,CB 
+1841,M. Britos,75,Watford F.C.,CB 
 1842,B. Engels,75,Olympiakos CFP,CB 
 1843,A. McCarthy,75,Southampton,GK 
 1844,A. Cambrillo,75,CD O'Higgins,ST 
@@ -1853,7 +1853,7 @@
 1851,O. Yokuşlu,75,Trabzonspor,CM CDM 
 1852,Dani Hernandez,75,CD Tenerife,GK 
 1853,S. Jung,75,VfL Wolfsburg,RB 
-1854,D. Amartey,75,Leicester City,CM CDM 
+1854,D. Amartey,75,Leicester,CM CDM 
 1855,R. ozcan,75,Bayer 04 Leverkusen,GK 
 1856,L. Lereas,75,Universidad Católica,ST 
 1857,S. Schaars,75,SC Heerenveen,CM CDM 
@@ -1879,8 +1879,8 @@
 1877,J. Gbamin,75,1. FSV Mainz 05,CDM 
 1878,V. Guerra,75,Deportes Iquique,CDM CB 
 1879,A. Mitrovic,75,Newcastle,ST 
-1880,Kiko Femenia,75,Watford,RM RB 
-1881,C. Chambers,75,Arsenal,RB CB 
+1880,Kiko Femenia,75,Watford F.C.,RM RB 
+1881,C. Chambers,75,Arsenal F.C.,RB CB 
 1882,L. Rigoni,75,Genoa,CDM CM 
 1883,C. Daniels,75,Bournemouth,LB 
 1884,Kike Garcia,75,SD Eibar,ST 
@@ -1912,12 +1912,12 @@
 1910,Kaiquão Castro,75,Cruzeiro,GK 
 1911,G. Shibasaki,75,Getafe CF,ST RM CAM CDM 
 1912,M. Bodmer,75,Amiens SC Football,CAM CB CDM 
-1913,W. Hughes,75,Watford,CM 
+1913,W. Hughes,75,Watford F.C.,CM 
 1914,I. Amadou,75,LOSC Lille,CB CM CDM 
 1915,Varela,75,PAOK Thessaloniki,CB 
 1916,Jefferson,75,SC Braga,LB 
 1917,E. Dinsol,75,Universidad Católica,RM RB 
-1918,K. Iheanacho,75,Leicester City,ST 
+1918,K. Iheanacho,75,Leicester,ST 
 1919,R. Bajic,75,Udinese,CAM ST 
 1920,P. Schwegler,75,Hannover 96,CM CDM 
 1921,B. Wood,75,Hamburger SV,ST 
@@ -1937,7 +1937,7 @@
 1935,Gottardi,75,CS Maritimo,GK 
 1936,J. Gondorf,75,SV Werder Bremen,CDM CM 
 1937,Alex Alegria,75,Levante UD,ST 
-1938,M. Jørgensen,75,Huddersfield Town,CB 
+1938,M. Jørgensen,75,Huddersfield,CB 
 1939,J. Walters,75,Burnley,RM ST 
 1940,R. Bensebaini,75,Stade Rennais FC,LB CB 
 1941,Trashorras,75,Rayo Vallecano,CAM CM CDM 
@@ -1996,7 +1996,7 @@
 1994,Isaac Becerra,75,Real Valladolid,GK 
 1995,R. Kishna,75,ADO Den Haag,CAM LM LW 
 1996,M. Halstenberg,75,RB Leipzig,LB 
-1997,L. Dunk,75,Brighton & Hove Albion,CB 
+1997,L. Dunk,75,Brighton,CB 
 1998,P. Goltz,75,Boca Juniors,CB 
 1999,D. Turuç,75,Kayserispor,CAM CM LM RM 
 2000,G. Jara,75,,CB 
@@ -2021,12 +2021,12 @@
 2019,L. Gonzalez Pirez,75,Atlanta United FC,CB 
 2020,M. Oršic,75,Ulsan Hyundai Horang-i,LW LM 
 2021,S. Salihovic,75,Hamburger SV,LM CDM CM 
-2022,C. Dawson,75,West Bromwich Albion,CB RB 
+2022,C. Dawson,75,West Brom,CB RB 
 2023,M. Schnatterer,75,1. FC Heidenheim,LW LM 
 2024,F. Carrizo,75,Rosario Central,RW LW CAM LM 
 2025,O. Kharbin,75,Al Hilal,ST 
 2026,M. Sall,75,Royal Antwerp FC,CB 
-2027,Y. Benalouane,75,Leicester City,RB CB 
+2027,Y. Benalouane,75,Leicester,RB CB 
 2028,J. Biabiany,75,Sparta Praha,RM LW RW 
 2029,H. Tekin,75,Bursaspor,GK 
 2030,L. Pisculichi,75,Argentinos Juniors,RM ST CAM 
@@ -2107,13 +2107,13 @@
 2105,M. Kempf,74,SC Freiburg,CB 
 2106,M. Casco,74,River Plate,LB 
 2107,Caio Milaçar,74,Vitória ,CAM 
-2108,Victor Álvarez,74,Arsenal Tula,LM LB 
+2108,Victor Álvarez,74,Arsenal F.C. Tula,LM LB 
 2109,J. Amavi,74,Olympique de Marseille,LB 
 2110,C. Chantôme,74,RC Lens,CDM CM 
 2111,G. Pandev,74,Genoa,CAM ST 
 2112,L. Sepe,74,Napoli,GK 
 2113,M. Hawsawi,74,Al Ahli,CB 
-2114,B. Watson,74,Watford,CM CDM 
+2114,B. Watson,74,Watford F.C.,CM CDM 
 2115,Juankar,74,Malaga CF,LWB LM LB 
 2116,S. Al Faraj,74,Al Hilal,CDM LM CM 
 2117,G. Carrillo,74,AS Monaco,ST 
@@ -2153,13 +2153,13 @@
 2151,D. Falcinelli,74,Sassuolo,ST 
 2152,M. López,74,Udinese,ST 
 2153,Andre Geraldes,74,CF Os Belenenses,RB 
-2154,I. Maksimov,74,Arsenal Tula,ST CM CAM 
+2154,I. Maksimov,74,Arsenal F.C. Tula,ST CM CAM 
 2155,Claudemir,74,Al Ahli,CDM CM 
 2156,B. Poulain,74,Club Brugge KV,CB 
 2157,T. Rogic,74,Celtic,CAM 
 2158,Raúl Fernandez,74,Levante UD,GK 
 2159,L. Schaub,74,SK Rapid Wien,CAM LM RM 
-2160,P. Crouch,74,Stoke City,ST 
+2160,P. Crouch,74,Stoke,ST 
 2161,Victor Diaz,74,Granada CF,LB RB 
 2162,Jailson Caeiro,74,Clube Atletico Mineiro,RM RB 
 2163,G. Daralla,74,Everton de Viña del Mar,CB 
@@ -2199,11 +2199,11 @@
 2197,Michel,74,Real Valladolid,CM CAM 
 2198,S. Igboun,74,FC Ufa,RM LM ST 
 2199,E. Albayrak,74,Atiker Konyaspor,LM LB 
-2200,C. Adam,74,Stoke City,CAM CDM CM 
+2200,C. Adam,74,Stoke,CAM CDM CM 
 2201,N. Barresta,74,CD O'Higgins,RM LM 
 2202,Lato,74,Valencia CF,LM LWB LB 
 2203,Suk Hyun Jun,74,ES Troyes AC,ST 
-2204,T. Ince,74,Huddersfield Town,CAM LW RW 
+2204,T. Ince,74,Huddersfield,CAM LW RW 
 2205,Victor Rodriguez,74,Seattle Sounders FC,CM CAM RM LM 
 2206,David Rodriguez,74,CA Osasuna,ST 
 2207,J. Kembo-Ekoko,74,Bursaspor,ST RW 
@@ -2250,7 +2250,7 @@
 2248,Alvildo Sousa,74,Associação Atletica Ponte Preta,CM CAM 
 2249,David Neres,74,Ajax,RW 
 2250,B. Hamid,74,D.C. United,GK 
-2251,J. McClean,74,West Bromwich Albion,LM 
+2251,J. McClean,74,West Brom,LM 
 2252,D. Delaney,74,Crystal Palace,CB 
 2253,F. Đuričic,74,Sampdoria,LW CAM 
 2254,E. Barreto,74,Sampdoria,CDM CM 
@@ -2301,7 +2301,7 @@
 2299,S. Carson,74,Derby County,GK 
 2300,A. Erokhin,74,Zenit St. Petersburg,ST CAM CM 
 2301,G. Torje,74,Kardemir Karabukspor,RM LM 
-2302,S. Duffy,74,Brighton & Hove Albion,CB 
+2302,S. Duffy,74,Brighton,CB 
 2303,Postigo,74,Levante UD,CB 
 2304,E. Peñarendi,74,Everton de Viña del Mar,LM CAM 
 2305,Edvaldisco,74,Botafogo de Futebol e Regatas,CAM CM CDM 
@@ -2324,7 +2324,7 @@
 2322,H. Rodallega,74,Trabzonspor,ST 
 2323,A. Epureanu,74,İstanbul Başakşehir FK,CB 
 2324,M. Caraglio,74,Club Atlas,ST 
-2325,B. Dja Djedje,74,Watford,RB 
+2325,B. Dja Djedje,74,Watford F.C.,RB 
 2326,Paulinho,74,Portimonense SC,LW CM CAM 
 2327,Mauricio António,74,Urawa Red Diamonds,CB 
 2328,C. Gordon,74,Celtic,GK 
@@ -2336,7 +2336,7 @@
 2334,Perdigão,74,Grupo Desportivo de Chaves,RW 
 2335,A. Costa,74,Benevento Calcio,CB 
 2336,N. Rigoni,74,Chievo Verona,CDM CM 
-2337,V. Gabulov,74,Arsenal Tula,GK 
+2337,V. Gabulov,74,Arsenal F.C. Tula,GK 
 2338,I. Kahveci,74,İstanbul Başakşehir FK,LM CAM 
 2339,Sebas Couteira,74,Santos Futebol Clube,RM CAM 
 2340,Miguel Rosa,74,CF Os Belenenses,ST LM 
@@ -2352,7 +2352,7 @@
 2350,Z. Gera,74,,CAM CM 
 2351,Chema Rodriguez,74,Levante UD,CB 
 2352,C. Ninga,74,Montpellier Herault SC,LM ST 
-2353,R. Sobhi,74,Stoke City,RM LM 
+2353,R. Sobhi,74,Stoke,RM LM 
 2354,T. Bifouma,74,Medicana Sivasspor,ST 
 2355,A. Masina,74,Bologna,LB 
 2356,D. Schwaab,74,PSV,CB 
@@ -2390,7 +2390,7 @@
 2388,A. Traore,74,Atiker Konyaspor,LM RM CAM 
 2389,Álex Martinez,74,Granada CF,LB 
 2390,M. Larrondo,74,River Plate,ST 
-2391,A. Iwobi,74,Arsenal,LM 
+2391,A. Iwobi,74,Arsenal F.C.,LM 
 2392,C. Salcedo,74,Eintracht Frankfurt,CB 
 2393,M. Leitner,74,FC Augsburg,RM CAM CM 
 2394,T. Baumgartl,74,VfB Stuttgart,CB 
@@ -2399,7 +2399,7 @@
 2397,Gonçalo Guedes,74,Valencia CF,LM RM ST 
 2398,J. Ortiz,74,Belgrano de Córdoba,CDM CM 
 2399,A. Plata,74,Independiente Santa Fe,ST 
-2400,L. Ulloa,74,Leicester City,ST 
+2400,L. Ulloa,74,Leicester,ST 
 2401,E. Room,74,PSV,GK 
 2402,T. Usami,74,Fortuna Dusseldorf,ST LM 
 2403,Fabio Espinho,74,Boavista FC,CAM CM 
@@ -2428,7 +2428,7 @@
 2426,Kim Shin Wook,74,Jeonbuk Hyundai Motors,ST 
 2427,N. Taylor,74,Aston Villa,LB 
 2428,U. Demirok,74,Trabzonspor,CB 
-2429,D. Stephens,74,Brighton & Hove Albion,CM 
+2429,D. Stephens,74,Brighton,CM 
 2430,T. Matlaba,74,Orlando Pirates,CM LM RB LB 
 2431,Merino,74,Newcastle,CM CB CDM 
 2432,Marc Roca,74,RCD Espanyol,CM CDM 
@@ -2470,7 +2470,7 @@
 2468,C. Söyuncu,74,SC Freiburg,CB 
 2469,K. Reichel,74,Eintracht Braunschweig,LWB LM LB 
 2470,Bebe,74,SD Eibar,RM LM 
-2471,M. Wague,74,Watford,CB 
+2471,M. Wague,74,Watford F.C.,CB 
 2472,M. Galvarado,74,CD Universidad de Concepción,RM RB 
 2473,K. Tierney,74,Celtic,CB LB 
 2474,N. Kebano,74,Fulham,CAM LW 
@@ -2495,7 +2495,7 @@
 2493,Padilhisco,74,São Paulo Futebol Clube,LM LB 
 2494,L. Christodoulopoulos,74,AEK Athens,RM LM 
 2495,R. Olsen,74,FC København,GK 
-2496,L. Depoitre,74,Huddersfield Town,ST 
+2496,L. Depoitre,74,Huddersfield,ST 
 2497,A. Bedoya,74,Philadelphia Union,RM CDM CM 
 2498,J. Tarkowski,74,Burnley,CDM CB 
 2499,A. Romao,74,Olympiakos CFP,CB CDM 
@@ -2607,7 +2607,7 @@
 2605,T. Serero,74,Vitesse,CDM CM 
 2606,Pere Pons,74,Girona CF,CM 
 2607,T. Sparv,74,FC Midtjylland,CDM 
-2608,J. Hogg,74,Huddersfield Town,CM CDM 
+2608,J. Hogg,74,Huddersfield,CM CDM 
 2609,V. Manceau,74,Angers SCO,RB LB 
 2610,A. Djiku,74,SM Caen,CB RB 
 2611,Sergio Sanchez,74,RCD Espanyol,CB 
@@ -2631,7 +2631,7 @@
 2629,Wu Lei,73,,CF LM RM ST 
 2630,Gabriel Boschilia,73,AS Monaco,CAM 
 2631,J. Stanislas,73,Bournemouth,LM RM 
-2632,Richarlison,73,Watford,CAM RM CF LM 
+2632,Richarlison,73,Watford F.C.,CAM RM CF LM 
 2633,M. Wilson,73,Sunderland,LB CB 
 2634,S. Palitsevich,73,Gençlerbirligi SK,CB 
 2635,O. Assaidi,73,FC Twente,RM LM 
@@ -2656,7 +2656,7 @@
 2654,S. Rybalka,73,Medicana Sivasspor,CDM 
 2655,G. Makaridze,73,Moreirense FC,GK 
 2656,Johnathan,73,Suwon Samsung Bluewings,ST 
-2657,B. Kayal,73,Brighton & Hove Albion,CM 
+2657,B. Kayal,73,Brighton,CM 
 2658,Kim Bo Kyung,73,Kashiwa Reysol,CM 
 2659,M. Gregoritsch,73,FC Augsburg,RM LM ST CAM 
 2660,M. Michel,73,Angers SCO,GK 
@@ -2687,7 +2687,7 @@
 2685,D. Appiah,73,RSC Anderlecht,RB 
 2686,R. Gauld,73,CD Aves,CM CAM 
 2687,Rafael Martins,73,Vitória Guimarães,ST 
-2688,C. Löwe,73,Huddersfield Town,LB 
+2688,C. Löwe,73,Huddersfield,LB 
 2689,J. Furch,73,Santos Laguna,ST 
 2690,R. Pasveer,73,Vitesse,GK 
 2691,S. Siani,73,KV Oostende,CDM CM 
@@ -2789,8 +2789,8 @@
 2787,E. Benitez,73,Queretaro,LM 
 2788,K. Coulibaly,73,FC Nantes,ST 
 2789,L. Trossard,73,KRC Genk,CAM LM 
-2790,A. Tuanzebe,73,Manchester United,CDM CB 
-2791,B. Myhill,73,West Bromwich Albion,GK 
+2790,A. Tuanzebe,73,Manchester Utd,CDM CB 
+2791,B. Myhill,73,West Brom,GK 
 2792,M. Rovero,73,CD Universidad de Concepción,CB 
 2793,Wellington Sabrão,73,Associação Atletica Ponte Preta,LB CB 
 2794,Jason,73,Levante UD,LM RM 
@@ -2978,7 +2978,7 @@
 2976,J. Mercier,73,San Lorenzo de Almagro,CDM 
 2977,Ilori,73,Reading,CB 
 2978,Benjamin Meseira,73,Santos Futebol Clube,RB 
-2979,M. Suttner,73,Brighton & Hove Albion,LWB LB 
+2979,M. Suttner,73,Brighton,LWB LB 
 2980,K. Nordfeldt,73,Swansea,GK 
 2981,J. Okore,73,Aalborg BK,CB 
 2982,T. Hořava,73,,CAM CDM CM 
@@ -2994,7 +2994,7 @@
 2992,K. Rekik,73,Hertha BSC Berlin,CB 
 2993,F. Cerro,73,Rayo Vallecano,CAM CDM CM 
 2994,A. Petagna,73,Atalanta,ST 
-2995,G. Murray,73,Brighton & Hove Albion,ST 
+2995,G. Murray,73,Brighton,ST 
 2996,Momo,73,UD Las Palmas,RM LM 
 2997,S. Mitrovic,73,KAA Gent,CB 
 2998,A. Mosquera,73,Club León,RB CB 
@@ -3031,7 +3031,7 @@
 3029,F. Guilbert,73,SM Caen,RM RB 
 3030,S. Aigner,73,Colorado Rapids,RM 
 3031,J. Colback,73,Newcastle,CM CDM 
-3032,Bruno Saltor,73,Brighton & Hove Albion,RB 
+3032,Bruno Saltor,73,Brighton,RB 
 3033,Marlon Santos,73,OGC Nice,CB 
 3034,A. Shunin,73,Dinamo Moscow,GK 
 3035,A. Judge,73,Brentford,LM CAM 
@@ -3047,7 +3047,7 @@
 3045,M. Gobbi,73,Chievo Verona,LB 
 3046,S. Kverkvelia,73,Lokomotiv Moscow,LB CB 
 3047,F. Adi,73,Portland Timbers,ST 
-3048,C. Schindler,73,Huddersfield Town,CB 
+3048,C. Schindler,73,Huddersfield,CB 
 3049,D. Arias,73,Atletico Nacional Medellin,CM CDM 
 3050,F. Lucioni,73,Benevento Calcio,CB 
 3051,J. Aterola,73,Deportes Iquique,CAM LM 
@@ -3077,7 +3077,7 @@
 3075,S. Padoin,73,Cagliari,LB CM RB 
 3076,A. ozbiliz,73,Beşiktaş JK,LM RM 
 3077,M. Veljkovic,73,SV Werder Bremen,CDM CB 
-3078,I. Success,73,Watford,ST RM LM 
+3078,I. Success,73,Watford F.C.,ST RM LM 
 3079,I. Diomande,73,SM Caen,CDM 
 3080,V. Laurini,73,Fiorentina,RB 
 3081,Alex López,73,Real Sporting de Gijón,CDM CM 
@@ -3196,10 +3196,10 @@
 3194,B. Gibson,73,Middlesbrough,CB 
 3195,C. Taylor,73,Burnley,LB 
 3196,Sergi Samper,73,UD Las Palmas,CM CDM 
-3197,A. Hegazy,73,West Bromwich Albion,CB 
+3197,A. Hegazy,73,West Brom,CB 
 3198,R. Lod,73,Panathinaikos FC,RM CAM 
 3199,M. Lacen,73,Getafe CF,CM CDM 
-3200,D. Gray,73,Leicester City,LM 
+3200,D. Gray,73,Leicester,LM 
 3201,C. Larin,73,Orlando City Soccer Club,ST 
 3202,P. Etebo,73,CD Feirense,CAM ST LM 
 3203,P. Chavarria,73,Stade de Reims,RM ST 
@@ -3218,7 +3218,7 @@
 3216,R. Lawal,73,Osmanlıspor,CAM CM CDM 
 3217,Tito,73,CD Leganes,LB RB 
 3218,D. Randolph,73,Middlesbrough,GK 
-3219,C. Cathcart,73,Watford,RB CB 
+3219,C. Cathcart,73,Watford F.C.,RB CB 
 3220,Ivo Pinto,73,Norwich City,RB 
 3221,J. Insaurralde,73,Boca Juniors,CB 
 3222,Zaldúa,73,CD Leganes,RB 
@@ -3237,7 +3237,7 @@
 3235,B. Aleman,73,Gimnasia y Esgrima La Plata,CM LM 
 3236,I. Köybaşı,73,Fenerbahçe SK,LB 
 3237,M. Al Owais,73,Al Ahli,GK 
-3238,L. Grant,73,Stoke City,GK 
+3238,L. Grant,73,Stoke,GK 
 3239,Clinton Mata,73,KRC Genk,RM RB 
 3240,S. Hutchinson,73,Sheffield Wednesday,CB CM CDM 
 3241,R. Rodelin,73,SM Caen,RW RM LW 
@@ -3268,7 +3268,7 @@
 3266,C. Lungu,73,Alanyaspor,CDM ST LM 
 3267,A. Gomis,73,Ferrara (SPAL),GK 
 3268,D. Ballega,73,CD Universidad de Concepción,ST 
-3269,R. Green,73,Huddersfield Town,GK 
+3269,R. Green,73,Huddersfield,GK 
 3270,Gelson Dala,73,Sporting CP,LM RM CF 
 3271,I. Sylla,73,Queens Park Rangers,ST 
 3272,A. Anyukov,73,Zenit St. Petersburg,LB RB 
@@ -3281,7 +3281,7 @@
 3279,B. Leitoñez,73,Colo-Colo,CM CDM 
 3280,Guaita,73,Getafe CF,GK 
 3281,T. Carroll,73,Swansea,CDM CM 
-3282,S. Byram,73,West Ham United,RM RB 
+3282,S. Byram,73,West Ham,RM RB 
 3283,M. Cauteruccio,73,Cruz Azul,RM ST 
 3284,K. Vacek,73,Śląsk Wrocław,CDM CM 
 3285,Nuno Andre Coelho,73,Grupo Desportivo de Chaves,CDM CB 
@@ -3321,7 +3321,7 @@
 3319,M. Bunn,72,Aston Villa,GK 
 3320,Erik Moran,72,CD Leganes,CM CDM 
 3321,K. Stuhr-Ellegaard,72,IF Elfsborg,GK 
-3322,T. Smith,72,Huddersfield Town,RB 
+3322,T. Smith,72,Huddersfield,RB 
 3323,H. Aleesami,72,Palermo,LM LB 
 3324,Tobias Figueiredo,72,Sporting CP,CB 
 3325,Miltisco Paulino,72,Botafogo de Futebol e Regatas,CB 
@@ -3375,7 +3375,7 @@
 3373,I. Ghaleb,72,Al Nassr,CM CDM 
 3374,Lee Chang Min,72,Jeju United FC,CM 
 3375,Borja Mayoral,72,Real Madrid CF,ST 
-3376,M. James,72,Leicester City,CM 
+3376,M. James,72,Leicester,CM 
 3377,G. Vural,72,Kayserispor,LM LB RM 
 3378,S. Şahin,72,Göztepe,CDM 
 3379,E. Boateng,72,Levante UD,ST 
@@ -3415,7 +3415,7 @@
 3413,F. Barrientos,72,Club Atletico Lanús,CM 
 3414,K. Hämäläinen,72,Legia Warszawa,CAM 
 3415,J. Oyarcan,72,CD Universidad de Concepción,RB 
-3416,E. Kachunga,72,Huddersfield Town,ST RM 
+3416,E. Kachunga,72,Huddersfield,ST RM 
 3417,Diego Galo,72,CD Aves,CB 
 3418,E. Ponce,72,LOSC Lille,ST 
 3419,A. Candelo,72,Deportes Iquique,RM LB RB 
@@ -3513,7 +3513,7 @@
 3511,João Afonso,72,Córdoba CF,CB 
 3512,J. Spector,72,Orlando City Soccer Club,CB 
 3513,A. Ounas,72,Napoli,LM RW 
-3514,S. Ireland,72,Stoke City,CM CAM 
+3514,S. Ireland,72,Stoke,CM CAM 
 3515,Estevão Candeira,72,Associação Atletica Ponte Preta,CB 
 3516,A. Faurlin,72,Cruz Azul,CM CDM 
 3517,C. Campestrini,72,Chacarita Juniors,GK 
@@ -3555,7 +3555,7 @@
 3553,Kenedy,72,Chelsea,LB LM 
 3554,M. Moralez,72,New York City Football Club,LW CAM CM 
 3555,L. Spalvis,72,1. FC Kaiserslautern,ST 
-3556,G. Čaušic,72,Arsenal Tula,CDM CM 
+3556,G. Čaušic,72,Arsenal F.C. Tula,CDM CM 
 3557,A. Collin,72,New York Red Bulls,CB 
 3558,Ismael,72,Terek Grozny,CM 
 3559,L. Boye,72,Torino,LW ST 
@@ -3593,8 +3593,8 @@
 3591,A. Silva,72,,GK 
 3592,B. Megyeri,72,SpVgg Greuther Furth,GK 
 3593,E. Gorodov,72,Terek Grozny,GK 
-3594,G. Bong,72,Brighton & Hove Albion,LB 
-3595,E. Jakupovic,72,Leicester City,GK 
+3594,G. Bong,72,Brighton,LB 
+3595,E. Jakupovic,72,Leicester,GK 
 3596,L. Ardente,72,San Martin de San Juan,GK 
 3597,J. Shackell,72,Derby County,CB 
 3598,D. Andrade,72,Asociacion Deportivo Cali,LB 
@@ -3724,7 +3724,7 @@
 3722,M. Ardemagni,72,Avellino,ST 
 3723,C. Gamboa,72,Celtic,RB 
 3724,C. Nyman,72,Eintracht Braunschweig,ST 
-3725,A. Mariappa,72,Watford,CB RB 
+3725,A. Mariappa,72,Watford F.C.,CB RB 
 3726,M. El Kabir,72,Antalyaspor,LM ST 
 3727,A. Traore,72,Göztepe,LB 
 3728,M. Ciani,72,LA Galaxy,CB 
@@ -3847,7 +3847,7 @@
 3845,A. Zaldivar,72,Guadalajara,LM ST 
 3846,S. Šimic,72,Crotone,CB 
 3847,A. Escavar,72,CD O'Higgins,CB 
-3848,R. Holding,72,Arsenal,CB 
+3848,R. Holding,72,Arsenal F.C.,CB 
 3849,D. Guzman,72,Portland Timbers,CDM 
 3850,L. Álvarez,72,Lobos de la BUAP,GK 
 3851,L. Kozak,72,Bari,ST 
@@ -3869,7 +3869,7 @@
 3867,J. Hamad,72,Hammarby IF,CAM RM 
 3868,V. Wormgoor,72,SK Brann,CB 
 3869,Albizua,72,C.D. Leonesa S.A.D.,CB 
-3870,F. Hadergjonaj,72,Huddersfield Town,RWB RM RB 
+3870,F. Hadergjonaj,72,Huddersfield,RWB RM RB 
 3871,An Hyeon Beom,72,Jeju United FC,RWB RM 
 3872,D. Boyata,72,Celtic,CB 
 3873,A. Martin Arias,72,Gimnasia y Esgrima La Plata,GK 
@@ -3886,7 +3886,7 @@
 3884,B. Berisha,72,Terek Grozny,LM 
 3885,M. Duhamel,72,US Quevilly-Rouen,ST 
 3886,Barragan,72,Real Betis Balompie,RB 
-3887,A. King,72,Leicester City,CM 
+3887,A. King,72,Leicester,CM 
 3888,A. Jali,72,KV Oostende,CDM CM 
 3889,K. Overmeire,72,Sporting Lokeren,CM CDM 
 3890,Rafael Furlan,72,Grupo Desportivo de Chaves,LB 
@@ -3973,7 +3973,7 @@
 3971,L. Cinterio,72,Deportes Iquique,ST RM 
 3972,V. Seldero,72,Universidad de Chile,RM ST CAM 
 3973,P. Mouche,72,Banfield,RM 
-3974,T. Hemed,72,Brighton & Hove Albion,ST 
+3974,T. Hemed,72,Brighton,ST 
 3975,J. Hyka,72,San Jose Earthquakes,CM LM 
 3976,A. Mangane,72,RC Strasbourg,CDM CB 
 3977,B. Bannan,72,Sheffield Wednesday,LM CM 
@@ -4016,7 +4016,7 @@
 4014,C. Grossmuller,71,Sandefjord Fotball,CAM CM 
 4015,E. Echiejile,71,Medicana Sivasspor,LWB LM LB 
 4016,C. Râpă,71,Pogoń Szczecin,CB RB 
-4017,S. March,71,Brighton & Hove Albion,CAM RM LM 
+4017,S. March,71,Brighton,CAM RM LM 
 4018,J. Cabezas,71,Houston Dynamo,CDM 
 4019,Jony Reitosa,71,Atletico Clube Goianiense,RB 
 4020,P. Niemeyer,71,SV Darmstadt 98,CB CDM 
@@ -4036,7 +4036,7 @@
 4034,K. Boutaïb,71,Evkur Yeni Malatyaspor,CAM ST 
 4035,Lucas Evangelista,71,Estoril Praia,LB CM CAM 
 4036,J. Medina,71,Lobos de la BUAP,CDM CM 
-4037,U. Hunemeier,71,Brighton & Hove Albion,CB 
+4037,U. Hunemeier,71,Brighton,CB 
 4038,G. Jung,71,Hamburger SV,CB CDM 
 4039,R. Koolwijk,71,Excelsior,CM CDM 
 4040,A. Sobiech,71,SV Darmstadt 98,ST 
@@ -4094,7 +4094,7 @@
 4092,C. Janker,71,FC Augsburg,RB CB 
 4093,S. von Bergen,71,BSC Young Boys,CB 
 4094,F. Macheda,71,Novara,ST 
-4095,S. Sidwell,71,Brighton & Hove Albion,CDM CM 
+4095,S. Sidwell,71,Brighton,CDM CM 
 4096,Y. Chibsah,71,Benevento Calcio,CDM CM 
 4097,T. Schutz,71,DSC Arminia Bielefeld,RB CDM 
 4098,S. Rizzato,71,Avellino,LB LM 
@@ -4171,7 +4171,7 @@
 4169,K. Lawrence,71,New York Red Bulls,LWB LB 
 4170,M. Caktaš,71,Rubin Kazan,CAM CM 
 4171,G. Sunu,71,Angers SCO,LW ST RM RW 
-4172,D. Williams,71,Huddersfield Town,CM 
+4172,D. Williams,71,Huddersfield,CM 
 4173,R. Leeuwin,71,FC Utrecht,CDM CB 
 4174,R. Espinoza,71,Sporting Kansas City,CDM CM 
 4175,Tyronne,71,CD Tenerife,CAM LM RM 
@@ -4225,7 +4225,7 @@
 4223,G. Gianniotas,71,Real Valladolid,RM LM 
 4224,J. Vaughan,71,Sunderland,ST 
 4225,E. Álvarez,71,Club America,CDM CB 
-4226,S. Sunzu,71,Arsenal Tula,CB 
+4226,S. Sunzu,71,Arsenal F.C. Tula,CB 
 4227,T. Schick,71,BSC Young Boys,LM RM 
 4228,A. Asiri,71,Al Ittihad,CB 
 4229,J. Sanchez,71,CPD Junior Barranquilla,CM CDM 
@@ -4462,11 +4462,11 @@
 4460,K. Akpoguma,71,TSG 1899 Hoffenheim,RB CB 
 4461,E. Torres,71,Houston Dynamo,ST 
 4462,R. Quioto,71,Houston Dynamo,ST LW 
-4463,S. Tkachev,71,Arsenal Tula,CM CAM LM RM 
+4463,S. Tkachev,71,Arsenal F.C. Tula,CM CAM LM RM 
 4464,P. Hosiner,71,1. FC Union Berlin,ST 
 4465,Y. Karamoh,71,Inter,LW RM RW 
 4466,S. Chernik,71,AS Nancy Lorraine,GK 
-4467,L. Rosenior,71,Brighton & Hove Albion,RM RB LB 
+4467,L. Rosenior,71,Brighton,RM RB LB 
 4468,M. Miloš,71,Lechia Gdańsk,LB RB 
 4469,J. Lucumi,71,Atletico Nacional Medellin,CAM 
 4470,T. Matton,71,KAA Gent,CF CAM LM 
@@ -4526,10 +4526,10 @@
 4524,R. Amalfitano,71,Dijon FCO,LM CM RM 
 4525,I. Kiese Thelin,71,Waasland-Beveren,ST 
 4526,H. Al Moqahwi,71,Al Ahli,LM CDM CM CAM 
-4527,K. Palmer,71,Huddersfield Town,CAM 
+4527,K. Palmer,71,Huddersfield,CAM 
 4528,A. Harit,71,FC Schalke 04,LW RW CAM RM 
 4529,M. Gunok,71,İstanbul Başakşehir FK,GK 
-4530,S. Malone,71,Huddersfield Town,LB 
+4530,S. Malone,71,Huddersfield,LB 
 4531,A. Camara,71,En Avant de Guingamp,CM LM LW 
 4532,T. Asano,71,VfB Stuttgart,CF RM LM 
 4533,G. Berardi,71,Leeds United,RB LB 
@@ -4612,7 +4612,7 @@
 4610,C. Villagra,71,Atletico Tucuman,RB LB 
 4611,Kwon Soon Hyung,71,Jeju United FC,CDM CM 
 4612,Aday Benitez,71,Girona CF,RWB LWB 
-4613,L. Wilchez,71,Arsenal de Sarandi,LM CAM 
+4613,L. Wilchez,71,Arsenal F.C. de Sarandi,LM CAM 
 4614,N. Camacho,71,,RM LM CAM 
 4615,Rhayner,71,Kawasaki Frontale,ST CAM LM RM 
 4616,Wiliam Santinho,71,Santos Futebol Clube,GK 
@@ -4768,7 +4768,7 @@
 4766,N. Verdier,71,KAS Eupen,ST 
 4767,G. Colman,71,Rosario Central,CDM CAM CM 
 4768,J. Morales,71,FC Dallas,CM CAM 
-4769,Joel Pereira,71,Manchester United,GK 
+4769,Joel Pereira,71,Manchester Utd,GK 
 4770,V. Figueroa,71,Newell's Old Boys,CAM CM 
 4771,R. Rebones,71,Everton de Viña del Mar,CAM 
 4772,M. Edu,71,Philadelphia Union,CDM CB 
@@ -4806,7 +4806,7 @@
 4804,H. Belkaroui,71,Moreirense FC,CB 
 4805,C. Mulgrew,71,Blackburn Rovers,CM CB 
 4806,A. Tetteh,71,Lech Poznań,CDM 
-4807,I. Brown,71,Brighton & Hove Albion,LM CAM 
+4807,I. Brown,71,Brighton,LM CAM 
 4808,L. Grimi,71,Racing Club de Avellaneda,CB LB 
 4809,D. Dos Santos,71,AZ Alkmaar,LW 
 4810,J. Morris,71,Seattle Sounders FC,RM LM ST 
@@ -4982,7 +4982,7 @@
 4980,S. Rosted,70,Sarpsborg 08 FF,CB 
 4981,R. Goreux,70,Standard de Liège,RM RB 
 4982,J. Mucha,70,Termalica Bruk-Bet Nieciecza,GK 
-4983,S. Baldock,70,Brighton & Hove Albion,CF ST 
+4983,S. Baldock,70,Brighton,CF ST 
 4984,K. Laribi,70,Cesena,CM CAM 
 4985,Bruno Nascimento,70,CD Feirense,CB 
 4986,G. Kvilitaia,70,SK Rapid Wien,ST 
@@ -5069,7 +5069,7 @@
 5067,F. Agliardi,70,Cesena,GK 
 5068,R. Rezaeian,70,KV Oostende,RM RB 
 5069,D. Blum,70,Eintracht Frankfurt,LM RM ST 
-5070,M. Hefele,70,Huddersfield Town,CB 
+5070,M. Hefele,70,Huddersfield,CB 
 5071,A. Nocerino,70,Orlando City Soccer Club,CM CDM 
 5072,Esmael,70,Heart of Midlothian,ST 
 5073,S. Saad,70,,CB 
@@ -5179,8 +5179,8 @@
 5177,D. Suzuki,70,Gimnàstic de Tarragona,RB CB 
 5178,P. Quiñonez,70,,CM CDM 
 5179,B. Holman,70,Brisbane Roar,ST CAM 
-5180,O. Burke,70,West Bromwich Albion,ST RM 
-5181,B. Chilwell,70,Leicester City,LB 
+5180,O. Burke,70,West Brom,ST RM 
+5181,B. Chilwell,70,Leicester,LB 
 5182,D. Pollet,70,Sporting Charleroi,ST 
 5183,M. Chretien,70,AS Nancy Lorraine,CB 
 5184,Enzo Chissano,70,São Paulo Futebol Clube,CB RB CDM 
@@ -5336,7 +5336,7 @@
 5334,Y. de Lanlay,70,Rosenborg BK,RW LW 
 5335,D. Dumfries,70,SC Heerenveen,RB 
 5336,E. Lichaj,70,Nottingham Forest,RWB LB RB 
-5337,K. Kombarov,70,Arsenal Tula,RWB RM RB 
+5337,K. Kombarov,70,Arsenal F.C. Tula,RWB RM RB 
 5338,M. Wittek,70,1. FC Heidenheim,CDM CB 
 5339,Oh Ban Suk,70,Jeju United FC,CB 
 5340,K. Rodrigues,70,Real Sociedad,LM LB 
@@ -5406,7 +5406,7 @@
 5404,G. Stendardo,70,Pescara,CB 
 5405,D. Cavare,70,Barnsley,RB 
 5406,S. Lukic,70,Levante UD,CM CDM 
-5407,C. Goldson,70,Brighton & Hove Albion,CB 
+5407,C. Goldson,70,Brighton,CB 
 5408,David Ferreiro,70,SD Huesca,RM LM 
 5409,M. Diskerud,70,IFK Göteborg,RM CM 
 5410,S. Khelifi,70,Eintracht Braunschweig,RM RW LM 
@@ -5636,7 +5636,7 @@
 5634,A. Mantovani,70,Novara,CB 
 5635,M. Saymak,70,PEC Zwolle,RM CM CAM 
 5636,F. Ballas,70,SG Dynamo Dresden,CB 
-5637,J. Murphy,70,Brighton & Hove Albion,CF LM 
+5637,J. Murphy,70,Brighton,CF LM 
 5638,S. Winnall,70,Derby County,ST 
 5639,L. Phiri,70,En Avant de Guingamp,CM CDM 
 5640,Sergio Espinho,70,Grêmio Foot-Ball Porto Alegrense,CB RB 
@@ -5703,7 +5703,7 @@
 5701,Flavio,70,CD Feirense,CB 
 5702,A. Gunnarsson,70,Cardiff City,CDM CM 
 5703,R. Sawyers,70,Brentford,CF CM CAM 
-5704,G. Grigalava,70,Arsenal Tula,LB CB 
+5704,G. Grigalava,70,Arsenal F.C. Tula,LB CB 
 5705,Y. Reyna,70,Vancouver Whitecaps FC,CAM CF 
 5706,J. Penroz,70,Curicó Unido,LM RM 
 5707,H. Faik,70,Excelsior,CDM CM 
@@ -5768,7 +5768,7 @@
 5766,R. Munsy,69,Grasshopper Club Zurich,RM ST 
 5767,N. Bodurov,69,,CB 
 5768,D. John,69,Rangers,LWB LB 
-5769,E. Fernandes,69,West Ham United,RWB CAM CM 
+5769,E. Fernandes,69,West Ham,RWB CAM CM 
 5770,F. Poli,69,Carpi,CB 
 5771,B. Manuel,69,KRC Genk,RM 
 5772,M. Crimi,69,Virtus Entella,CM 
@@ -5908,7 +5908,7 @@
 5906,I. Vargic,69,Lazio,GK 
 5907,L. Boussaha,69,Bourg en Bresse Peronnas 01,ST 
 5908,R. Sanusi,69,Sparta Rotterdam,CM 
-5909,R. Carrera,69,Arsenal de Sarandi,LM RM 
+5909,R. Carrera,69,Arsenal F.C. de Sarandi,LM RM 
 5910,P. Delecroix,69,FC Lorient,GK 
 5911,Gerard Badia,69,Piast Gliwice,LW LM 
 5912,M. Núñez,69,CD Los Millionarios Bogota,RW ST RM 
@@ -6141,7 +6141,7 @@
 6139,G. Danic,69,FC Lorient,RM CM LM 
 6140,P. Ofosu-Ayeh,69,Wolverhampton Wanderers,CB RWB RB 
 6141,Pedro Coronas,69,CS Maritimo,RB 
-6142,M. Curado,69,Arsenal de Sarandi,CB 
+6142,M. Curado,69,Arsenal F.C. de Sarandi,CB 
 6143,A. Aldrete,69,Cruz Azul,LB 
 6144,Dani Toribio,69,AD Alcorcón,LM CM CDM 
 6145,T. Tawatha,69,Eintracht Frankfurt,LB 
@@ -6196,7 +6196,7 @@
 6194,C. Monsalvo,69,Águilas Doradas,ST 
 6195,Lucas João,69,Sheffield Wednesday,ST 
 6196,R. Christie,69,Aberdeen,CAM 
-6197,R. van La Parra,69,Huddersfield Town,RM LM 
+6197,R. van La Parra,69,Huddersfield,RM LM 
 6198,O. Altman,69,Panathinaikos FC,LM RM CAM 
 6199,N. Aankour,69,Korona Kielce,CAM 
 6200,M. Christiansen,69,FC Ingolstadt 04,CDM 
@@ -6252,7 +6252,7 @@
 6250,F. Jensen,69,FC Twente,LM CAM 
 6251,J. Grounds,69,Birmingham City,LB 
 6252,D. Buzzegoli,69,Ascoli,CDM CM 
-6253,J. Wilson,69,Manchester United,ST 
+6253,J. Wilson,69,Manchester Utd,ST 
 6254,A. Ramos,69,Club León,RM RW ST 
 6255,E. Godoy,69,Belgrano de Córdoba,CB 
 6256,Ever Sineiro,69,Coritiba Foot Ball Club,ST CAM 
@@ -6376,7 +6376,7 @@
 6374,B. Jradi,69,Strømsgodset IF,LM RM CAM 
 6375,D. Oberlin,69,FC Basel,ST 
 6376,C. I'Anson,69,Granada CF,CB 
-6377,E. Papa,69,Arsenal de Sarandi,LM LB 
+6377,E. Papa,69,Arsenal F.C. de Sarandi,LM LB 
 6378,J. Brondeel,69,FC Twente,GK 
 6379,J. Perch,69,Queens Park Rangers,CB RB 
 6380,M. Jean Tahrat,69,Angers SCO,CB CM CDM 
@@ -6457,11 +6457,11 @@
 6455,F. Sears,69,Ipswich Town,RM LM ST 
 6456,Nuno Reis,69,Panathinaikos FC,CDM CB 
 6457,A. Zoubir,69,RC Lens,LM RM 
-6458,F. Monteseirin,69,Arsenal de Sarandi,CB 
-6459,E. Kangwa,69,Arsenal Tula,LM RM 
+6458,F. Monteseirin,69,Arsenal F.C. de Sarandi,CB 
+6459,E. Kangwa,69,Arsenal F.C. Tula,LM RM 
 6460,N. Nielsen,69,Lech Poznań,ST 
 6461,Juan Dominguez,69,CF Reus Deportiu,CAM CM CDM 
-6462,T. Hoban,69,Watford,LB CB 
+6462,T. Hoban,69,Watford F.C.,LB CB 
 6463,J. Guemez,69,Queretaro,CDM CM 
 6464,Kim Sung Joon,69,Sangju Sangmu FC,CM 
 6465,L. Mendoza,69,Club Tijuana,ST CM RM 
@@ -6684,7 +6684,7 @@
 6682,E. Hussain,68,Odds BK,CM 
 6683,Magno,68,Jeju United FC,ST 
 6684,Álvaro Peña,68,AD Alcorcón,CM CAM 
-6685,M. Cranie,68,Huddersfield Town,CB RB 
+6685,M. Cranie,68,Huddersfield,CB RB 
 6686,David Rocha,68,Real Oviedo,RM CDM CM 
 6687,B. Riveros,68,FC Basel,LB 
 6688,Vagner Norteiro,68,Fluminense Football Club,RB 
@@ -6696,7 +6696,7 @@
 6694,M. Morganella,68,Palermo,RB RM 
 6695,Luis Machado,68,CD Feirense,RM LM 
 6696,B. Cheyrou,68,Toronto FC,CDM CM 
-6697,S. Ahannach,68,Brighton & Hove Albion,CAM LW 
+6697,S. Ahannach,68,Brighton,CAM LW 
 6698,I. Rossi,68,River Plate,CM CDM 
 6699,A. Canelo,68,Deportivo Toluca,ST 
 6700,P. Luguercio,68,Estudiantes de La Plata,ST LM RM 
@@ -6757,7 +6757,7 @@
 6755,N. Maynard,68,Aberdeen,ST 
 6756,I. Risendo,68,Audax Italiano,LB 
 6757,E. Ibarguen,68,Patriotas Boyaca FC,RW ST 
-6758,B. Hamer,68,Leicester City,GK 
+6758,B. Hamer,68,Leicester,GK 
 6759,B. Barker,68,Hibernian,LM 
 6760,Iago,68,Moreirense FC,RB CB 
 6761,C. Morgan,68,Wigan Athletic,CB 
@@ -6916,7 +6916,7 @@
 6914,T. Ayasse,68,Le Havre AC,CDM 
 6915,S. Johnson,68,New York City Football Club,GK 
 6916,C. Masuda,68,Shimizu S-Pulse,CDM 
-6917,C. Quaner,68,Huddersfield Town,RM RW ST 
+6917,C. Quaner,68,Huddersfield,RM RW ST 
 6918,Kim Ho Nam,68,Sangju Sangmu FC,LM RM 
 6919,R. Tunnicliffe,68,Millwall,LM CM 
 6920,Jang Hyeon Soo,68,F.C. Tokyo,CB 
@@ -6959,7 +6959,7 @@
 6957,A. Mobara,68,Orlando Pirates,CDM RB CB 
 6958,B. Başdaş,68,Kardemir Karabukspor,CB 
 6959,G. N'Gosso,68,Amiens SC Football,CB CM CDM 
-6960,C. Corvalan,68,Arsenal de Sarandi,LB 
+6960,C. Corvalan,68,Arsenal F.C. de Sarandi,LB 
 6961,F. Najera,68,La Equidad,CB 
 6962,A. Yoda,68,Getafe CF,LB RM 
 6963,P. Mandanda,68,Sporting Charleroi,GK 
@@ -7010,7 +7010,7 @@
 7008,D. Lazic,68,Alanyaspor,CB 
 7009,Dener Rolim,68,São Paulo Futebol Clube,RM CAM 
 7010,R. Nissen Kristensen,68,FC Midtjylland,RB 
-7011,J. Skalak,68,Brighton & Hove Albion,RM LM 
+7011,J. Skalak,68,Brighton,RM LM 
 7012,M. Zaccagni,68,Hellas Verona,CM 
 7013,P. McGowan,68,Dundee FC,CM CAM 
 7014,Wang Yongpo,68,,CAM CM 
@@ -7099,7 +7099,7 @@
 7097,T. Kida,68,Yokohama F. Marinos,CM CDM 
 7098,Fabinho,68,Philadelphia Union,LM LB 
 7099,M. Hornschuh,68,FC St. Pauli,RB CB 
-7100,Mosquito,68,Arsenal de Sarandi,ST 
+7100,Mosquito,68,Arsenal F.C. de Sarandi,ST 
 7101,L. DeVere,68,Brisbane Roar,CB 
 7102,N. Giani,68,La Spezia,LB CB 
 7103,D. Terentyev,68,Zenit St. Petersburg,RWB RB 
@@ -7336,7 +7336,7 @@
 7334,J. Repas,68,SM Caen,CM RM LM 
 7335,N. Etheridge,68,Cardiff City,GK 
 7336,L. Duarte,68,Heracles Almelo,CM 
-7337,N. Mäenpää,68,Brighton & Hove Albion,GK 
+7337,N. Mäenpää,68,Brighton,GK 
 7338,P. Cibicki,68,Leeds United,RM ST 
 7339,J. Mezú,68,Jaguares Fútbol Club,RM CAM 
 7340,Gian Martins,68,FC Paços de Ferreira,CM 
@@ -7369,7 +7369,7 @@
 7367,F. Rodriguez,68,FC Luzern,LM RM CAM 
 7368,M. Nichols,68,Perth Glory,CM CAM 
 7369,G. Sauro,68,Columbus Crew SC,CB 
-7370,M. Belyaev,68,Arsenal Tula,CB 
+7370,M. Belyaev,68,Arsenal F.C. Tula,CB 
 7371,E. Taffertshofer,68,Wurzburger FV,CM CDM 
 7372,D. Lainez,68,Club America,LM RM 
 7373,R. Janicki,68,Lech Poznań,CB 
@@ -7641,7 +7641,7 @@
 7639,L. Galeano,68,Godoy Cruz,CB 
 7640,D. Kownacki,68,Sampdoria,ST 
 7641,N. Hagglund,68,Toronto FC,RB CB 
-7642,M. Aleksandrov,68,Arsenal Tula,LWB RM LM 
+7642,M. Aleksandrov,68,Arsenal F.C. Tula,LWB RM LM 
 7643,P. Farkas,68,FC Red Bull Salzburg,LB RM RB 
 7644,J. Cools,68,Waasland-Beveren,CM CDM 
 7645,R. Grant,68,Sydney FC,LB RB 
@@ -7757,7 +7757,7 @@
 7755,S. Cox,67,Southend United,ST 
 7756,M. Connolly,67,Cardiff City,CB RB 
 7757,A. Mannus,67,St. Johnstone FC,GK 
-7758,L. Đorđevic,67,Arsenal Tula,LW ST 
+7758,L. Đorđevic,67,Arsenal F.C. Tula,LW ST 
 7759,V. Yurchenko,67,Bayer 04 Leverkusen,CAM CM 
 7760,Choi Hyo Jin,67,Jeonnam Dragons,RM RB 
 7761,R. Maeda,67,F.C. Tokyo,ST 
@@ -7883,7 +7883,7 @@
 7881,J. Delgado,67,Gimnàstic de Tarragona,RM ST LM 
 7882,J. Grant,67,Notts County,CAM CM LM RM 
 7883,A. Otero,67,Atletico Bucaramanga,GK 
-7884,P. Billing,67,Huddersfield Town,CM CDM 
+7884,P. Billing,67,Huddersfield,CM CDM 
 7885,M. Zetterer,67,SV Werder Bremen,GK 
 7886,H. Halldórsson,67,Randers FC,GK 
 7887,E. Herrera,67,Lobos de la BUAP,ST 
@@ -7919,7 +7919,7 @@
 7917,Breno Laranjeiro,67,Sport Club do Recife,ST CAM 
 7918,V. Andriuškevičius,67,Portland Timbers,LB 
 7919,M. Angha,67,FC Sion,RB LB CB 
-7920,I. Shevchenko,67,Arsenal Tula,RM LM ST 
+7920,I. Shevchenko,67,Arsenal F.C. Tula,RM LM ST 
 7921,J. Wicks,67,IK Sirius,GK 
 7922,G. Gudiño,67,San Lorenzo de Almagro,RM 
 7923,J. Leutwiler,67,Blackburn Rovers,GK 
@@ -8028,7 +8028,7 @@
 8026,J. Meekings,67,Dundee FC,RB CB 
 8027,A. Popa,67,Reading,LW RW 
 8028,Jung Woo Jae,67,Daegu FC,LM RM 
-8029,A. Khagush,67,Arsenal Tula,RM RB RWB 
+8029,A. Khagush,67,Arsenal F.C. Tula,RM RB RWB 
 8030,S. Grandsir,67,ES Troyes AC,RM 
 8031,B. Mitrev,67,,GK 
 8032,B. Ogbeche,67,Willem II,ST 
@@ -8377,7 +8377,7 @@
 8375,M. Akbaş,67,Trabzonspor,LB CB 
 8376,E. Quejeda,67,CD Palestino,GK 
 8377,H. Abe,67,Kawasaki Frontale,LM RM CF 
-8378,H. Robson-Kanu,67,West Bromwich Albion,LM ST 
+8378,H. Robson-Kanu,67,West Brom,LM ST 
 8379,A. Syhre,67,Wurzburger FV,CB 
 8380,D. Bantelicia,67,Santiago Wanderers,GK 
 8381,B. Radunovic,67,Salernitana,GK 
@@ -8799,7 +8799,7 @@
 8797,D. Meleg,66,Kayserispor,LW RW 
 8798,M. Stiefler,66,SV Sandhausen,LM RM CAM 
 8799,Y. Rivera,66,Independiente Santa Fe,CAM ST LM 
-8800,M. Rolón,66,Arsenal de Sarandi,ST RW LW 
+8800,M. Rolón,66,Arsenal F.C. de Sarandi,ST RW LW 
 8801,M. Pedersen,66,FC Nordsjælland,LWB 
 8802,D. Da Costa,66,FC Lugano,GK 
 8803,Cho Soo Hyuk,66,Ulsan Hyundai Horang-i,GK 
@@ -9295,7 +9295,7 @@
 9293,G. Paquiez,66,Nîmes Olympique,RB LB 
 9294,J. Legear,66,Sint-Truidense VV,CAM LM RM 
 9295,M. Manotas,66,Houston Dynamo,LW ST 
-9296,S. Hakšabanovič,66,West Ham United,CAM LM 
+9296,S. Hakšabanovič,66,West Ham,CAM LM 
 9297,Gildo,66,CS Maritimo,RW 
 9298,A. El Khayati,66,ADO Den Haag,CM CAM 
 9299,M. Sowislo,66,1. FC Magdeburg,CAM CM 
@@ -9313,7 +9313,7 @@
 9311,A. Figueroa,66,CD Los Millionarios Bogota,CB 
 9312,J. Gómez,66,CPD Junior Barranquilla,CB 
 9313,A. Zain,66,Al Ahli,LM RM 
-9314,D. Drocco,66,Arsenal de Sarandi,CDM CM 
+9314,D. Drocco,66,Arsenal F.C. de Sarandi,CDM CM 
 9315,S. Schiek,66,SG Sonnenhof Großaspach,LW RW RWB 
 9316,N. Quaschner,66,DSC Arminia Bielefeld,ST LM 
 9317,A. Sušac,66,VfL Osnabruck,CB 
@@ -9369,7 +9369,7 @@
 9367,L. Guldan,66,Zagłębie Lubin,CB 
 9368,Adan Gurdiel,66,Lorca Deportiva CF,RB 
 9369,R. Lašik,66,Avellino,RB RM CM 
-9370,I. Bella,66,Arsenal de Sarandi,LB LM 
+9370,I. Bella,66,Arsenal F.C. de Sarandi,LB LM 
 9371,F. Beijmo,66,Djurgårdens IF,RB 
 9372,D. Furman,66,,CDM CM 
 9373,T. Børven,66,SK Brann,ST 
@@ -9417,8 +9417,8 @@
 9415,J. Jacobson,66,Wycombe Wanderers,LB 
 9416,O. Cisse,66,Milton Keynes Dons,CM CDM 
 9417,D. Mohamed,66,Royal Excel Mouscron,LB LM CDM 
-9418,J. Riley,66,Manchester United,LB RB 
-9419,A. Matějů,66,Brighton & Hove Albion,LB RB 
+9418,J. Riley,66,Manchester Utd,LB RB 
+9419,A. Matějů,66,Brighton,LB RB 
 9420,K. Pezzoni,66,SV Wehen Wiesbaden,CB CDM 
 9421,J. Moreno,66,CD Once Caldas Manizales,CB 
 9422,A. Engin,66,MSV Duisburg,ST LM 
@@ -9454,7 +9454,7 @@
 9452,D. Peitz,66,Holstein Kiel,CDM 
 9453,V. Jovanovic,66,Termalica Bruk-Bet Nieciecza,CM CDM 
 9454,D. Erdmann,66,1. FC Magdeburg,CB CDM 
-9455,D. Whitehead,66,Huddersfield Town,CM CDM 
+9455,D. Whitehead,66,Huddersfield,CM CDM 
 9456,S. Gorga,66,Chacarita Juniors,CB 
 9457,L. Štetina,66,Sparta Praha,CB 
 9458,J. Karacan,66,Bolton Wanderers,CDM CM 
@@ -9526,7 +9526,7 @@
 9524,H. Sendiero,66,Santiago Wanderers,LB 
 9525,K. Staude,66,DSC Arminia Bielefeld,CAM LM 
 9526,A. Tahar,66,Boavista FC,CM CDM 
-9527,A. Bourceanu,66,Arsenal Tula,CDM CM 
+9527,A. Bourceanu,66,Arsenal F.C. Tula,CDM CM 
 9528,M. Bouziane,66,Hansa Rostock,LW RM LM 
 9529,M. Hairston,66,Colorado Rapids,RB RM 
 9530,R. Harakawa,66,Sagan Tosu,CM 
@@ -9666,7 +9666,7 @@
 9664,G. Viscarra,66,,GK 
 9665,J. Dem,66,Chemnitzer FC,CB CDM 
 9666,I. Lapshov,66,Lokomotiv Moscow,CB 
-9667,B. Mason,66,Watford,LB 
+9667,B. Mason,66,Watford F.C.,LB 
 9668,P. Turpitz,66,1. FC Magdeburg,ST RM 
 9669,A. Ateef,66,Al Shabab,RM CM CDM 
 9670,T. Çamdal,66,Galatasaray SK,LB RB 
@@ -9783,7 +9783,7 @@
 9781,Fernando,66,UD Almeria,GK 
 9782,Kim Dae Ho,66,Pohang Steelers,LB 
 9783,K. Risgård,66,Aalborg BK,CM 
-9784,F. Cardozo,66,Arsenal de Sarandi,LB CB 
+9784,F. Cardozo,66,Arsenal F.C. de Sarandi,LB CB 
 9785,D. Londoño,66,Envigado FC,LB 
 9786,N. Trujic,66,FC Tosno,ST 
 9787,F. Cuvelier,66,Walsall,CAM LM CM 
@@ -9847,7 +9847,7 @@
 9845,S. Sukharev,66,FC Tosno,LB CB 
 9846,J. Pardaneos,66,Club de Deportes Temuco,LM RM 
 9847,M. Könnecke,66,FSV Zwickau,ST CM RM CAM 
-9848,D. Henry,66,West Ham United,CB 
+9848,D. Henry,66,West Ham,CB 
 9849,Y. Baraye,66,Parma,ST CAM LW 
 9850,Sergi Guardiola,66,Córdoba CF,ST 
 9851,S. Şahin-Radlinger,66,Hannover 96,GK 
@@ -10226,7 +10226,7 @@
 10224,Park Yong Woo,65,Ulsan Hyundai Horang-i,CB CDM 
 10225,J. Derstroff,65,SV Sandhausen,RM LM 
 10226,De La Hoz,65,Albacete Balompie,CB CDM 
-10227,H. Bjørdal,65,Brighton & Hove Albion,ST LM RM 
+10227,H. Bjørdal,65,Brighton,ST LM RM 
 10228,A. Hadžiahmetovic,65,Atiker Konyaspor,CDM CAM LM 
 10229,S. Maierhofer,65,SV Mattersburg,ST 
 10230,C. Ramsebner,65,LASK Linz,CB 
@@ -10346,7 +10346,7 @@
 10344,S. Lovric,65,SK Sturm Graz,CM CDM 
 10345,N. Butzen,65,1. FC Magdeburg,RB RM 
 10346,N. Di Roberto,65,Salernitana,LW RW 
-10347,G. Zelalem,65,Arsenal,CDM CAM CM 
+10347,G. Zelalem,65,Arsenal F.C.,CDM CAM CM 
 10348,R. Brown,65,Forest Green,CM LM RM CAM 
 10349,F. Escobar,65,Newell's Old Boys,RB 
 10350,D. Zeefuik,65,Ajax,RB 
@@ -10448,7 +10448,7 @@
 10446,K. Dougall,65,Sparta Rotterdam,LB CM CDM 
 10447,T. Nocchi,65,Perugia,GK 
 10448,M. Ahlschwede,65,Wurzburger FV,RB 
-10449,J. Lolley,65,Huddersfield Town,LM RM 
+10449,J. Lolley,65,Huddersfield,LM RM 
 10450,D. Rodriguez,65,River Plate,CM 
 10451,E. Gural,65,Antalyaspor,ST RM 
 10452,A. Gerrard,65,Oldham Athletic,CB 
@@ -10648,7 +10648,7 @@
 10646,Barros,65,Ventforet Kofu,ST 
 10647,I. Ediev,65,FC SKA-Energiya Khabarovsk,LB RB CB 
 10648,Z. Bytyqi,65,Viking FK,LM RM 
-10649,F. Rašic,65,Arsenal Tula,ST 
+10649,F. Rašic,65,Arsenal F.C. Tula,ST 
 10650,M. Acosta,65,CD Once Caldas Manizales,LM LB 
 10651,Yoon Seung Won,65,FC Seoul,RW 
 10652,C. Lanoas,65,CD Palestino,CB 
@@ -10721,7 +10721,7 @@
 10719,M. Bareiro,65,Defensa y Justicia,CDM CB 
 10720,I. Groothuizen,65,ADO Den Haag,GK 
 10721,J. Gonzalez,65,Necaxa,LM LB 
-10722,M. Calzada,65,Arsenal de Sarandi,CM 
+10722,M. Calzada,65,Arsenal F.C. de Sarandi,CM 
 10723,D. Carney,65,Sydney FC,LB RM LM 
 10724,Ayala,65,Sint-Truidense VV,LB CB 
 10725,E. Miller,65,Colorado Rapids,CB LB RB 
@@ -10816,7 +10816,7 @@
 10814,Y. Nakasaka,65,Vissel Kobe,CM RM RW 
 10815,D. Rose,65,Mansfield Town,ST 
 10816,S. Asamoah,65,Sint-Truidense VV,CDM CAM CM 
-10817,H. Choudhury,65,Leicester City,CM CDM 
+10817,H. Choudhury,65,Leicester,CM CDM 
 10818,P. Velasco,65,,RB 
 10819,M. Maric,65,Lillestrøm SK,GK 
 10820,K. Oi,65,Júbilo Iwata,RB CB 
@@ -10840,7 +10840,7 @@
 10838,D. Burnic,65,VfB Stuttgart,LB CB CDM 
 10839,M. Terrier,65,RC Strasbourg,LW 
 10840,S. Rafn,65,Lillestrøm SK,RM LM 
-10841,P. Santillo,65,Arsenal de Sarandi,GK 
+10841,P. Santillo,65,Arsenal F.C. de Sarandi,GK 
 10842,J. Bolingi,65,Royal Excel Mouscron,ST 
 10843,N. Burns,65,Sanfrecce Hiroshima,LM RW ST 
 10844,P. Terracciano,65,Empoli,GK 
@@ -10851,7 +10851,7 @@
 10849,F. Melara,65,Benevento Calcio,CAM LM RW RM 
 10850,L. Ochoa,65,Atletico Bucaramanga,RB 
 10851,G. Castrovilli,65,Cremonese,CM CAM 
-10852,A. Maitland-Niles,65,Arsenal,CM RM 
+10852,A. Maitland-Niles,65,Arsenal F.C.,CM RM 
 10853,G. Nepomuceno,65,Oldham Athletic,RM LM 
 10854,A. Grant,65,Peterborough United,CM 
 10855,D. McDermott,65,Swindon Town,RM CAM LM 
@@ -10964,7 +10964,7 @@
 10962,J. Núñez,64,Deportivo Pasto,ST RM 
 10963,A. Sorge,64,FSV Zwickau,CB 
 10964,G. Chakvetadze,64,KAA Gent,CAM 
-10965,J. Haugaard,64,Stoke City,GK 
+10965,J. Haugaard,64,Stoke,GK 
 10966,F. Nicastro,64,Foggia,ST LW RW 
 10967,S. O'Donnell,64,Dundalk,CDM CM 
 10968,S. Ameobi,64,Notts County,ST 
@@ -11010,7 +11010,7 @@
 11008,R. López,64,Deportivo Toluca,CF CM 
 11009,E. Grendel,64,Górnik Zabrze,CM CDM 
 11010,B. Wilson,64,Oldham Athletic,RB CB 
-11011,F. Milo,64,Arsenal de Sarandi,LM LB 
+11011,F. Milo,64,Arsenal F.C. de Sarandi,LM LB 
 11012,A. Krešic,64,Avellino,CDM CB 
 11013,L. Šimic,64,Empoli,CB 
 11014,A. Babacan,64,Akhisar Belediyespor,CB RB 
@@ -11082,7 +11082,7 @@
 11080,Ricardo Fernandes,64,CF Os Belenenses,GK 
 11081,R. Jenkins,64,Viking FK,CM 
 11082,K. Rendón,64,Patriotas Boyaca FC,RM CM CAM 
-11083,M. Levashov,64,Arsenal Tula,GK 
+11083,M. Levashov,64,Arsenal F.C. Tula,GK 
 11084,D. Albil,64,Independiente,GK 
 11085,G. Felicioli,64,Hellas Verona,LM LB 
 11086,S. Rudol,64,Pogoń Szczecin,RB CB 
@@ -11396,7 +11396,7 @@
 11394,S. D'Almeida,64,Blackpool,CDM 
 11395,A. Gruber,64,SV Mattersburg,LM 
 11396,Iuliano Alfaro,64,Atletico Clube Goianiense,CAM LM ST 
-11397,A. Gomes,64,Manchester United,CM RW LW CAM 
+11397,A. Gomes,64,Manchester Utd,CM RW LW CAM 
 11398,J. Lipartia,64,FC Anzhi Makhachkala,CAM 
 11399,Z. Alomerovic,64,Korona Kielce,GK 
 11400,Gustavo Hebling,64,Portimonense SC,CDM CM 
@@ -11537,7 +11537,7 @@
 11535,A. Williams,64,Doncaster Rovers,ST 
 11536,D. Starkl,64,FC Admira Wacker Mödling,RM ST LM 
 11537,S. Scherder,64,SC Preußen Munster,CDM CB 
-11538,M. Samuelsen,64,West Ham United,CAM RM 
+11538,M. Samuelsen,64,West Ham,CAM RM 
 11539,M. D'Arpino,64,US Orleans Loiret Football,CDM CM 
 11540,Delmas,64,Real Zaragoza,RB 
 11541,A. Al Khaibari,64,Ettifaq FC,CB 
@@ -11568,7 +11568,7 @@
 11566,A. Čulina,64,FC Lugano,RW 
 11567,W. Vendil,64,Curicó Unido,GK 
 11568,M. Rivero,64,Club Atletico Patronato,CAM CM CDM 
-11569,C. Akpom,64,Arsenal,ST 
+11569,C. Akpom,64,Arsenal F.C.,ST 
 11570,L. Suarez,64,Defensa y Justicia,LB 
 11571,I. Jónsson,64,Sandefjord Fotball,GK 
 11572,D. Mirfin,64,Mansfield Town,CB 
@@ -11655,7 +11655,7 @@
 11653,M. López,64,Envigado FC,ST LM CAM 
 11654,R. Sallai,64,,LW CAM 
 11655,B. Kamara,64,Olympique de Marseille,CDM CB 
-11656,A. Sabiri,64,Huddersfield Town,LM 
+11656,A. Sabiri,64,Huddersfield,LM 
 11657,M. Facchinetti,64,FC Thun,LB 
 11658,Park Jong Jin,64,Incheon United FC,RB RM 
 11659,Rafinha,64,Vitória Setúbal,CAM LM 
@@ -11835,14 +11835,14 @@
 11833,J. Grønner,64,SK Brann,CB 
 11834,M. Modolo,64,F.B.C. Unione Venezia,RB CB 
 11835,H. Artarslan,64,Trabzonspor,CDM 
-11836,S. Field,64,West Bromwich Albion,CDM CM 
+11836,S. Field,64,West Brom,CDM CM 
 11837,Pedrosa,64,Vitória Setúbal,CM CDM 
 11838,N. Rutjes,64,Roda JC Kerkrade,RM RB 
 11839,C. Korb,64,D.C. United,LB RB 
 11840,P. Tsintotas,64,AEK Athens,GK 
 11841,N. Hengelman,64,FC Twente,GK 
 11842,Caio,64,CD Feirense,GK 
-11843,L. Rolón,64,Arsenal de Sarandi,RM 
+11843,L. Rolón,64,Arsenal F.C. de Sarandi,RM 
 11844,S. Abalo,64,Rio Ave FC,CB CDM 
 11845,M. Kuzmin,64,Dinamo Moscow,CDM CM 
 11846,F. Fendrich,64,Jönköpings Södra IF,CM CDM 
@@ -11938,7 +11938,7 @@
 11936,T. Craig,64,Millwall,CB LB 
 11937,S. Monaco,64,Perugia,CB 
 11938,C. Amissi,64,Al Taawoun,ST 
-11939,D. Mitchell,64,Manchester United,LM LB 
+11939,D. Mitchell,64,Manchester Utd,LM LB 
 11940,K. Zachariassen,64,Sarpsborg 08 FF,LM CM 
 11941,L. Erwin,64,Kilmarnock,ST 
 11942,H. Abe,64,Kashima Antlers,RM LM ST 
@@ -12398,18 +12398,18 @@
 12396,L. Gómez,63,Banfield,CDM CM RM 
 12397,R. Finn,63,Shamrock Rovers,CAM CM 
 12398,H. Al Hazaa,63,Ettifaq FC,LM ST 
-12399,T. Moore,63,Arsenal,RB 
+12399,T. Moore,63,Arsenal F.C.,RB 
 12400,R. Yamanaka,63,Yokohama F. Marinos,LM LB 
-12401,G. Del Castillo,63,Arsenal de Sarandi,ST 
+12401,G. Del Castillo,63,Arsenal F.C. de Sarandi,ST 
 12402,C. Traore,63,La Berrichonne de Châteauroux,RB 
 12403,R. Weir,63,Chesterfield,CDM CM 
 12404,J. Karlström,63,Djurgårdens IF,CAM RM CM 
 12405,J. Lloreda,63,Deportes Tolima,ST 
 12406,B. Graham,63,Cheltenham Town,ST 
-12407,C. Gribbin,63,Manchester United,RW LW CAM 
+12407,C. Gribbin,63,Manchester Utd,RW LW CAM 
 12408,Lee Ji Nam,63,Jeonnam Dragons,CB 
 12409,R. Descamps,63,Paris Saint-Germain,GK 
-12410,Z. Dearnley,63,Manchester United,RM LM ST 
+12410,Z. Dearnley,63,Manchester Utd,RM LM ST 
 12411,A. Ludwig,63,AC Horsens,CB 
 12412,L. Rodriguez,63,Tiburones Rojos de Veracruz,LM LB 
 12413,N. Balogh,63,Palermo,ST 
@@ -12498,7 +12498,7 @@
 12496,M. Şengezer,63,Bursaspor,GK 
 12497,A. ozturk,63,FSV Zwickau,CM RM LM ST 
 12498,Sarriegi,63,SD Eibar,CM 
-12499,J. Reine-Adelaïde,63,Arsenal,CAM RM 
+12499,J. Reine-Adelaïde,63,Arsenal F.C.,CAM RM 
 12500,Barbosa,63,Ferrara (SPAL),ST 
 12501,M. Małkowski,63,Sandecja Nowy Sącz,LM 
 12502,G. Muller,63,1. FC Magdeburg,ST LM CAM 
@@ -12544,7 +12544,7 @@
 12542,D. Poggenberg,63,MSV Duisburg,CB LB 
 12543,J. Flores,63,,LB 
 12544,A. Potter,63,Mansfield Town,RM LM 
-12545,K. Berkhamov,63,Arsenal Tula,LM CAM CDM CM 
+12545,K. Berkhamov,63,Arsenal F.C. Tula,LM CAM CDM CM 
 12546,D. Savage,63,HJK Helsinki,RW LW 
 12547,C. Burgess,63,Scunthorpe United,CB 
 12548,R. Neudecker,63,FC St. Pauli,LB CM 
@@ -12586,7 +12586,7 @@
 12584,T. Karagounis,63,PEC Zwolle,RM 
 12585,A. Brunst,63,1. FC Magdeburg,GK 
 12586,R. Aabid,63,Paris FC,LW RM 
-12587,S. McTominay,63,Manchester United,ST CM 
+12587,S. McTominay,63,Manchester Utd,ST CM 
 12588,O. Lee,63,Luton Town,CDM CM 
 12589,Lee Woo Hyeok,63,GwangJu FC,CM 
 12590,J. Solberg,63,Sandefjord Fotball,LB LWB 
@@ -12704,7 +12704,7 @@
 12702,Dani Molina,63,RC Celta de Vigo,CAM CDM 
 12703,J. Sabbatini,63,FC Lugano,CDM CM 
 12704,F. Hansch,63,Chemnitzer FC,RM CF ST 
-12705,I. Gorbatenko,63,Arsenal Tula,LM CM 
+12705,I. Gorbatenko,63,Arsenal F.C. Tula,LM CM 
 12706,S. Slocombe,63,Bristol Rovers,GK 
 12707,Kim Dae Gyeong,63,Incheon United FC,LB RM 
 12708,T. Deng,63,Melbourne Victory,CB 
@@ -12737,7 +12737,7 @@
 12735,K. Shelton,63,New York City Football Club,ST RM RW 
 12736,Thierry Graça,63,Estoril Praia,GK 
 12737,J. Whatmough,63,Portsmouth,CDM CB 
-12738,G. Thomas,63,Leicester City,ST RM 
+12738,G. Thomas,63,Leicester,ST RM 
 12739,T. Warschewski,63,SC Preußen Munster,ST 
 12740,J. O'Toole,63,Northampton Town,CDM CM 
 12741,T. Kortegaard,63,AC Horsens,RM LB 
@@ -12935,7 +12935,7 @@
 12933,N. Sugai,62,Vegalta Sendai,RB RM 
 12934,S. Anchoverri,62,Bahia Blanca,GK 
 12935,A. Sissako,62,AJ Auxerre,CM 
-12936,R. Hill,62,Stoke City,CM 
+12936,R. Hill,62,Stoke,CM 
 12937,A. Mayorga,62,Guadalajara,LB 
 12938,J. Sanchez,62,Atletico Bucaramanga,LM ST 
 12939,A. Łukasiewicz,62,Arka Gdynia,CDM 
@@ -13047,7 +13047,7 @@
 13045,B. Murphy,62,St. Patrick's Athletic,GK 
 13046,M. Maloca,62,Al Faisaly,CDM 
 13047,R. Matsuda,62,Cerezo Osaka,RB 
-13048,D. Iversen,62,Leicester City,GK 
+13048,D. Iversen,62,Leicester,GK 
 13049,D. Caddy,62,US Quevilly-Rouen,ST 
 13050,F. Lončaric,62,Tromsø IL,GK 
 13051,I. Faraj,62,LOSC Lille,LW RW 
@@ -13091,7 +13091,7 @@
 13089,M. Engelhardt,62,Eintracht Braunschweig,GK 
 13090,E. Şehit,62,Gençlerbirligi SK,CAM 
 13091,C. Mauersberger,62,FSV Zwickau,RM CM CAM 
-13092,R. Contreras,62,Arsenal de Sarandi,ST 
+13092,R. Contreras,62,Arsenal F.C. de Sarandi,ST 
 13093,Y. Kobayashi,62,Sagan Tosu,RB 
 13094,N. Bajrami,62,Grasshopper Club Zurich,CAM CM 
 13095,B. Knott,62,Lincoln City,CM 
@@ -13099,7 +13099,7 @@
 13097,G. Docherty,62,Hamilton Academical FC,CM 
 13098,L. Escorcia,62,Jaguares Fútbol Club,CB 
 13099,R. Diarra,62,AS Monaco,CB 
-13100,Toni Martinez,62,West Ham United,ST 
+13100,Toni Martinez,62,West Ham,ST 
 13101,F. Wagner,62,FSV Zwickau,ST CM 
 13102,J. Gammelby,62,Silkeborg IF,CM RB 
 13103,D. Keita-Ruel,62,SC Fortuna Köln,LW CF ST 
@@ -13116,7 +13116,7 @@
 13114,I. Azzaoui,62,Willem II,RM LM 
 13115,Kim Jung Hwan,62,FC Seoul,RW RM 
 13116,J. Sartiaguin,62,Deportivo Toluca,CM LB 
-13117,J. Gorenc Stankovic,62,Huddersfield Town,CB 
+13117,J. Gorenc Stankovic,62,Huddersfield,CB 
 13118,J. Ramirez,62,CD Once Caldas Manizales,CB 
 13119,Roger Figueras,62,Gimnàstic de Tarragona,CM CDM CB 
 13120,Cristian,62,SD Eibar,CDM CB 
@@ -13165,7 +13165,7 @@
 13163,J. Arrieta,62,Jaguares Fútbol Club,RM ST 
 13164,T. Hawkridge,62,Notts County,LM RM 
 13165,T. Denton,62,Port Vale,LB 
-13166,J. Ibañez,62,Arsenal de Sarandi,LM 
+13166,J. Ibañez,62,Arsenal F.C. de Sarandi,LM 
 13167,A. Zamudio,62,U.N.A.M.,CAM 
 13168,B. Kraev,62,FC Midtjylland,LM CM CAM 
 13169,N. Hunt,62,Notts County,CB RB 
@@ -13252,14 +13252,14 @@
 13250,T. Eaves,62,Gillingham,ST 
 13251,Kim Young Chan,62,Jeonbuk Hyundai Motors,CB 
 13252,M. Rodriguez,62,SG Sonnenhof Großaspach,LW RW ST 
-13253,D. Bachmann,62,Watford,GK 
+13253,D. Bachmann,62,Watford F.C.,GK 
 13254,D. Olsson,62,GIF Sundsvall,LWB 
 13255,R. Muirhead,62,Milton Keynes Dons,CAM LM ST 
 13256,L. Martinez,62,Tigres U.A.N.L.,CDM 
 13257,S. Nkansah,62,Eintracht Braunschweig,LB RB CB 
 13258,Emanuel Novo,62,Grupo Desportivo de Chaves,GK 
 13259,A. Jallow,62,FC Metz,LM RM 
-13260,E. Purita,62,Arsenal de Sarandi,RB RM 
+13260,E. Purita,62,Arsenal F.C. de Sarandi,RB RM 
 13261,A. Hyodo,62,Ventforet Kofu,CDM CM 
 13262,A. Laukart,62,FC Twente,CM CAM 
 13263,J. Villalba,62,Borussia Mönchengladbach,ST 
@@ -13313,7 +13313,7 @@
 13311,D. Choinière,62,Montreal Impact,CAM LM 
 13312,E. Mašovic,62,Club Brugge KV,CDM CB 
 13313,G. Leigh,62,Bury,LWB LB 
-13314,S. Velazquez,62,Arsenal de Sarandi,RB RM CM 
+13314,S. Velazquez,62,Arsenal F.C. de Sarandi,RB RM CM 
 13315,J. Baez,62,Pescara,ST LW 
 13316,F. Luckeneder,62,LASK Linz,CB 
 13317,K. Watson,62,St. Johnstone FC,RB 
@@ -13403,7 +13403,7 @@
 13401,M. Nalepa,62,Arka Gdynia,CDM 
 13402,T. Nydam,62,Ipswich Town,LB CM 
 13403,Bae Jae Woo,62,Jeju United FC,LB RB 
-13404,R. Palermo,62,Arsenal de Sarandi,ST 
+13404,R. Palermo,62,Arsenal F.C. de Sarandi,ST 
 13405,N. Julan,62,Le Havre AC,ST 
 13406,D. Schmid,62,FC Basel,CM CAM 
 13407,A. Kiwomya,62,Doncaster Rovers,RM 
@@ -13453,7 +13453,7 @@
 13451,Jeon Hyeon Chul,62,Daegu FC,ST CAM 
 13452,M. Rose,62,Morecambe,CDM CM 
 13453,J. White,62,Southend United,CB RB 
-13454,Domingos Quina,62,West Ham United,LM CM CAM 
+13454,Domingos Quina,62,West Ham,LM CM CAM 
 13455,M. Bundu,62,Aarhus GF,ST 
 13456,W. Sery,62,US Quevilly-Rouen,CB 
 13457,J. Ferretti,62,Ternana,RB 
@@ -13656,7 +13656,7 @@
 13654,A. Lassiter,62,LA Galaxy,ST 
 13655,F. Gytkjær,62,FK Haugesund,CAM ST 
 13656,G. Arteaga,62,Santos Laguna,LB 
-13657,K. Bielik,62,Arsenal,CDM CB 
+13657,K. Bielik,62,Arsenal F.C.,CDM CB 
 13658,M. Nakkim,62,Vålerenga Fotball,CB 
 13659,P. Szymiński,62,Palermo,CB 
 13660,H. Wingo,62,Seattle Sounders FC,RB LM RM 
@@ -13726,7 +13726,7 @@
 13724,E. Dacaj,61,Eintracht Braunschweig,CAM CM 
 13725,A. Morris,61,Gillingham,RB CM CDM 
 13726,S. Pontisso,61,Udinese,CDM CM 
-13727,D. Jarvis,61,Stoke City,CM 
+13727,D. Jarvis,61,Stoke,CM 
 13728,S. Kiyine,61,Salernitana,CM 
 13729,E. Eze,61,SK Sturm Graz,ST 
 13730,S. Jhingan,61,,CB 
@@ -13880,7 +13880,7 @@
 13878,B. Cufre,61,Velez Sarsfield,LB 
 13879,Rômulo,61,Hammarby IF,ST 
 13880,M. O'Hara,61,Dundee FC,RB CAM 
-13881,J. Sinclair,61,Watford,ST 
+13881,J. Sinclair,61,Watford F.C.,ST 
 13882,Joo Hyeon Woo,61,GwangJu FC,RW LW 
 13883,D. Traore,61,Forest Green,CM CDM 
 13884,C. Kenna,61,Bray Wanderers,CB 
@@ -14011,7 +14011,7 @@
 14009,Álex Mozo,61,CD Leganes,CAM CM 
 14010,J. Klinsmann,61,Hertha BSC Berlin,GK 
 14011,P. Hristov,61,Fiorentina,CB 
-14012,A. Sikoev,61,Arsenal Tula,ST 
+14012,A. Sikoev,61,Arsenal F.C. Tula,ST 
 14013,A. Haidara,61,FC Red Bull Salzburg,CDM CM 
 14014,M. Cuisance,61,Borussia Mönchengladbach,CM 
 14015,Xemi,61,Oxford United,LW CAM CM 
@@ -14149,7 +14149,7 @@
 14147,Y. Bonnin,61,Gimnasia y Esgrima La Plata,GK 
 14148,M. Kone,61,FC Zurich,LW ST 
 14149,D. Nothnagel,61,SV Wehen Wiesbaden,RB LB 
-14150,J. Ngoy,61,Stoke City,ST 
+14150,J. Ngoy,61,Stoke,ST 
 14151,K. Baran,61,Termalica Bruk-Bet Nieciecza,GK 
 14152,J. Calistri,61,Chicago Fire Soccer Club,RW ST 
 14153,T. Aupic,61,Paris FC,GK 
@@ -14251,7 +14251,7 @@
 14249,S. Horemans,61,KAA Gent,CB 
 14250,M. Rhead,61,Lincoln City,CF ST 
 14251,I. Bah,61,KV Oostende,ST 
-14252,A. Bradley,61,West Bromwich Albion,CM 
+14252,A. Bradley,61,West Brom,CM 
 14253,R. Kadima,61,AC Ajaccio,CAM CM 
 14254,D. Gape,61,Wycombe Wanderers,CDM CM 
 14255,J. Flores,61,Chesterfield,LM CM 
@@ -14320,7 +14320,7 @@
 14318,O. Hawkins,61,Portsmouth,ST 
 14319,C. MacGillivray,61,Shrewsbury,GK 
 14320,L. Contin,61,Gimnasia y Esgrima La Plata,ST 
-14321,T. Edwards,61,Stoke City,RB 
+14321,T. Edwards,61,Stoke,RB 
 14322,C. Horton,61,D.C. United,GK 
 14323,F. Jagiełło,61,Zagłębie Lubin,CAM 
 14324,A. Confais,61,ES Troyes AC,CDM RB 
@@ -14358,7 +14358,7 @@
 14356,M. Kostyukov,61,Amkar Perm,LM RM 
 14357,A. Blackman,61,Barnet,LB 
 14358,S. Dooley,60,Cork City,RM LM LW 
-14359,M. Aquino,60,Arsenal de Sarandi,GK 
+14359,M. Aquino,60,Arsenal F.C. de Sarandi,GK 
 14360,P. Ghiglione,60,Vercelli,RW 
 14361,L. Robertone,60,Velez Sarsfield,LM 
 14362,M. Duckworth,60,Fleetwood Town,LWB RWB RB 
@@ -14408,7 +14408,7 @@
 14406,Na Sang Ho,60,GwangJu FC,ST 
 14407,T. Dingwall,60,Ross County FC,LM RM CM 
 14408,H. Watson,60,Wellington Phoenix,ST 
-14409,M. Browne,60,West Ham United,CAM 
+14409,M. Browne,60,West Ham,CAM 
 14410,Quintana,60,Levante UD,CM CAM 
 14411,D. Johnstone,60,St. Johnstone FC,ST 
 14412,A. Karnuçu,60,Galatasaray SK,CB CDM 
@@ -14425,7 +14425,7 @@
 14423,S. Londoño,60,Envigado FC,GK 
 14424,M. Litka,60,FC St. Pauli,RM LM 
 14425,H. Shiota,60,Omiya Ardija,GK 
-14426,T. Verlinden,60,Stoke City,RM 
+14426,T. Verlinden,60,Stoke,RM 
 14427,A. La Gumina,60,Palermo,ST 
 14428,M. Sanhaji,60,CD Numancia,CF ST 
 14429,N. Menendez,60,Chacarita Juniors,RM RB 
@@ -14479,7 +14479,7 @@
 14477,Lim Seong Taek,60,Sangju Sangmu FC,CAM RM 
 14478,M. Chouiar,60,RC Lens,ST CAM 
 14479,Loureiro,60,Córdoba CF,RB 
-14480,G. Adzhoev,60,Arsenal Tula,LW ST 
+14480,G. Adzhoev,60,Arsenal F.C. Tula,LW ST 
 14481,M. Peralta,60,Atletico Tucuman,ST 
 14482,N. Obolskiy,60,Dinamo Moscow,ST 
 14483,R. Souici,60,AS Saint-Étienne,CM 
@@ -14520,9 +14520,9 @@
 14518,L. Noble,60,Forest Green,CDM CAM CM 
 14519,L. McCullough,60,Doncaster Rovers,RB CB CDM 
 14520,A. Calver,60,Sydney FC,RB CB 
-14521,E. Lecygne,60,Stoke City,CM 
+14521,E. Lecygne,60,Stoke,CM 
 14522,L. Mosevich,60,Argentinos Juniors,CB 
-14523,J. Tymon,60,Stoke City,LB 
+14523,J. Tymon,60,Stoke,LB 
 14524,S. Roa,60,Tigres FC,RB 
 14525,R. Bowman,60,Motherwell,ST 
 14526,S. Vernon,60,Grimsby Town,ST 
@@ -14665,7 +14665,7 @@
 14663,M. Bauer,60,SpVgg Unterhaching,LB CB RB 
 14664,N. Andereggen,60,Unión de Santa Fe,LW ST 
 14665,E. Ndoj,60,Brescia,CM 
-14666,N. Holland,60,West Ham United,RM LM 
+14666,N. Holland,60,West Ham,RM LM 
 14667,M. Ambrosiewicz,60,Górnik Zabrze,RB CDM 
 14668,M. Salem,60,Al Shabab,CB RB 
 14669,Álex Portillo,60,Jönköpings Södra IF,LB CB 
@@ -14750,7 +14750,7 @@
 14748,Choi Bong Jin,60,GwangJu FC,GK 
 14749,K. Yamga,60,Carpi,LW 
 14750,A. McGurk,60,Morecambe,CAM RM ST 
-14751,J. Coleman,60,Huddersfield Town,GK 
+14751,J. Coleman,60,Huddersfield,GK 
 14752,E. Zhegrova,60,KRC Genk,LM RM 
 14753,G. Freitas,60,Atletico Tucuman,CDM 
 14754,D. Pugh,60,Port Vale,LB CM 
@@ -14770,7 +14770,7 @@
 14768,G. Quezada,60,Getafe CF,CM 
 14769,G. Zecca,60,Cremonese,ST LW RW 
 14770,Jeong YeongChong,60,GwangJu FC,RW CAM 
-14771,D. Gyollai,60,Stoke City,GK 
+14771,D. Gyollai,60,Stoke,GK 
 14772,J. Álvarez,60,Monterrey,CAM 
 14773,Luis Muñoz,60,CD Lugo,RB CB 
 14774,L. Norris,60,Swindon Town,ST 
@@ -14782,7 +14782,7 @@
 14780,D. Vanzeir,60,KRC Genk,ST RM 
 14781,J. Maja,60,Sunderland,ST 
 14782,D. Phillips,60,Charlton Athletic,GK 
-14783,O. Shenton,60,Stoke City,CM 
+14783,O. Shenton,60,Stoke,CM 
 14784,M. Muller,60,Morecambe,CDM CB 
 14785,I. Ben Khemis,60,Doncaster Rovers,CM 
 14786,A. Vrenezi,60, SSV Jahn Regensburg,LM 
@@ -14951,7 +14951,7 @@
 14949,T. Uzan,60,Rot-Weiß Erfurt,ST 
 14950,Victor Narro,60,Villarreal CF,ST 
 14951,P. Wlazło,60,Jagiellonia Białystok,RM CAM 
-14952,M. Folivi,60,Watford,ST 
+14952,M. Folivi,60,Watford F.C.,ST 
 14953,P. Szarek,60,Termalica Bruk-Bet Nieciecza,CB 
 14954,J. Tyson,60,Western Sydney Wanderers,GK 
 14955,J. Palacios,60,Tigres FC,LM RM RW 
@@ -15077,7 +15077,7 @@
 15075,C. Jordan,59,Bournemouth,CB 
 15076,M. Al Khodary,59,Al Batin,CM CDM 
 15077,T. Heardman,59,Bury,ST 
-15078,H. Souttar,59,Stoke City,CB 
+15078,H. Souttar,59,Stoke,CB 
 15079,B. Gschweidl,59,Wolfsberger AC,ST 
 15080,J. Lyden,59,Aston Villa,CM 
 15081,D. Parra,59,Monterrey,LB 
@@ -15102,7 +15102,7 @@
 15100,P. Haginge,59,orebro SK,LB RB 
 15101,K. Ikeda,59,Sagan Tosu,ST CF 
 15102,L. Chaves,59,Argentinos Juniors,GK 
-15103,R. Nelson,59,Arsenal,RM 
+15103,R. Nelson,59,Arsenal F.C.,RM 
 15104,M. Šverko,59,1. FSV Mainz 05,LB 
 15105,J. Cortes,59,Atletico Bucaramanga,ST 
 15106,R. Marin,59,Club America,ST 
@@ -15131,7 +15131,7 @@
 15129,S. Woudstra,59,PEC Zwolle,RB 
 15130,J. Parker,59,Gillingham,RM ST 
 15131,P. Dimitriou,59,Bourg en Bresse Peronnas 01,LB 
-15132,D. Johnson,59,Leicester City,RB CB 
+15132,D. Johnson,59,Leicester,RB CB 
 15133,D. Southwell,59,Wycombe Wanderers,RW ST 
 15134,N. Kabamba,59,Colchester United,ST 
 15135,D. Ryan,59,Willem II,LB CB 
@@ -15317,7 +15317,7 @@
 15315,L. Ranieri,59,Fiorentina,LB 
 15316,R. Marcone,59,Vercelli,GK 
 15317,J. Wright,59,Sheffield United,ST 
-15318,D. Rice,59,West Ham United,CB CDM 
+15318,D. Rice,59,West Ham,CB CDM 
 15319,S. Camargo,59,Toronto FC,CM CDM 
 15320,Song Yoo Gul,59,Gangwon FC,GK 
 15321,V. Stenzel,59,Hallescher FC,LM RM 
@@ -15408,13 +15408,13 @@
 15406,F. Roman,59,CD Los Millionarios Bogota,RB 
 15407,N. Gutjahr,59,SG Sonnenhof Großaspach,CM 
 15408,D. Moreno,59,Envigado FC,CAM CM 
-15409,E. Nketiah,59,Arsenal,ST 
+15409,E. Nketiah,59,Arsenal F.C.,ST 
 15410,I. Cisse,59,Paris FC,CAM ST 
 15411,K. Kitamoto,59,Vissel Kobe,CB 
 15412,J. Pendant,59,FC Sochaux-Montbeliard,LB 
 15413,N. Barthelemy,59,US Quevilly-Rouen,CAM 
 15414,L. Tempelmann,59,SC Freiburg,CDM CM 
-15415,M. Velazco,59,Arsenal de Sarandi,GK 
+15415,M. Velazco,59,Arsenal F.C. de Sarandi,GK 
 15416,C. Ogilvie,59,Gillingham,LB 
 15417,H. Beautyman,59,Stevenage,CM RM 
 15418,T. Salquist,59,Silkeborg IF,CB 
@@ -15478,7 +15478,7 @@
 15476,O. Filip,59,SK Sturm Graz,RM 
 15477,V. Ramis,59,Godoy Cruz,RW RM ST 
 15478,J. Jones,59,Crewe Alexandra,CM 
-15479,T. Bola,59,Arsenal,CB 
+15479,T. Bola,59,Arsenal F.C.,CB 
 15480,K. Stamatopoulos,59,AIK Solna,GK 
 15481,A. Araujo,59,Talleres de Cordoba,RM 
 15482,A. Fleming,59,Morecambe,LM CAM CDM CM 
@@ -15578,14 +15578,14 @@
 15576,L. Saxton,58,GIF Sundsvall,GK 
 15577,Toni Gomes,58,Forest Green,ST 
 15578,J. Gray,58,Yeovil Town,RM CAM CM 
-15579,G. Diangana,58,West Ham United,LM 
+15579,G. Diangana,58,West Ham,LM 
 15580,M. da Fonte,58,Colorado Rapids,RB CB LB 
 15581,F. Adorni,58,Parma,GK 
 15582,G. Legg,58,Reading,GK 
 15583,M. Foulds,58,Everton,LB CB 
 15584,K. Nagato,58,Vegalta Sendai,LM 
 15585,R. Bartczak,58,Legia Warszawa,RB RM 
-15586,L. Godoy,58,Arsenal de Sarandi,RM 
+15586,L. Godoy,58,Arsenal F.C. de Sarandi,RM 
 15587,C. Manicone,58,FC Lugano,ST 
 15588,Y. Fujita,58,Júbilo Iwata,CB 
 15589,N. Ortiz,58,Gimnasia y Esgrima La Plata,CB 
@@ -15620,7 +15620,7 @@
 15618,K. Matsui,58,Omiya Ardija,GK 
 15619,D. Frieser,58,Wolfsberger AC,CAM LM RB RM 
 15620,P. Silfwer,58,Halmstads BK,CM 
-15621,J. Tilley,58,Brighton & Hove Albion,LM CAM 
+15621,J. Tilley,58,Brighton,LM CAM 
 15622,N. Czornomaz,58,Defensa y Justicia,LM 
 15623,J. Hendry,58,Dundee FC,CB 
 15624,S. Mauritz-Hansen,58,Stabæk Fotball,ST 
@@ -15655,7 +15655,7 @@
 15653,E. Dsane,58,Finn Harps,LM LW ST 
 15654,V. Onovo,58,HJK Helsinki,CM 
 15655,L. Italiano,58,Wellington Phoenix,GK 
-15656,J. Molumby,58,Brighton & Hove Albion,CM 
+15656,J. Molumby,58,Brighton,CM 
 15657,R. Ariza,58,Alianza Petrolera,LM 
 15658,T. Cordner,58,Bournemouth,CB 
 15659,J. Hodek,58,FSV Zwickau,CM CAM CDM 
@@ -15671,7 +15671,7 @@
 15669,L. Montipó,58,Novara,GK 
 15670,O. Escalante,58,Tigres FC,CDM CB 
 15671,M. Kitching,58,Rochdale,CM CB 
-15672,L. Ndukwu,58,Leicester City,RM 
+15672,L. Ndukwu,58,Leicester,RM 
 15673,E. Montaño,58,Tigres FC,LB 
 15674,L. Grill,58,1. FC Kaiserslautern,GK 
 15675,O. Hawsawi,58,Ohod Club,CB 
@@ -15734,7 +15734,7 @@
 15732,C. Velasquez,58,Jaguares Fútbol Club,ST 
 15733,M. Peano,58,Unión de Santa Fe,GK 
 15734,D. Pietrzkiewicz,58,Sandecja Nowy Sącz,GK 
-15735,J. Debayo,58,Leicester City,LB 
+15735,J. Debayo,58,Leicester,LB 
 15736,Y. Andzouana,58,Girona CF,LM 
 15737,H. Bande,58,KV Mechelen,ST 
 15738,H. Narzary,58,,RM ST 
@@ -15852,12 +15852,12 @@
 15850,Vinicius,58,Corporación Club Deportivo Tulua,LB 
 15851,A. Power,58,Kilmarnock,CDM CM 
 15852,R. Callachan,58,Heart of Midlothian,RM CM 
-15853,A. Denisov,58,Arsenal Tula,CB 
+15853,A. Denisov,58,Arsenal F.C. Tula,CB 
 15854,V. Myhra,58,Odds BK,GK 
 15855,C. Rabitsch,58,Wolfsberger AC,CDM CM 
 15856,L. Desmond,58,St. Patrick's Athletic,CDM CM CB 
 15857,A. Bassi,58,AS Nancy Lorraine,CAM 
-15858,M. Carabajal,58,Arsenal de Sarandi,CB 
+15858,M. Carabajal,58,Arsenal F.C. de Sarandi,CB 
 15859,G. Banguera,58,Atletico Huila,GK 
 15860,M. Sevimler,58,Alanyaspor,ST 
 15861,A. Bifulco,58,Vercelli,CM RM 
@@ -15915,7 +15915,7 @@
 15913,Pablo Cacharrón,58,CD Lugo,GK 
 15914,A. Georgiou,58,Tottenham,LB LM 
 15915,I. Rodriguez,58,Puebla,GK 
-15916,M. Melbourne,58,West Bromwich Albion,LB 
+15916,M. Melbourne,58,West Brom,LB 
 15917,M. Gashchenkov,58,Amkar Perm,LM 
 15918,D. Tarpey,58,Barnet,ST 
 15919,P. Kavanagh,58,Bohemian FC,RM 
@@ -15959,7 +15959,7 @@
 15957,J. Serafin,58,FK Haugesund,CAM CM 
 15958,R. Ferreira,58,Temperley,RB 
 15959,D. Foran,58,Bray Wanderers,CB 
-15960,D. Kemp,58,West Ham United,RM 
+15960,D. Kemp,58,West Ham,RM 
 15961,J. Padilla,58,Pachuca,RW 
 15962,M. Villasanti,58,Temperley,RM CM 
 15963,G. Kelly,58,St. Patrick's Athletic,RB CM 
@@ -15976,7 +15976,7 @@
 15974,T. Marijnissen,58,NAC Breda,CAM RM 
 15975,Yoo Han Sol,58,Suwon Samsung Bluewings,RB 
 15976,E. Bostancı,58,Willem II,ST LM 
-15977,A. Muskwe,58,Leicester City,ST 
+15977,A. Muskwe,58,Leicester,ST 
 15978,B. Levis,58,Vancouver Whitecaps FC,LM LB 
 15979,A. Settembrini,58,Cittadella,CM 
 15980,A. Karazor,58,Holstein Kiel,CDM 
@@ -15984,7 +15984,7 @@
 15982,E. Plummer,58,Motherwell,LB CB 
 15983,M. Døhr Thychosen,58,AC Horsens,ST RM RB 
 15984,L. Ketterer,58,Columbus Crew SC,GK 
-15985,K. Jameson,58,West Bromwich Albion,CB 
+15985,K. Jameson,58,West Brom,CB 
 15986,W. Sarr,58,Rot-Weiß Erfurt,CB LB 
 15987,M. Brouwer,58,Heracles Almelo,GK 
 15988,C. Weston,58,Barnet,CAM CM 
@@ -16087,7 +16087,7 @@
 16085,J. McKay,57,Leeds United,ST 
 16086,S. Dahlström,57,HJK Helsinki,CM 
 16087,N. Mortensen,57,FC Helsingør,ST 
-16088,A. Berezin,57,Arsenal Tula,GK 
+16088,A. Berezin,57,Arsenal F.C. Tula,GK 
 16089,P. McKay,57,Leeds United,CB 
 16090,T. Elšnik,57,Swindon Town,LM 
 16091,D. Rasak,57,Wisła Płock,CDM 
@@ -16096,7 +16096,7 @@
 16094,O. Sterling-James,57,Mansfield Town,RM ST 
 16095,J. Doyle,57,Blackburn Rovers,LM LB 
 16096,P. Mazzocchi,57,Parma,RW 
-16097,G. Ferreyra,57,Arsenal de Sarandi,RB 
+16097,G. Ferreyra,57,Arsenal F.C. de Sarandi,RB 
 16098,M. Harzan,57,Ohod Club,CM 
 16099,G. Maris,57,Cambridge United,LM 
 16100,M. Juel Andersen,57,Brøndby IF,CB 
@@ -16168,7 +16168,7 @@
 16166,J. Thorsen,57,AC Horsens,LB RB CM 
 16167,O. Krusnell,57,Hammarby IF,LB 
 16168,Wanderson,57,AFC Eskilstuna,CM 
-16169,R. McCourt,57,West Bromwich Albion,LB 
+16169,R. McCourt,57,West Brom,LB 
 16170,A. Bass,57,Portsmouth,GK 
 16171,B. Martinez,57,Queretaro,RW 
 16172,K. Scherbakov,57,Spartak Moscow,LB CB RB 
@@ -16254,7 +16254,7 @@
 16252,M. Kelly,57,Bristol Rovers,LB 
 16253,H. Arellano,57,LA Galaxy,CB 
 16254,N. Burgy,57,FC Thun,CB 
-16255,S. Lomónaco,57,Arsenal de Sarandi,ST 
+16255,S. Lomónaco,57,Arsenal F.C. de Sarandi,ST 
 16256,B. Kasprzak,57,Sandecja Nowy Sącz,CDM CM 
 16257,A. Peñaranda,57,Corporación Club Deportivo Tulua,ST 
 16258,A. Azbague,57,Valenciennes FC,LM 
@@ -16316,13 +16316,13 @@
 16314,B. Fox,57,Burton Albion,CM 
 16315,A. Kovačevic,57,Korona Kielce,CB 
 16316,T. Chakwana,57,Burnley,RM 
-16317,Y. Ivakin,57,Arsenal Tula,RM 
-16318,P. Borisov,57,Arsenal Tula,LB 
+16317,Y. Ivakin,57,Arsenal F.C. Tula,RM 
+16318,P. Borisov,57,Arsenal F.C. Tula,LB 
 16319,S. Pedersen,57,Stabæk Fotball,ST 
 16320,I. Al Shehri,57,Al Ittihad,LM 
 16321,O. Jackson,57,Milton Keynes Dons,CB 
 16322,A. Hoven,57,Strømsgodset IF,RM ST 
-16323,D. Buranov,57,Arsenal Tula,CM CDM 
+16323,D. Buranov,57,Arsenal F.C. Tula,CM CDM 
 16324,J. Crowe,57,Limerick FC,RB CB 
 16325,S. Akinola,57,Barnet,LM CAM 
 16326,C. Hendry,57,St. Johnstone FC,ST 
@@ -16351,16 +16351,16 @@
 16349,R. Jendrusch,57,FC Erzgebirge Aue,GK 
 16350,Dudu,57,Kashiwa Reysol,ST 
 16351,M. Jackson,57,Newport County,ST 
-16352,D. Cogill,57,Huddersfield Town,LB CB 
+16352,D. Cogill,57,Huddersfield,LB CB 
 16353,N. Herranz,57,Bahia Blanca,CB 
 16354,K. Wootton,57,Stevenage,ST 
 16355,D. López,57,Club Tijuana,ST 
 16356,D. Margush,57,Adelaide United,GK 
 16357,S. Haugen,57,Odds BK,ST 
 16358,C. Yıldız,57,İstanbul Başakşehir FK,RM CDM 
-16359,A. Yarmolitskiy,57,Arsenal Tula,CB LB 
+16359,A. Yarmolitskiy,57,Arsenal F.C. Tula,CB LB 
 16360,T. Akahoshi,57,Sagan Tosu,GK 
-16361,N. Trott,57,West Ham United,GK 
+16361,N. Trott,57,West Ham,GK 
 16362,R. Lowry,57,Wellington Phoenix,RB LB CB 
 16363,T. Muramatsu,57,Shimizu S-Pulse,CB CDM 
 16364,S. Smith,57,Reading,ST 
@@ -16632,9 +16632,9 @@
 16630,M. Al Olayan,56,Al Taawoun,CDM 
 16631,Y. Vandersmissen,56,Sint-Truidense VV,LB 
 16632,J. Edwards,56,Accrington Stanley,ST 
-16633,R. Normatov,56,Arsenal Tula,RB 
+16633,R. Normatov,56,Arsenal F.C. Tula,RB 
 16634,V. Aleynikov,56,Amkar Perm,CDM 
-16635,A. Osipov,56,Arsenal Tula,CB 
+16635,A. Osipov,56,Arsenal F.C. Tula,CB 
 16636,T. Sibbick,56,AFC Wimbledon,RB CB 
 16637,C. Ainley,56,Crewe Alexandra,CAM RM 
 16638,J. Bonner,56,Finn Harps,LM CM 
@@ -16795,7 +16795,7 @@
 16793,L. Zaragoza,55,Cruz Azul,LW 
 16794,C. Cooke,55,Blackpool,CM CAM 
 16795,M. Leacock-McLeod,55,Accrington Stanley,LM RM 
-16796,F. Bolkiah,55,Leicester City,LM RM 
+16796,F. Bolkiah,55,Leicester,LM RM 
 16797,H. Ishikawa,55,Sagan Tosu,CM 
 16798,E. Selen,55,Evkur Yeni Malatyaspor,GK 
 16799,Y. Gómez,55,Independiente Medellin,GK 
@@ -16864,7 +16864,7 @@
 16862,C. Senior,55,Colchester United,ST RM 
 16863,K. Muskwe,55,Rotherham United,ST 
 16864,J. Nuttall,55,Blackburn Rovers,ST 
-16865,A. Palmer,55,West Bromwich Albion,GK 
+16865,A. Palmer,55,West Brom,GK 
 16866,S. Hernandez,55,Club Atlas,GK 
 16867,N. Ishikawa,55,F.C. Tokyo,RW 
 16868,R. Fitzsimons,55,Notts County,GK 
@@ -16889,7 +16889,7 @@
 16887,F. Sule,55,Bohemian FC,CDM 
 16888,Yun Pyeong Gook,55,GwangJu FC,GK 
 16889,R. Guitane,55,Le Havre AC,CAM 
-16890,Robert Sanchez,55,Brighton & Hove Albion,GK 
+16890,Robert Sanchez,55,Brighton,GK 
 16891,S. Kinsella,55,Dundalk,LW 
 16892,S. Tracy,55,Limerick FC,LM LB 
 16893,Ahn Sang Min,55,Gangwon FC,RW RM 
@@ -16939,11 +16939,11 @@
 16937,I. Varone,55,Ternana,CAM CM 
 16938,D. Vambolt,55,Amkar Perm,GK 
 16939,A. Al Amri,55,Al Ittihad,GK 
-16940,D. Doronin,55,Arsenal Tula,CM CDM 
+16940,D. Doronin,55,Arsenal F.C. Tula,CM CDM 
 16941,G. Jarl,55,AFC Eskilstuna,RB 
 16942,L. Gallagher,55,Drogheda United,CB 
 16943,E. Race,55,Stabæk Fotball,RB 
-16944,E. Pierce,55,West Bromwich Albion,ST 
+16944,E. Pierce,55,West Brom,ST 
 16945,M. Adamonis,55,Salernitana,GK 
 16946,C. Olesen,55,SønderjyskE,ST 
 16947,S. Nombe,55,Milton Keynes Dons,ST 
@@ -16956,7 +16956,7 @@
 16954,S. Tonks,55,Walsall,RB 
 16955,D. Yearwood,55,Southend United,CM 
 16956,A. Al Sharid,55,Al Taawoun,CM CDM 
-16957,A. Connolly,55,Brighton & Hove Albion,ST 
+16957,A. Connolly,55,Brighton,ST 
 16958,S. Rowley,55,Shrewsbury,GK 
 16959,C. Haas,55,SK Rapid Wien,GK 
 16960,I. Shinozuka,55,Yokohama F. Marinos,CF CAM 
@@ -16998,7 +16998,7 @@
 16996,D. Nussbaumer,54,SCR Altach,CM 
 16997,M. Roseth,54,Molde FK,LB CB 
 16998,T. Holland,54,Limerick FC,GK 
-16999,T. Akinola,54,West Ham United,CB 
+16999,T. Akinola,54,West Ham,CB 
 17000,K. Peda,54,Termalica Bruk-Bet Nieciecza,CAM RM 
 17001,B. Lucumi,54,Deportivo Pasto,CDM 
 17002,M. Bower,54,Cheltenham Town,CB 
@@ -17092,7 +17092,7 @@
 17090,H. Cameron,54,Limerick FC,RM LM 
 17091,L. Marson,54,Sassuolo,GK 
 17092,M. Fernandes,54,Holstein Kiel,LM 
-17093,M. Waddington,54,Stoke City,CM 
+17093,M. Waddington,54,Stoke,CM 
 17094,S. Quigley,54,Blackpool,ST 
 17095,F. Kelleher,54,Oxford United,CB 
 17096,J. Margetts,54,Scunthorpe United,ST 
@@ -17207,7 +17207,7 @@
 17205,L. Reynolds,54,Newport County,ST 
 17206,M. Amick,54,Portland Timbers,CB 
 17207,A. Jones,54,Philadelphia Union,RB 
-17208,T. Ryan,54,Huddersfield Town,GK 
+17208,T. Ryan,54,Huddersfield,GK 
 17209,L. Sutton,54,Scunthorpe United,CM RB 
 17210,E. Osborne,54,Morecambe,CM 
 17211,S. George,54,Carlisle United,GK 
@@ -17290,7 +17290,7 @@
 17288,E. Banza,53,HJK Helsinki,RW 
 17289,O. Al Saleem,53,Ettifaq FC,CB 
 17290,F. Sosa,53,Temperley,ST 
-17291,R. Edmonds-Green,53,Huddersfield Town,CB 
+17291,R. Edmonds-Green,53,Huddersfield,CB 
 17292,K. Yoshimaru,53,Vissel Kobe,GK 
 17293,H. Duman,53,Strømsgodset IF,CDM 
 17294,S. Niang,53,La Berrichonne de Châteauroux,CM 
@@ -17314,9 +17314,9 @@
 17312,P. Aas,53,Tromsø IL,RM 
 17313,J. Barstad,53,Aalesunds FK,CB 
 17314,M. Nilsson,53,Malmö FF,GK 
-17315,D. Kane,53,Huddersfield Town,CB 
+17315,D. Kane,53,Huddersfield,CB 
 17316,M. Al Maqadi,53,Ettifaq FC,ST 
-17317,R. Booty,53,Huddersfield Town,LM CDM 
+17317,R. Booty,53,Huddersfield,LM CDM 
 17318,G. Caccin,53,Cittadella,CM 
 17319,K. Karpieszuk,53,Jagiellonia Białystok,GK 
 17320,J. Moreno,53,CD Los Millionarios Bogota,GK 
@@ -17346,7 +17346,7 @@
 17344,L. Pompilio,53,Foggia,ST 
 17345,D. Borsellini,53,Udinese,GK 
 17346,Erik Sarmiento,53,Manchester City,CM LB 
-17347,R. Schofield,53,Huddersfield Town,GK 
+17347,R. Schofield,53,Huddersfield,GK 
 17348,S. Härtel,53,FC Erzgebirge Aue,LB 
 17349,M. Alluci,53,Virtus Entella,CM 
 17350,V. Michl,53,FC Erzgebirge Aue,LW ST 
@@ -17423,7 +17423,7 @@
 17421,L. Coddington,53,Northampton Town,GK 
 17422,J. McGuire,53,Philadelphia Union,GK 
 17423,K. Sterling,53,Tottenham,ST 
-17424,B. House,53,West Bromwich Albion,GK 
+17424,B. House,53,West Brom,GK 
 17425,A. Al Obud,53,Ettifaq FC,ST 
 17426,A. McCarthy,53,Partick Thistle F.C.,CM 
 17427,M. Baidoo,53,FC Midtjylland,CM 
@@ -17471,7 +17471,7 @@
 17469,W. Hajda,52,Górnik Zabrze,CDM CB 
 17470,A. Singh,52,,GK 
 17471,J. Penrice,52,Partick Thistle F.C.,LB 
-17472,J. Boyle,52,Huddersfield Town,LM RM CAM 
+17472,J. Boyle,52,Huddersfield,LM RM CAM 
 17473,Jeong Seung Won,52,Daegu FC,RW 
 17474,R. Dingwall,52,Ross County FC,ST 
 17475,S. Schmidt,52,FC Carl Zeiss Jena,GK 
@@ -17525,7 +17525,7 @@
 17523,S. Hausner,52,Aarhus GF,CB 
 17524,S. Blake,52,Bristol Rovers,RB 
 17525,C. Mulhall,52,Drogheda United,LW ST CAM RW 
-17526,A. Rivero,52,Arsenal de Sarandi,GK 
+17526,A. Rivero,52,Arsenal F.C. de Sarandi,GK 
 17527,A. Dønnum,52,Vålerenga Fotball,CM 
 17528,M. Harness,52,Port Vale,RW RM 
 17529,S. Ingolitsch,52,SKN St. Pölten,RWB RB 
@@ -17773,7 +17773,7 @@
 17771,O. Byrne,50,Cardiff City,GK 
 17772,T. Jacobsen,50,SønderjyskE,RM 
 17773,C. Metcalfe,50,Melbourne City,CM 
-17774,E. Ross,50,West Bromwich Albion,GK 
+17774,E. Ross,50,West Brom,GK 
 17775,J. Walton,50,Barnsley,GK 
 17776,S. Hornby,50,Port Vale,GK 
 17777,T. Totland,50,Sogndal,LB 

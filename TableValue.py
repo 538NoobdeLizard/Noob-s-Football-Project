@@ -1,7 +1,9 @@
 import csv
+from tabulate import tabulate
 from difflib import get_close_matches
 
 positions = []
+codes = []
 
 with open('PlayerPositions.csv') as csvfile:
      PlayerPositions = csv.reader(csvfile, delimiter=',')
@@ -24,15 +26,17 @@ events = []
 with open('final_events.tsv') as csvfile:
      eventss = csv.reader(csvfile, delimiter='\t')
      for row in eventss:
-        row[0] =row[0].split(",")[0:3]
+        row[0] =row[0].split(",")[0:4]
         events.append(row)   
         #print row
+        codes.append(row[0][0])
 
 def TS(time,hplrs,aplrs):
     ho = 0
     hd = 0
     ao = 0
     ad = 0
+    #print time,hplrs,aplrs
     for a in hplrs[0]:            
         ho += a[0] * ((time-a[1])*-4/9 + 100)/100
     for a in hplrs[1]:            
@@ -44,9 +48,11 @@ def TS(time,hplrs,aplrs):
     #h = inh * ((time-pupdate)*-4/9 + 100)/100
     #hSPI = r[0] * ((time)*-4/9 + 100)/100 - r[3] * ((time)*-4/9 + 100)/100
     #aSPI = r[2] * ((time)*-4/9 + 100)/100 - r[1] * ((time)*-4/9 + 100)/100
+
     return(ho,hd,ao,ad)
 
 def searchPlayer(club,name):
+    #print club,name
     poss = []
     poss2 = []
     #print name, club
@@ -59,6 +65,7 @@ def searchPlayer(club,name):
 
     #print name
     ze_name = get_close_matches(name,poss,len(poss), 0)
+    #print ze_name
     #print ze_name
     for i in poss2:
         #print ze_name[0], i[1]
@@ -102,7 +109,7 @@ def putMatchinTable(parts,matchCode):
     t_r = [h/2,h/2,a/2,a/2] #[HOME_OFFENSIVE,HOME_DEFENSIVE,AWAY_OFFENSIVE,AWAY_DEFENSIVE]
     hSPI = t_r[0]-t_r[3]
     aSPI = t_r[2] - t_r[1]'''
-
+    #print h,a
     hplrs = [[[h/10,0],[h/10,0],[h/10,0],[h/20,0],[h/20,0],[h/20,0],[h/20,0],[0,0],[0,0],[0,0]],[[0,0],[0,0],[0,0],[h/20,0],[h/20,0],[h/20,0],[h/20,0],[h/10,0],[h/10,0],[h/10,0]]]
     aplrs = [[[a/10,0],[a/10,0],[a/10,0],[a/20,0],[a/20,0],[a/20,0],[a/20,0],[0,0],[0,0],[0,0]],[[0,0],[0,0],[0,0],[a/20,0],[a/20,0],[a/20,0],[a/20,0],[a/10,0],[a/10,0],[a/10,0]]]
 
@@ -113,12 +120,13 @@ def putMatchinTable(parts,matchCode):
     gd = 0
     pupdate = 0
     #hSPI,aSPI,h,a = 0,0,0,0
-    print len(matchEvents)
+    #print len(matchEvents)
 
     while part!= parts:
         
         for event in matchEvents:
             event[2]=int(event[2])
+            #print event
             '''print event[2],(0+part*minTBC),(part*minTBC+minTBC)
             if event[2]>(0+part*minTBC):
                 print "yeahhhh"
@@ -133,11 +141,88 @@ def putMatchinTable(parts,matchCode):
                         gd += 1
                 elif event[4] == 'sub':
                     #hSPI,aSPI,h,a = TS(event[2],pupdate,hSPI,aSPI,h,a,inh,ina)
+                    #print event
                     pupdate = event[2]
+                    #print aplrs
                     if event[1] == 'away':
                         club = event[0][2]
                         p1 = searchPlayer(club,event[5])
                         p2 = searchPlayer(club,event[6])
+                        tbr = 0
+                        #print p1,p2
+                        if p1 == 'd':
+                            for i in range(7,10):
+                                if aplrs[1][i][1]==0:
+                                    aplrs[1][i][0] = 0
+                                    tbr = i
+                                    break
+                        elif p1 == 'f':
+                            for i in range(0,3):
+                                if aplrs[0][i][1]==0:
+                                    aplrs[0][i][0] = 0
+                                    tbr = i
+                                    break
+                        elif p1 == 'm':
+                            for i in range(3,7):
+                                if aplrs[1][i][1]==0:
+                                    aplrs[1][i][0] = 0
+                                    aplrs[0][i][0] = 0
+                                    tbr = i
+                                    break
+                        if p2 == 'd':
+                            aplrs[1][tbr][0] = a/10
+                            aplrs[1][tbr][1] = event[2]
+                        elif p2 == 'm':
+                            aplrs[1][tbr][0] = a/20
+                            aplrs[0][tbr][0] = a/20
+                            aplrs[0][tbr][1] = event[2]
+                            aplrs[1][tbr][1] = event[2]
+                        elif p2 == 'f':
+                            aplrs[0][tbr][0] = a/10
+                            aplrs[0][tbr][1] = event[2]
+
+                                                        
+                    else:
+                        club = event[0][1]
+                        p1 = searchPlayer(club,event[5])
+                        p2 = searchPlayer(club,event[6])
+                        tbr = 0
+                        if p1 == 'd':
+                            for i in range(7,10):
+                                if hplrs[1][i][1]==0:
+                                    hplrs[1][i][0] = 0
+                                    tbr = i
+                                    break
+                        elif p1 == 'f':
+                            for i in range(0,3):
+                                if hplrs[0][i][1]==0:
+                                    hplrs[0][i][0] = 0
+                                    tbr = i
+                                    break
+                        elif p1 == 'm':
+                            for i in range(3,7):
+                                if hplrs[1][i][1]==0:
+                                    hplrs[1][i][0] = 0
+                                    hplrs[0][i][0] = 0
+                                    tbr = i
+                                    break
+                        if p2 == 'd':
+                            hplrs[1][tbr][0] = h/10
+                            hplrs[1][tbr][1] = event[2]
+                        elif p2 == 'm':
+                            hplrs[1][tbr][0] = h/20
+                            hplrs[0][tbr][0] = h/20
+                            hplrs[0][tbr][1] = event[2]
+                            hplrs[1][tbr][1] = event[2]
+                        elif p2 == 'f':
+                            hplrs[0][tbr][0] = h/10
+                            hplrs[0][tbr][1] = event[2]
+                    #print aplrs
+
+                if event[4] == 'red':
+                    if event[1] == 'away':
+                        club = event[0][2]
+                        p1 = searchPlayer(club,event[5])
                         tbr = 0
                         if p1 == 'd':
                             for i in range(7,10):
@@ -155,22 +240,11 @@ def putMatchinTable(parts,matchCode):
                                     aplrs[1][i][0] = 0
                                     aplrs[0][i][0] = 0
                                     tbr = i
-                        if p2 == 'd':
-                            aplrs[1][tbr][0] = a/10
-                            aplrs[1][tbr][1] = event[2]
-                        elif p2 == 'm':
-                            aplrs[1][tbr][0] = a/20
-                            aplrs[0][tbr][0] = a/20
-                            aplrs[0][tbr][1] = event[2]
-                            aplrs[1][tbr][1] = event[2]
-                        elif p2 == 'f':
-                            aplrs[0][tbr][0] = a/10
-                            aplrs[0][tbr][1] = event[2]
+                        
                                                         
                     else:
                         club = event[0][1]
                         p1 = searchPlayer(club,event[5])
-                        p2 = searchPlayer(club,event[6])
                         tbr = 0
                         if p1 == 'd':
                             for i in range(7,10):
@@ -188,31 +262,29 @@ def putMatchinTable(parts,matchCode):
                                     hplrs[1][i][0] = 0
                                     hplrs[0][i][0] = 0
                                     tbr = i
-                        if p2 == 'd':
-                            hplrs[1][tbr][0] = h/10
-                            hplrs[1][tbr][1] = event[2]
-                        elif p2 == 'm':
-                            hplrs[1][tbr][0] = h/20
-                            hplrs[0][tbr][0] = h/20
-                            hplrs[0][tbr][1] = event[2]
-                            hplrs[1][tbr][1] = event[2]
-                        elif p2 == 'f':
-                            hplrs[0][tbr][0] = h/10
-                            hplrs[0][tbr][1] = event[2]
+                        
                     
-        ho,hd,ao,ad = TS(event[2],hplrs,aplrs)
-        #print h,a
+        #print event
+        ho,hd,ao,ad = TS(minTBC+minTBC*part,hplrs,aplrs)
+                    #print h,a
         pupdate = minTBC+minTBC*part
-        table.append([minTBC+minTBC*part,ho,hd,ao,ad,gd])
-        #print pupdate
+        table.append([event[0][1],event[0][2],minTBC+minTBC*part,ho,hd,ao,ad,gd,event[0][3]])
+                    #print pupdate
         part += 1
     return (table)                
     
     
 
-print putMatchinTable(3,"hCrslmeI")
+#print putMatchinTable(3,"hCrslmeI")tab
 '''for i in range(1,3):
     print i'''
+#print list(set(codes))
+
+for i in list(set(codes)):
+    #print putMatchinTable(10,i)
+    #print tabulate(putMatchinTable(9,i), headers=['HomeTeam', 'AwayTeam', 'Time','HomeOff','HomeDef','AwayOff','AwayDef','Goal Difference','Final Score'])
+    x = putMatchinTable(9,i)[0]
+    print x[0]+','+x[1]+','+str(x[2])+','+str(x[3])+','+str(x[4])+','+str(x[5])+','+str(x[6])+','+str(x[7])
 #print searchPlayer('Swansea', 'Bony W.')                
                     
 
